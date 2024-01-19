@@ -1,0 +1,29 @@
+{
+  "songs": [
+    {
+      "song_id": 13003,
+      "filename": "D.C.fish.mp3",
+      "title": "D.C.fish",
+      "alt_titles": [
+        "DC fish"
+      ],
+      "genre": "TECHNO",
+      "artist": "DJ MURASAME"
+    },
+    {
+      "song_id": 24005,
+      "filename": "Super Rush.mp3",
+      "title": "Super Rush",
+      "alt_titles": [],
+      "genre": "HARDTEK",
+      "artist": "kors k"
+    },
+    {
+      "song_id": 26038,
+      "title": "L.F.O",
+      "alt_titles": ["lfo"],
+      "genre": "UK HARDCORE",
+      "artist": "aran"
+    }
+  ]
+}

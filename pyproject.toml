@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "hard-brain"
+version = "0.1.0"
+description = "A service for song quizzes for Beatmania IIDX music."
+authors = ["Your Name <you@example.com>"]
+license = "Unlicense"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = "^0.109.0"
+uvicorn = "^0.26.0"
+sqlalchemy = "^2.0.25"
+pytest = "^7.4.4"
+httpx = "^0.26.0"
+
+
+[tool.poetry.group.test.dependencies]
+pytest = "^7.4.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
