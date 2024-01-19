@@ -30,8 +30,15 @@ def test_read_main():
 def test_get_random_question(song_data_schema):
     response = client.get("/question")
     assert response.status_code == 200
-    for key in response.json():
+    assert len(response.json()) == 1
+    for key in response.json()[0]:
         assert key in song_data_schema
+
+
+def test_get_multiple_questions():
+    response = client.get("/question?number_of_songs=3")
+    assert response.status_code == 200
+    assert len(response.json()) == 3
 
 
 def test_get_song_by_song_id_passes(song_data_schema):

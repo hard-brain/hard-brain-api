@@ -1,4 +1,6 @@
 from fastapi import FastAPI, HTTPException
+from pydantic import PositiveInt
+
 from src.quiz.questions import get_random_song, get_song_by_id
 
 app = FastAPI()
@@ -10,8 +12,8 @@ def read_root():
 
 
 @app.get("/question")
-def get_random_question():
-    return get_random_song()
+def get_random_question(number_of_songs: PositiveInt = 1):
+    return get_random_song(number_of_songs)
 
 
 @app.get("/song/{song_id}")
