@@ -18,24 +18,25 @@ def get_random_song(number_of_songs: PositiveInt) -> List[Dict]:
     Returns a list of random songs' data from the song data JSON file.
     :return: Dictionary of song data
     """
+    song_data = _load_song_data()
 
     def yield_song(limit: PositiveInt):
         for i in range(limit):
-            idx = random.randint(0, len(song_data) - 1)
-            yield song_data[idx]
+            key = random.choice(list(song_data.keys()))
+            yield song_data[key]
 
-    song_data = _load_song_data()
     return [song for song in yield_song(number_of_songs)]
 
 
 def get_song_by_id(song_id: int) -> Dict:
     song_data = _load_song_data()
-    for song in song_data:
-        if song["song_id"] == song_id:
-            return song
+    id_string = str(song_id)
+    if id_string in song_data.keys():
+        return song_data[id_string]
     return {}
 
 
 if __name__ == '__main__':
     printer = PrettyPrinter()
-    printer.pprint(get_song_by_id(13003))
+    # printer.pprint(get_song_by_id(13003))
+    printer.pprint(get_random_song(2))

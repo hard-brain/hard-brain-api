@@ -1,43 +1,35 @@
 {
-  "songs": [
-    {
-      "13003": {
-        "filename": "D.C.fish.mp3",
-        "title": "D.C.fish",
-        "alt_titles": [
-          "DC fish"
-        ],
-        "genre": "TECHNO",
-        "artist": "DJ MURASAME"
-      }
+  "songs": {
+    "13003": {
+      "filename": "D.C.fish.mp3",
+      "title": "D.C.fish",
+      "alt_titles": [
+        "DC fish"
+      ],
+      "genre": "TECHNO",
+      "artist": "DJ MURASAME"
     },
-    {
-      "30005": {
-        "filename": "TECHNOPHOBIA.mp3",
-        "title": "technophobia",
-        "alt_titles": [],
-        "genre": "TECHNO",
-        "artist": "Qlarabelle"
-      }
-    },
-    {
-      "24005": {
-        "filename": "Super Rush.mp3",
-        "title": "Super Rush",
-        "alt_titles": [],
-        "genre": "HARDTEK",
-        "artist": "kors k"
-      }
-    },
-    {
-      "26038": {
+    "26038": {
         "title": "L.F.O",
         "alt_titles": [
           "lfo"
         ],
         "genre": "UK HARDCORE",
         "artist": "aran"
+      },
+    "30005": {
+        "filename": "TECHNOPHOBIA.mp3",
+        "title": "technophobia",
+        "alt_titles": [],
+        "genre": "TECHNO",
+        "artist": "Qlarabelle"
+      },
+    "24005": {
+        "filename": "Super Rush.mp3",
+        "title": "Super Rush",
+        "alt_titles": [],
+        "genre": "HARDTEK",
+        "artist": "kors k"
       }
-    }
-  ]
+  }
 }
