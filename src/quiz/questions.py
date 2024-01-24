@@ -9,7 +9,7 @@ from pydantic.types import PositiveInt
 def _load_song_data() -> Dict:
     file_path = Path(__file__)
     path = file_path / "../../resources/song_data.json"
-    with open(path.resolve(), 'r') as file:
+    with open(path.resolve(), 'r', encoding="utf-8") as file:
         return json.load(file)['songs']
 
 
