@@ -9,6 +9,7 @@ client = TestClient(app)
 @pytest.fixture
 def song_data_schema():
     schema = {
+        "song_id": 13003,
         "filename": "D.C.fish.mp3",
         "title": "D.C.fish",
         "alt_titles": [
