@@ -9,7 +9,6 @@ from src.quiz.questions import get_random_song, get_song_by_id
 # setup stuff
 app = FastAPI()
 app_path = Path(f"{__file__}/..")
-# manager = ConnectionManager()  # websocket related, maybe not needed yet
 
 
 @app.get("/")
@@ -36,4 +35,7 @@ def get_song_audio_by_id(song_id: int):
     if len(song_data) == 0:
         raise HTTPException(status_code=404, detail="No song found with this ID")
     fp = app_path / f"resources/songs/{song_data['filename']}"
-    return FileResponse(fp.resolve(), media_type='audio/mp3')
+    fp.resolve()
+    if not fp.exists():
+        raise HTTPException(status_code=404, detail="No song file found for this song ID")
+    return FileResponse(fp, media_type="audio/mp3")
