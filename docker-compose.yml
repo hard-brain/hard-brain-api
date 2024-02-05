@@ -1,7 +1,7 @@
 services:
-  hard-brain:
+  api:
     build: .
-    container_name: hard-brain
+    container_name: api
     environment:
       PORT: 8000
     ports:
