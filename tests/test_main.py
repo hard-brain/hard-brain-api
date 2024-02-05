@@ -12,11 +12,9 @@ def song_data_schema():
         "song_id": 13003,
         "filename": "D.C.fish.mp3",
         "title": "D.C.fish",
-        "alt_titles": [
-            "DC fish"
-        ],
+        "alt_titles": ["DC fish"],
         "genre": "TECHNO",
-        "artist": "DJ MURASAME"
+        "artist": "DJ MURASAME",
     }
     return schema
 
@@ -49,4 +47,14 @@ def test_get_song_by_song_id_passes(song_data_schema):
 
 def test_get_song_by_song_id_fails():
     response = client.get("/song/573000")
+    assert response.status_code == 404
+
+
+def test_get_audio_by_song_passes():
+    response = client.get("/audio/13003")
+    assert response.status_code == 200
+
+
+def test_get_audio_by_song_id_fails_invalid_id():
+    response = client.get("/audio/99999")
     assert response.status_code == 404
