@@ -1,16 +1,22 @@
-# Use postgres/example user/password credentials
-version: '3.1'
-
 services:
-
-  db:
-    image: postgres
-    restart: always
+  hard-brain:
+    build: .
+    container_name: hard-brain
     environment:
-      POSTGRES_PASSWORD: example
-
-  adminer:
-    image: adminer
-    restart: always
+      PORT: 8000
     ports:
-      - "8080:8080"
+      - '8000:8000'
+    restart: "no"
+
+# Future work, unrequired at the moment
+#  db:
+#    image: postgres
+#    restart: always
+#    environment:
+#      POSTGRES_PASSWORD: example
+#
+#  adminer:
+#    image: adminer
+#    restart: always
+#    ports:
+#      - "8080:8080"
