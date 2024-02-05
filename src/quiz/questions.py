@@ -1,8 +1,8 @@
 import json
 import random
 from pathlib import Path
-from pprint import PrettyPrinter
 from typing import List, Dict
+
 from pydantic.types import PositiveInt
 
 
@@ -34,9 +34,3 @@ def get_song_by_id(song_id: int) -> Dict:
     if id_string in song_data.keys():
         return song_data[id_string]
     return {}
-
-
-if __name__ == '__main__':
-    printer = PrettyPrinter()
-    # printer.pprint(get_song_by_id(13003))
-    printer.pprint(get_random_song(2))
