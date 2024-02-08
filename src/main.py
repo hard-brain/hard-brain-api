@@ -36,5 +36,7 @@ def get_song_audio_by_id(song_id: int):
         raise HTTPException(status_code=404, detail="No song found with this ID")
     fp = app_path / f"resources/songs/{song_data['filename']}"
     if not fp.resolve().exists():
-        raise HTTPException(status_code=404, detail="No song file found for this song ID")
+        raise HTTPException(
+            status_code=404, detail="No song file found for this song ID"
+        )
     return FileResponse(fp.resolve(), media_type="audio/mp3")
