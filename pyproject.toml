@@ -7,7 +7,7 @@ license = "Unlicense"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = ">=3.10.10"
 fastapi = "^0.109.0"
 uvicorn = {extras = ["standard"], version = "^0.26"}
 sqlalchemy = "^2.0.25"
