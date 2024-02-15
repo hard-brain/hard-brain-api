@@ -1,35 +1,8 @@
 {
   "songs": {
-    "13003": {
-      "song_id": 13003,
-      "filename": "D.C.fish.mp3",
-      "title": "D.C.fish",
-      "alt_titles": [
-        "DC fish"
-      ],
-      "genre": "TECHNO",
-      "artist": "DJ MURASAME"
-    },
-    "26038": {
-      "song_id": 26038,
-      "title": "L.F.O",
-      "alt_titles": [
-        "lfo"
-      ],
-      "genre": "UK HARDCORE",
-      "artist": "aran"
-    },
-    "24005": {
-      "song_id": 24005,
-      "filename": "Super Rush.mp3",
-      "title": "Super Rush",
-      "alt_titles": [],
-      "genre": "HARDTEK",
-      "artist": "kors k"
-    },
     "30000": {
       "song_id": 30000,
-      "filename": "B.O.D.Y..mp3",
+      "filename": "30000.mp3",
       "title": "B.O.D.Y.",
       "alt_titles": [],
       "genre": "HARD BODY MUSIC",
@@ -37,7 +10,7 @@
     },
     "30001": {
       "song_id": 30001,
-      "filename": "湘南ロンリーMIDNIGHT RAIN.mp3",
+      "filename": "30001.mp3",
       "title": "湘南ロンリーMIDNIGHT RAIN",
       "alt_titles": [
         "SHONAN LONELY MIDNIGHT RAIN"
@@ -47,7 +20,7 @@
     },
     "30002": {
       "song_id": 30002,
-      "filename": "LOUDER ROLLING THUNDER.mp3",
+      "filename": "30002.mp3",
       "title": "LOUDER ROLLING THUNDER",
       "alt_titles": [],
       "genre": "MASSIVE MIXTURE",
@@ -55,7 +28,7 @@
     },
     "30003": {
       "song_id": 30003,
-      "filename": "mathematical good-bye.mp3",
+      "filename": "30003.mp3",
       "title": "mathematical good-bye",
       "alt_titles": [],
       "genre": "ハードコア",
@@ -63,7 +36,7 @@
     },
     "30004": {
       "song_id": 30004,
-      "filename": "Shadow World.mp3",
+      "filename": "30004.mp3",
       "title": "Shadow World",
       "alt_titles": [],
       "genre": "STYLISH CONTEMPORARY",
@@ -71,7 +44,7 @@
     },
     "30005": {
       "song_id": 30005,
-      "filename": "TECHNOPHOBIA.mp3",
+      "filename": "30005.mp3",
       "title": "TECHNOPHOBIA",
       "alt_titles": [],
       "genre": "TECH/ELECTRO",
@@ -79,7 +52,7 @@
     },
     "30006": {
       "song_id": 30006,
-      "filename": "[ ]DENTITY.mp3",
+      "filename": "30006.mp3",
       "title": "[ ]DENTITY",
       "alt_titles": [],
       "genre": "FORTUNE OVERTURE",
@@ -87,7 +60,7 @@
     },
     "30007": {
       "song_id": 30007,
-      "filename": "V?ID.mp3",
+      "filename": "30007.mp3",
       "title": "V?ID",
       "alt_titles": [
         "VOID"
@@ -97,7 +70,7 @@
     },
     "30008": {
       "song_id": 30008,
-      "filename": "FLARE -炎舞- ft.Nana Takahashi.mp3",
+      "filename": "30008.mp3",
       "title": "FLARE -炎舞- ft.Nana Takahashi",
       "alt_titles": [
         "FLARE -ENBU- ft.Nana Takahashi"
@@ -107,7 +80,7 @@
     },
     "30009": {
       "song_id": 30009,
-      "filename": "No Border.mp3",
+      "filename": "30009.mp3",
       "title": "No Border",
       "alt_titles": [],
       "genre": "TRANCE",
@@ -115,7 +88,7 @@
     },
     "30010": {
       "song_id": 30010,
-      "filename": "輪廻の鴉.mp3",
+      "filename": "30010.mp3",
       "title": "輪廻の鴉",
       "alt_titles": [
         "Rinne no Karasu"
@@ -125,7 +98,7 @@
     },
     "30011": {
       "song_id": 30011,
-      "filename": "STRAIGHT TO THE STARS.mp3",
+      "filename": "30011.mp3",
       "title": "STRAIGHT TO THE STARS",
       "alt_titles": [],
       "genre": "COLOUR BASS BREAKS",
@@ -133,7 +106,7 @@
     },
     "30012": {
       "song_id": 30012,
-      "filename": "Xerulean.mp3",
+      "filename": "30012.mp3",
       "title": "Xerulean",
       "alt_titles": [],
       "genre": "HAPPY HARDCORE",
@@ -141,7 +114,7 @@
     },
     "30013": {
       "song_id": 30013,
-      "filename": "Peng-Ging Sky High!!.mp3",
+      "filename": "30013.mp3",
       "title": "Peng-Ging Sky High!!",
       "alt_titles": [],
       "genre": "HARD ELECTRIC POP",
@@ -149,7 +122,7 @@
     },
     "30014": {
       "song_id": 30014,
-      "filename": "サヨナラ・ヘヴン-Celtic Chip Dance Mix-.mp3",
+      "filename": "30014.mp3",
       "title": "サヨナラ・ヘヴン-Celtic Chip Dance Mix-",
       "alt_titles": [
         "Sayonara Heaven-Celtic Chip Dance Mix-"
@@ -159,7 +132,7 @@
     },
     "30015": {
       "song_id": 30015,
-      "filename": "VOLAQUAS.mp3",
+      "filename": "30015.mp3",
       "title": "VOLAQUAS",
       "alt_titles": [],
       "genre": "EMPYREAL HYDRO ARTCORE",
@@ -167,7 +140,7 @@
     },
     "30016": {
       "song_id": 30016,
-      "filename": "7 Colors.mp3",
+      "filename": "30016.mp3",
       "title": "7 Colors",
       "alt_titles": [],
       "genre": "PRISM EURO",
@@ -175,7 +148,7 @@
     },
     "30017": {
       "song_id": 30017,
-      "filename": "少年リップルズ.mp3",
+      "filename": "30017.mp3",
       "title": "少年リップルズ",
       "alt_titles": [
         "KID R"
@@ -185,7 +158,7 @@
     },
     "30018": {
       "song_id": 30018,
-      "filename": "■□模様.mp3",
+      "filename": "30018.mp3",
       "title": "■□模様",
       "alt_titles": [
         "B.W.ASPECT"
@@ -195,7 +168,7 @@
     },
     "30019": {
       "song_id": 30019,
-      "filename": "LADS.mp3",
+      "filename": "30019.mp3",
       "title": "LADS",
       "alt_titles": [],
       "genre": "HYBRID FOLK",
@@ -203,7 +176,7 @@
     },
     "30020": {
       "song_id": 30020,
-      "filename": "Meissa.mp3",
+      "filename": "30020.mp3",
       "title": "Meissa",
       "alt_titles": [],
       "genre": "PROGRESSIVE DRUM'N'BASS",
@@ -211,7 +184,7 @@
     },
     "30022": {
       "song_id": 30022,
-      "filename": "雨のちパノラマセカイ.mp3",
+      "filename": "30022.mp3",
       "title": "雨のちパノラマセカイ",
       "alt_titles": [
         "AME NOCHI PANORAMA SEKAI"
@@ -221,7 +194,7 @@
     },
     "30024": {
       "song_id": 30024,
-      "filename": "Bad Encryption.mp3",
+      "filename": "30024.mp3",
       "title": "Bad Encryption",
       "alt_titles": [],
       "genre": "NEO INDUSTRIAL",
@@ -229,7 +202,7 @@
     },
     "30025": {
       "song_id": 30025,
-      "filename": "Beyond Evolution.mp3",
+      "filename": "30025.mp3",
       "title": "Beyond Evolution",
       "alt_titles": [],
       "genre": "CULMINATION",
@@ -237,7 +210,7 @@
     },
     "30026": {
       "song_id": 30026,
-      "filename": "Programmed Genom.mp3",
+      "filename": "30026.mp3",
       "title": "Programmed Genom",
       "alt_titles": [],
       "genre": "PSYCHEDELIC TRANCE",
@@ -245,7 +218,7 @@
     },
     "30027": {
       "song_id": 30027,
-      "filename": "kors k's How to make OTOGE CORE 「LONG」.mp3",
+      "filename": "30027.mp3",
       "title": "kors k's How to make OTOGE CORE 「LONG」",
       "alt_titles": [
         "kors k's How to make OTOGE CORE LONG"
@@ -255,7 +228,7 @@
     },
     "30028": {
       "song_id": 30028,
-      "filename": "suspicions.mp3",
+      "filename": "30028.mp3",
       "title": "suspicions",
       "alt_titles": [],
       "genre": "JAZZ CORE",
@@ -263,7 +236,7 @@
     },
     "30029": {
       "song_id": 30029,
-      "filename": "≡+≡.mp3",
+      "filename": "30029.mp3",
       "title": "≡+≡",
       "alt_titles": [
         "3+3"
@@ -273,7 +246,7 @@
     },
     "30030": {
       "song_id": 30030,
-      "filename": "Caldwell 99.mp3",
+      "filename": "30030.mp3",
       "title": "Caldwell 99",
       "alt_titles": [],
       "genre": "STARRY BASS HOUSE",
@@ -281,7 +254,7 @@
     },
     "30031": {
       "song_id": 30031,
-      "filename": "月と夢の跡 ft. マナ.mp3",
+      "filename": "30031.mp3",
       "title": "月と夢の跡 ft. マナ",
       "alt_titles": [
         "tsuki to yume no ato ft.mana"
@@ -291,7 +264,7 @@
     },
     "30032": {
       "song_id": 30032,
-      "filename": "Ambush Ace.mp3",
+      "filename": "30032.mp3",
       "title": "Ambush Ace",
       "alt_titles": [],
       "genre": "ELECTRO FUSION",
@@ -299,7 +272,7 @@
     },
     "30033": {
       "song_id": 30033,
-      "filename": "C-C-C-N-N-N.mp3",
+      "filename": "30033.mp3",
       "title": "C-C-C-N-N-N",
       "alt_titles": [],
       "genre": "ELECTRONICORE",
@@ -307,7 +280,7 @@
     },
     "30034": {
       "song_id": 30034,
-      "filename": "Peaktime Booster.mp3",
+      "filename": "30034.mp3",
       "title": "Peaktime Booster",
       "alt_titles": [],
       "genre": "RAPCORE",
@@ -315,7 +288,7 @@
     },
     "30035": {
       "song_id": 30035,
-      "filename": "Move UR Body.mp3",
+      "filename": "30035.mp3",
       "title": "Move UR Body",
       "alt_titles": [],
       "genre": "HAPPY HARDCORE",
@@ -323,7 +296,7 @@
     },
     "30036": {
       "song_id": 30036,
-      "filename": "儚キ戀ノ幻想譚.mp3",
+      "filename": "30036.mp3",
       "title": "儚キ戀ノ幻想譚",
       "alt_titles": [
         "Hakanaki Koino Gensoutan"
@@ -333,7 +306,7 @@
     },
     "30037": {
       "song_id": 30037,
-      "filename": "Always We Trust In You.mp3",
+      "filename": "30037.mp3",
       "title": "Always We Trust In You",
       "alt_titles": [],
       "genre": "EMOTIONAL HAPPY EUPHORIA",
@@ -341,7 +314,7 @@
     },
     "30038": {
       "song_id": 30038,
-      "filename": "With You.mp3",
+      "filename": "30038.mp3",
       "title": "With You",
       "alt_titles": [],
       "genre": "DANCE",
@@ -349,7 +322,7 @@
     },
     "30039": {
       "song_id": 30039,
-      "filename": "3V0.mp3",
+      "filename": "30039.mp3",
       "title": "3V0",
       "alt_titles": [],
       "genre": "NEO DANCE SPEED",
@@ -357,7 +330,7 @@
     },
     "30040": {
       "song_id": 30040,
-      "filename": "Driver.mp3",
+      "filename": "30040.mp3",
       "title": "Driver",
       "alt_titles": [],
       "genre": "BIGROOM D&B",
@@ -365,7 +338,7 @@
     },
     "30041": {
       "song_id": 30041,
-      "filename": "きゅんです。.mp3",
+      "filename": "30041.mp3",
       "title": "きゅんです。",
       "alt_titles": [
         "Char-ming"
@@ -375,7 +348,7 @@
     },
     "30042": {
       "song_id": 30042,
-      "filename": "Ruler or Loser.mp3",
+      "filename": "30042.mp3",
       "title": "Ruler or Loser",
       "alt_titles": [],
       "genre": "DRUM & BASS",
@@ -383,7 +356,7 @@
     },
     "30043": {
       "song_id": 30043,
-      "filename": "Rewind Time.mp3",
+      "filename": "30043.mp3",
       "title": "Rewind Time",
       "alt_titles": [],
       "genre": "GLITCH HOP",
@@ -391,7 +364,7 @@
     },
     "30044": {
       "song_id": 30044,
-      "filename": "anthracene.mp3",
+      "filename": "30044.mp3",
       "title": "anthracene",
       "alt_titles": [],
       "genre": "HYPER EUROBEATECHNO",
@@ -399,7 +372,7 @@
     },
     "30045": {
       "song_id": 30045,
-      "filename": "wanna be a \"BAD GIRL\" feat. Nana Takahashi.mp3",
+      "filename": "30045.mp3",
       "title": "wanna be a \"BAD GIRL\" feat. Nana Takahashi",
       "alt_titles": [],
       "genre": "FUNK POP",
@@ -407,7 +380,7 @@
     },
     "30046": {
       "song_id": 30046,
-      "filename": "Fading Stars.mp3",
+      "filename": "30046.mp3",
       "title": "Fading Stars",
       "alt_titles": [],
       "genre": "TRANCE",
@@ -415,7 +388,7 @@
     },
     "30047": {
       "song_id": 30047,
-      "filename": "Seraph.mp3",
+      "filename": "30047.mp3",
       "title": "Seraph",
       "alt_titles": [],
       "genre": "UNSUNG SHADOWS",
@@ -423,7 +396,7 @@
     },
     "30048": {
       "song_id": 30048,
-      "filename": "Perfect Plan.mp3",
+      "filename": "30048.mp3",
       "title": "Perfect Plan",
       "alt_titles": [],
       "genre": "CRIME JAZZ BROKEN BEATS",
@@ -431,7 +404,7 @@
     },
     "30049": {
       "song_id": 30049,
-      "filename": "Swing My Wonderland.mp3",
+      "filename": "30049.mp3",
       "title": "Swing My Wonderland",
       "alt_titles": [],
       "genre": "ULTRA JAZZFUNKTION",
@@ -439,7 +412,7 @@
     },
     "30050": {
       "song_id": 30050,
-      "filename": "DIAMOND JACKAL.mp3",
+      "filename": "30050.mp3",
       "title": "DIAMOND JACKAL",
       "alt_titles": [],
       "genre": "ENIGMATIC BASS HARDCORE",
@@ -447,7 +420,7 @@
     },
     "30051": {
       "song_id": 30051,
-      "filename": "Summerblue.mp3",
+      "filename": "30051.mp3",
       "title": "Summerblue",
       "alt_titles": [],
       "genre": "GAME MUSIC",
@@ -455,7 +428,7 @@
     },
     "30052": {
       "song_id": 30052,
-      "filename": "Somnidiscotheque.mp3",
+      "filename": "30052.mp3",
       "title": "Somnidiscotheque",
       "alt_titles": [],
       "genre": "SUBCONSCIOUS FRAGMENT",
@@ -463,7 +436,7 @@
     },
     "30053": {
       "song_id": 30053,
-      "filename": "罪過の聖堂.mp3",
+      "filename": "30053.mp3",
       "title": "罪過の聖堂",
       "alt_titles": [
         "Cathedral of sin"
@@ -473,7 +446,7 @@
     },
     "30054": {
       "song_id": 30054,
-      "filename": "栄冠のカンパネラ.mp3",
+      "filename": "30054.mp3",
       "title": "栄冠のカンパネラ",
       "alt_titles": [
         "Eikan no Campanella"
@@ -483,7 +456,7 @@
     },
     "30055": {
       "song_id": 30055,
-      "filename": "dica dica.mp3",
+      "filename": "30055.mp3",
       "title": "dica dica",
       "alt_titles": [],
       "genre": "ACID RAVE",
@@ -491,7 +464,7 @@
     },
     "30056": {
       "song_id": 30056,
-      "filename": "Super Freak.mp3",
+      "filename": "30056.mp3",
       "title": "Super Freak",
       "alt_titles": [],
       "genre": "HARDCORE",
@@ -499,7 +472,7 @@
     },
     "30057": {
       "song_id": 30057,
-      "filename": "楽園追放.mp3",
+      "filename": "30057.mp3",
       "title": "楽園追放",
       "alt_titles": [
         "Expulsion from Paradise"
@@ -509,7 +482,7 @@
     },
     "30058": {
       "song_id": 30058,
-      "filename": "#CMFLG.mp3",
+      "filename": "30058.mp3",
       "title": "#CMFLG",
       "alt_titles": [],
       "genre": "HARD TRIBAL",
@@ -517,7 +490,7 @@
     },
     "30059": {
       "song_id": 30059,
-      "filename": "神のシナリオ.mp3",
+      "filename": "30059.mp3",
       "title": "神のシナリオ",
       "alt_titles": [
         "God's Scenario"
@@ -527,7 +500,7 @@
     },
     "30060": {
       "song_id": 30060,
-      "filename": "glacia.mp3",
+      "filename": "30060.mp3",
       "title": "glacia",
       "alt_titles": [],
       "genre": "ARTCORE",
@@ -535,7 +508,7 @@
     },
     "30061": {
       "song_id": 30061,
-      "filename": "EXODUS SIGN.mp3",
+      "filename": "30061.mp3",
       "title": "EXODUS SIGN",
       "alt_titles": [],
       "genre": "TEAROUT BREAKS",
@@ -543,7 +516,7 @@
     },
     "30062": {
       "song_id": 30062,
-      "filename": "響花水月.mp3",
+      "filename": "30062.mp3",
       "title": "響花水月",
       "alt_titles": [
         "Kyoka Suigetsu"
@@ -553,7 +526,7 @@
     },
     "30063": {
       "song_id": 30063,
-      "filename": "GET UP AGAIN.mp3",
+      "filename": "30063.mp3",
       "title": "GET UP AGAIN",
       "alt_titles": [],
       "genre": "COMPETITIVE ROCKSTEP",
@@ -561,7 +534,7 @@
     },
     "30064": {
       "song_id": 30064,
-      "filename": "チェイスチェイスジョーカーズのうた (オニスタイルリミックス).mp3",
+      "filename": "30064.mp3",
       "title": "チェイスチェイスジョーカーズのうた (オニスタイルリミックス)",
       "alt_titles": [
         "Chase Chase Jokers No Uta (Oni Style Remix)"
@@ -571,7 +544,7 @@
     },
     "30065": {
       "song_id": 30065,
-      "filename": "BIGWAVERS.mp3",
+      "filename": "30065.mp3",
       "title": "BIGWAVERS",
       "alt_titles": [],
       "genre": "EMOTIONAL HARDCORE SUMMERS",
@@ -579,7 +552,7 @@
     },
     "30066": {
       "song_id": 30066,
-      "filename": "VOLCANIC BIGBEAT.mp3",
+      "filename": "30066.mp3",
       "title": "VOLCANIC BIGBEAT",
       "alt_titles": [],
       "genre": "TECH-BIGBEAT",
@@ -587,7 +560,7 @@
     },
     "30067": {
       "song_id": 30067,
-      "filename": "Dreaming Dream.mp3",
+      "filename": "30067.mp3",
       "title": "Dreaming Dream",
       "alt_titles": [],
       "genre": "DANCE POP",
@@ -595,7 +568,7 @@
     },
     "30068": {
       "song_id": 30068,
-      "filename": "THE TIME MACHINE.mp3",
+      "filename": "30068.mp3",
       "title": "THE TIME MACHINE",
       "alt_titles": [],
       "genre": "HARDWAVE/STYLE",
@@ -603,7 +576,7 @@
     },
     "30069": {
       "song_id": 30069,
-      "filename": "ONE AND ONLY.mp3",
+      "filename": "30069.mp3",
       "title": "ONE AND ONLY",
       "alt_titles": [],
       "genre": "RAVE IN THE GAME",
@@ -611,7 +584,7 @@
     },
     "30070": {
       "song_id": 30070,
-      "filename": "CUE CUE RESCUE.mp3",
+      "filename": "30070.mp3",
       "title": "CUE CUE RESCUE",
       "alt_titles": [],
       "genre": "EMERGENCY CORE",
@@ -619,7 +592,7 @@
     },
     "30072": {
       "song_id": 30072,
-      "filename": "あるビー！ feat.ころねぽち.mp3",
+      "filename": "30072.mp3",
       "title": "あるビー！ feat.ころねぽち",
       "alt_titles": [
         "Aru B! feat.PochiKorone"
@@ -629,7 +602,7 @@
     },
     "30073": {
       "song_id": 30073,
-      "filename": "真夜中のバベル.mp3",
+      "filename": "30073.mp3",
       "title": "真夜中のバベル",
       "alt_titles": [
         "MidnightBabel"
@@ -639,7 +612,7 @@
     },
     "30074": {
       "song_id": 30074,
-      "filename": "Luna Plena.mp3",
+      "filename": "30074.mp3",
       "title": "Luna Plena",
       "alt_titles": [],
       "genre": "MELODIC J-ROCK",
@@ -647,7 +620,7 @@
     },
     "30075": {
       "song_id": 30075,
-      "filename": "Sunny Day Vibes.mp3",
+      "filename": "30075.mp3",
       "title": "Sunny Day Vibes",
       "alt_titles": [],
       "genre": "FUTURE CORE",
@@ -655,7 +628,7 @@
     },
     "30076": {
       "song_id": 30076,
-      "filename": "The Clown of 24stairs.mp3",
+      "filename": "30076.mp3",
       "title": "The Clown of 24stairs",
       "alt_titles": [],
       "genre": "DISSOCIATIVE IDENTITY DISORDER",
@@ -663,7 +636,7 @@
     },
     "30077": {
       "song_id": 30077,
-      "filename": "ZEИITH.mp3",
+      "filename": "30077.mp3",
       "title": "ZEИITH",
       "alt_titles": [
         "ZENITH"
@@ -673,7 +646,7 @@
     },
     "30078": {
       "song_id": 30078,
-      "filename": "ぞうしょく！？マイデンティティ.mp3",
+      "filename": "30078.mp3",
       "title": "ぞうしょく！？マイデンティティ",
       "alt_titles": [
         "ZOUSHOKU!?MYDENTITY"
@@ -683,7 +656,7 @@
     },
     "30079": {
       "song_id": 30079,
-      "filename": "Level 4.mp3",
+      "filename": "30079.mp3",
       "title": "Level 4",
       "alt_titles": [],
       "genre": "DnB",
@@ -691,7 +664,7 @@
     },
     "30080": {
       "song_id": 30080,
-      "filename": "Chaotoxin.mp3",
+      "filename": "30080.mp3",
       "title": "Chaotoxin",
       "alt_titles": [],
       "genre": "HELETIC BREAK D'n'B",
@@ -699,7 +672,7 @@
     },
     "30081": {
       "song_id": 30081,
-      "filename": "昏き甲鉄のヴェルガ.mp3",
+      "filename": "30081.mp3",
       "title": "昏き甲鉄のヴェルガ",
       "alt_titles": [
         "Airship Verga"
@@ -709,7 +682,7 @@
     },
     "30082": {
       "song_id": 30082,
-      "filename": "おとせサンダー.mp3",
+      "filename": "30082.mp3",
       "title": "おとせサンダー",
       "alt_titles": [
         "OTOSE THUNDER"
@@ -719,7 +692,7 @@
     },
     "30083": {
       "song_id": 30083,
-      "filename": "いつかオトナになれるといいね。.mp3",
+      "filename": "30083.mp3",
       "title": "いつかオトナになれるといいね。",
       "alt_titles": [
         "Itsuka Otona ni Nareru to Iine."
@@ -729,7 +702,7 @@
     },
     "30084": {
       "song_id": 30084,
-      "filename": "生きるよすが.mp3",
+      "filename": "30084.mp3",
       "title": "生きるよすが",
       "alt_titles": [
         "Reason for existence"
@@ -739,7 +712,7 @@
     },
     "30085": {
       "song_id": 30085,
-      "filename": "EZ DO DANCE.mp3",
+      "filename": "30085.mp3",
       "title": "EZ DO DANCE",
       "alt_titles": [],
       "genre": "IIDX EDITION",
@@ -747,7 +720,7 @@
     },
     "30086": {
       "song_id": 30086,
-      "filename": "《ORDERBREAKER》.mp3",
+      "filename": "30086.mp3",
       "title": "《ORDERBREAKER》",
       "alt_titles": [
         "ORDERBREAKER"
@@ -757,7 +730,7 @@
     },
     "30087": {
       "song_id": 30087,
-      "filename": "OVER VOLTAGE.mp3",
+      "filename": "30087.mp3",
       "title": "OVER VOLTAGE",
       "alt_titles": [],
       "genre": "HARDSTYLE",
@@ -765,7 +738,7 @@
     },
     "30088": {
       "song_id": 30088,
-      "filename": "Hat Surprise (Season 2).mp3",
+      "filename": "30088.mp3",
       "title": "Hat Surprise (Season 2)",
       "alt_titles": [],
       "genre": "UK HARDCORE",
@@ -773,7 +746,7 @@
     },
     "30089": {
       "song_id": 30089,
-      "filename": "?u Legends.mp3",
+      "filename": "30089.mp3",
       "title": "?u Legends",
       "alt_titles": [
         "Tohoku Densetsu"
@@ -783,7 +756,7 @@
     },
     "30090": {
       "song_id": 30090,
-      "filename": "Red Soul.mp3",
+      "filename": "30090.mp3",
       "title": "Red Soul",
       "alt_titles": [],
       "genre": "HARDCORE",
@@ -791,7 +764,7 @@
     },
     "30091": {
       "song_id": 30091,
-      "filename": "STAR BEAT.mp3",
+      "filename": "30091.mp3",
       "title": "STAR BEAT",
       "alt_titles": [],
       "genre": "COLOUR BASS",
@@ -799,7 +772,7 @@
     },
     "30092": {
       "song_id": 30092,
-      "filename": "Get On Your Feet.mp3",
+      "filename": "30092.mp3",
       "title": "Get On Your Feet",
       "alt_titles": [],
       "genre": "HYBRID TRANCE",
@@ -807,7 +780,7 @@
     },
     "30093": {
       "song_id": 30093,
-      "filename": "Next Level.mp3",
+      "filename": "30093.mp3",
       "title": "Next Level",
       "alt_titles": [],
       "genre": "DRUM & BASS",
@@ -815,7 +788,7 @@
     },
     "30094": {
       "song_id": 30094,
-      "filename": "24h Endurance Race.mp3",
+      "filename": "30094.mp3",
       "title": "24h Endurance Race",
       "alt_titles": [],
       "genre": "HARDCORE",
@@ -823,7 +796,7 @@
     },
     "30095": {
       "song_id": 30095,
-      "filename": "I.mp3",
+      "filename": "30095.mp3",
       "title": "I",
       "alt_titles": [],
       "genre": "CHIP ELECTRO",
@@ -831,7 +804,7 @@
     },
     "30096": {
       "song_id": 30096,
-      "filename": "RINИE.mp3",
+      "filename": "30096.mp3",
       "title": "RINИE",
       "alt_titles": [],
       "genre": "SYMPHONIC SAVIOR",
@@ -839,7 +812,7 @@
     },
     "30097": {
       "song_id": 30097,
-      "filename": "パーフェクトイーター.mp3",
+      "filename": "30097.mp3",
       "title": "パーフェクトイーター",
       "alt_titles": [
         "PERFECT EATER"
@@ -849,7 +822,7 @@
     },
     "30098": {
       "song_id": 30098,
-      "filename": "恋愛＝精度×認識力.mp3",
+      "filename": "30098.mp3",
       "title": "恋愛＝精度×認識力",
       "alt_titles": [
         "Precision multiplied by Recognition equals L.O.V.E."
@@ -859,7 +832,7 @@
     },
     "30099": {
       "song_id": 30099,
-      "filename": "AWA AWA.mp3",
+      "filename": "30099.mp3",
       "title": "AWA AWA",
       "alt_titles": [],
       "genre": "BOSSA NA NOKA",
@@ -867,7 +840,7 @@
     },
     "30100": {
       "song_id": 30100,
-      "filename": "ちょえちょえまぎか.mp3",
+      "filename": "30100.mp3",
       "title": "ちょえちょえまぎか",
       "alt_titles": [
         "CHOECHOEMAGICA"
@@ -877,7 +850,7 @@
     },
     "30101": {
       "song_id": 30101,
-      "filename": "神っぽいな.mp3",
+      "filename": "30101.mp3",
       "title": "神っぽいな",
       "alt_titles": [
         "God-ish"
@@ -887,7 +860,7 @@
     },
     "30102": {
       "song_id": 30102,
-      "filename": "KING.mp3",
+      "filename": "30102.mp3",
       "title": "KING",
       "alt_titles": [],
       "genre": "IIDX EDITION",
@@ -895,7 +868,7 @@
     },
     "30104": {
       "song_id": 30104,
-      "filename": "新時代.mp3",
+      "filename": "30104.mp3",
       "title": "新時代",
       "alt_titles": [
         "New Genesis"
@@ -905,7 +878,7 @@
     },
     "30105": {
       "song_id": 30105,
-      "filename": "マツケンサンバII.mp3",
+      "filename": "30105.mp3",
       "title": "マツケンサンバII",
       "alt_titles": [
         "Matsuken SambaII"
@@ -915,7 +888,7 @@
     },
     "30106": {
       "song_id": 30106,
-      "filename": "CODE -CRiMSON-.mp3",
+      "filename": "30106.mp3",
       "title": "CODE -CRiMSON-",
       "alt_titles": [],
       "genre": "NRG SCHRANZ",
@@ -923,7 +896,7 @@
     },
     "30107": {
       "song_id": 30107,
-      "filename": "MAX 360.mp3",
+      "filename": "30107.mp3",
       "title": "MAX 360",
       "alt_titles": [],
       "genre": "HARDCORE TECHNO",
@@ -931,7 +904,7 @@
     },
     "30108": {
       "song_id": 30108,
-      "filename": "異心前進♪ぴょんぴょんぴょん.mp3",
+      "filename": "30108.mp3",
       "title": "異心前進♪ぴょんぴょんぴょん",
       "alt_titles": [
         "ISHIN ZENSHIN PYON PYON PYON"
@@ -941,7 +914,7 @@
     },
     "30109": {
       "song_id": 30109,
-      "filename": "惑星☆ロリポップ.mp3",
+      "filename": "30109.mp3",
       "title": "惑星☆ロリポップ",
       "alt_titles": [
         "Wakusei Lollipop"
@@ -951,7 +924,7 @@
     },
     "30111": {
       "song_id": 30111,
-      "filename": "Shamshir.mp3",
+      "filename": "30111.mp3",
       "title": "Shamshir",
       "alt_titles": [],
       "genre": "G-HOUSE",
@@ -959,7 +932,7 @@
     },
     "30114": {
       "song_id": 30114,
-      "filename": "Stylus.mp3",
+      "filename": "30114.mp3",
       "title": "Stylus",
       "alt_titles": [],
       "genre": "STYLISH ELECTRO",
