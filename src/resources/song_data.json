@@ -1,5 +1,842 @@
 {
   "songs": {
+    "24000": {
+      "song_id": 24000,
+      "filename": "24000.mp3",
+      "title": "鴉",
+      "alt_titles": [
+        "KARASU"
+      ],
+      "genre": "CROSSBREED",
+      "artist": "L.E.D.-G"
+    },
+    "24001": {
+      "song_id": 24001,
+      "filename": "24001.mp3",
+      "title": "焔極OVERKILL",
+      "alt_titles": [
+        "ENGOKU OVERKILL"
+      ],
+      "genre": "HARDCORE",
+      "artist": "RoughSketch Vs. L.E.D.-G"
+    },
+    "24002": {
+      "song_id": 24002,
+      "filename": "24002.mp3",
+      "title": "RISING FIRE HAWK",
+      "alt_titles": [],
+      "genre": "HARDSTYLE",
+      "artist": "L.E.D.-G"
+    },
+    "24003": {
+      "song_id": 24003,
+      "filename": "24003.mp3",
+      "title": "イザナミノナゲキ",
+      "alt_titles": [
+        "Izanami's wail"
+      ],
+      "genre": "WORLD/ELECTRONICA",
+      "artist": "猫叉Master"
+    },
+    "24004": {
+      "song_id": 24004,
+      "filename": "24004.mp3",
+      "title": "AsiaN distractive",
+      "alt_titles": [],
+      "genre": "WORLD",
+      "artist": "猫叉劇団"
+    },
+    "24005": {
+      "song_id": 24005,
+      "filename": "24005.mp3",
+      "title": "Super Rush",
+      "alt_titles": [],
+      "genre": "HARDTEK",
+      "artist": "kors k"
+    },
+    "24006": {
+      "song_id": 24006,
+      "filename": "24006.mp3",
+      "title": "Rave Cannon",
+      "alt_titles": [],
+      "genre": "SPEED RAVE",
+      "artist": "kors k"
+    },
+    "24007": {
+      "song_id": 24007,
+      "filename": "24007.mp3",
+      "title": "Caterpillar",
+      "alt_titles": [],
+      "genre": "HARD TRAP",
+      "artist": "Eagle"
+    },
+    "24008": {
+      "song_id": 24008,
+      "filename": "24008.mp3",
+      "title": "¡Viva!",
+      "alt_titles": [
+        "Viva!"
+      ],
+      "genre": "TRIBAL HOUSE",
+      "artist": "Ryu*"
+    },
+    "24009": {
+      "song_id": 24009,
+      "filename": "24009.mp3",
+      "title": "OOO",
+      "alt_titles": [],
+      "genre": "BUBBLEGUM DANCE",
+      "artist": "Ryu☆ feat.moimoi"
+    },
+    "24010": {
+      "song_id": 24010,
+      "filename": "24010.mp3",
+      "title": "Mare Nectaris",
+      "alt_titles": [],
+      "genre": "EXPERIMENTAL",
+      "artist": "神楽"
+    },
+    "24011": {
+      "song_id": 24011,
+      "filename": "24011.mp3",
+      "title": "冬椿 ft. Kanae Asaba",
+      "alt_titles": [
+        "Fuyutsubaki"
+      ],
+      "genre": "HYPER ENKA POP",
+      "artist": "Xceon"
+    },
+    "24012": {
+      "song_id": 24012,
+      "filename": "24012.mp3",
+      "title": "TOGAKUSHI",
+      "alt_titles": [],
+      "genre": "HARD TRANCE",
+      "artist": "SETUP"
+    },
+    "24013": {
+      "song_id": 24013,
+      "filename": "24013.mp3",
+      "title": "SINOBUZ Fantasy",
+      "alt_titles": [],
+      "genre": "CANDY ROCK",
+      "artist": "Noria"
+    },
+    "24014": {
+      "song_id": 24014,
+      "filename": "24014.mp3",
+      "title": "津軽雪",
+      "alt_titles": [
+        "TSUGARU SETSU"
+      ],
+      "genre": "MICHINOKU",
+      "artist": "罠師 VS 安室"
+    },
+    "24015": {
+      "song_id": 24015,
+      "filename": "24015.mp3",
+      "title": "Modular Technology",
+      "alt_titles": [],
+      "genre": "TECHNO",
+      "artist": "Sota Fujimori"
+    },
+    "24016": {
+      "song_id": 24016,
+      "filename": "24016.mp3",
+      "title": "Honey Trap",
+      "alt_titles": [],
+      "genre": "HYPER TRAP",
+      "artist": "Expander"
+    },
+    "24017": {
+      "song_id": 24017,
+      "filename": "24017.mp3",
+      "title": "ROTTERDAM SHOGUN",
+      "alt_titles": [],
+      "genre": "RDM",
+      "artist": "ABDI from ジャカルタファンクブラザーズ"
+    },
+    "24018": {
+      "song_id": 24018,
+      "filename": "24018.mp3",
+      "title": "DORNWALD 〜Junge〜",
+      "alt_titles": [
+        "DORNWALD -Junge-"
+      ],
+      "genre": "ARCHAIC TALE EP1",
+      "artist": "DJ TOTTO"
+    },
+    "24019": {
+      "song_id": 24019,
+      "filename": "24019.mp3",
+      "title": "獅子霞麗ノ舞",
+      "alt_titles": [
+        "Shishikasumu Uruwashinomai"
+      ],
+      "genre": "DRAMATIC WALTZ",
+      "artist": "HuΣeR"
+    },
+    "24020": {
+      "song_id": 24020,
+      "filename": "24020.mp3",
+      "title": "ECHIDNA",
+      "alt_titles": [],
+      "genre": "HYBRID BUCHIAGE TRANCE",
+      "artist": "HuΣeR"
+    },
+    "24021": {
+      "song_id": 24021,
+      "filename": "24021.mp3",
+      "title": "Quakes",
+      "alt_titles": [],
+      "genre": "HARD BREAK BEATS",
+      "artist": "dj Hellix"
+    },
+    "24022": {
+      "song_id": 24022,
+      "filename": "24022.mp3",
+      "title": "PAPAYAPA BASS",
+      "alt_titles": [],
+      "genre": "MONDO-GROOVE BASSHOUSE",
+      "artist": "かめりあ feat. ななひら"
+    },
+    "24023": {
+      "song_id": 24023,
+      "filename": "24023.mp3",
+      "title": "焱影",
+      "alt_titles": [
+        "HIKAGE"
+      ],
+      "genre": "HIP HOP",
+      "artist": "RoughSkreamZ feat.楽天斎"
+    },
+    "24024": {
+      "song_id": 24024,
+      "filename": "24024.mp3",
+      "title": "SAY BAY",
+      "alt_titles": [],
+      "genre": "SHINOBI RAVE",
+      "artist": "P*Light"
+    },
+    "24025": {
+      "song_id": 24025,
+      "filename": "24025.mp3",
+      "title": "(This Is Not) The Angels",
+      "alt_titles": [
+        "This Is Not The Angels"
+      ],
+      "genre": "BIG BEAT/BREAKBEATS",
+      "artist": "Hommarju"
+    },
+    "24026": {
+      "song_id": 24026,
+      "filename": "24026.mp3",
+      "title": "Selfish Sweet",
+      "alt_titles": [],
+      "genre": "R&B",
+      "artist": "OSTER project feat. かなたん"
+    },
+    "24027": {
+      "song_id": 24027,
+      "filename": "24027.mp3",
+      "title": "Be A Star",
+      "alt_titles": [],
+      "genre": "ALTERNATIVE TECHNO POP",
+      "artist": "PHQUASE feat.ぁゅ"
+    },
+    "24028": {
+      "song_id": 24028,
+      "filename": "24028.mp3",
+      "title": "Egret and Willow",
+      "alt_titles": [],
+      "genre": "FUTURE BEATS",
+      "artist": "Dirty Androids"
+    },
+    "24029": {
+      "song_id": 24029,
+      "filename": "24029.mp3",
+      "title": "禍根",
+      "alt_titles": [
+        "Source Of Calamity"
+      ],
+      "genre": "ORBITALIC FUTURE BASS",
+      "artist": "U1 overground"
+    },
+    "24030": {
+      "song_id": 24030,
+      "filename": "24030.mp3",
+      "title": "Sarutobi Champion is 拙者",
+      "alt_titles": [
+        "Sarutobi Champion is Sessha"
+      ],
+      "genre": "PIECED MAKIBISHI",
+      "artist": "Project B-"
+    },
+    "24031": {
+      "song_id": 24031,
+      "filename": "24031.mp3",
+      "title": "次葉 -turn the page-",
+      "alt_titles": [
+        "JIYOU"
+      ],
+      "genre": "POP ROCK",
+      "artist": "小寺可南子"
+    },
+    "24032": {
+      "song_id": 24032,
+      "filename": "24032.mp3",
+      "title": "AO-∞",
+      "alt_titles": [
+        "AO-INFINITY"
+      ],
+      "genre": "DANCE SPEED",
+      "artist": "青龍"
+    },
+    "24033": {
+      "song_id": 24033,
+      "filename": "24033.mp3",
+      "title": "忍恋花",
+      "alt_titles": [
+        "SHINOBI RENKA"
+      ],
+      "genre": "忍歌",
+      "artist": "黒脛"
+    },
+    "24034": {
+      "song_id": 24034,
+      "filename": "24034.mp3",
+      "title": "Go Ahead!!",
+      "alt_titles": [],
+      "genre": "TRANCE CORE",
+      "artist": "Ryu☆ Vs. Sota"
+    },
+    "24035": {
+      "song_id": 24035,
+      "filename": "24035.mp3",
+      "title": "DISAPPEAR feat. koyomin",
+      "alt_titles": [
+        "DISAPPEAR"
+      ],
+      "genre": "EMOTIONAL HI-TECH",
+      "artist": "DJ Genki"
+    },
+    "24036": {
+      "song_id": 24036,
+      "filename": "24036.mp3",
+      "title": "#MAGiCVLGiRL_TRVP_B3VTZ",
+      "alt_titles": [
+        "magical girl trap beats"
+      ],
+      "genre": "NEON/TWERKCORE",
+      "artist": "DJ Noriken"
+    },
+    "24037": {
+      "song_id": 24037,
+      "filename": "24037.mp3",
+      "title": "The Commanders",
+      "alt_titles": [],
+      "genre": "HARDSTYLE",
+      "artist": "USAO"
+    },
+    "24038": {
+      "song_id": 24038,
+      "filename": "24038.mp3",
+      "title": "Umbral",
+      "alt_titles": [],
+      "genre": "UPLIFTING TRANCE",
+      "artist": "Maozon"
+    },
+    "24039": {
+      "song_id": 24039,
+      "filename": "24039.mp3",
+      "title": "Steel Edge",
+      "alt_titles": [],
+      "genre": "DRUM&BASS",
+      "artist": "Maozon"
+    },
+    "24040": {
+      "song_id": 24040,
+      "filename": "24040.mp3",
+      "title": "Music is The Answer",
+      "alt_titles": [],
+      "genre": "TURBOFUNK",
+      "artist": "C-Show"
+    },
+    "24041": {
+      "song_id": 24041,
+      "filename": "24041.mp3",
+      "title": "Amazing Mirage",
+      "alt_titles": [],
+      "genre": "HiTECH FULLON",
+      "artist": "lapix"
+    },
+    "24042": {
+      "song_id": 24042,
+      "filename": "24042.mp3",
+      "title": "Affection",
+      "alt_titles": [],
+      "genre": "HARD DANCE",
+      "artist": "ni-21"
+    },
+    "24043": {
+      "song_id": 24043,
+      "filename": "24043.mp3",
+      "title": "XINOBIKILL",
+      "alt_titles": [],
+      "genre": "CYBER JAZZSTEP",
+      "artist": "SOUND HOLIC feat. Nana Takahashi"
+    },
+    "24044": {
+      "song_id": 24044,
+      "filename": "24044.mp3",
+      "title": "FUZIN RIZIN",
+      "alt_titles": [],
+      "genre": "HYPER DIGIMETAL",
+      "artist": "SOUND HOLIC feat. Nana Takahashi & 709sec."
+    },
+    "24045": {
+      "song_id": 24045,
+      "filename": "24045.mp3",
+      "title": "ディッシュウォッシャー◎彡おいわちゃん",
+      "alt_titles": [
+        "Dish Washer Oiwa-Chan"
+      ],
+      "genre": "ネオスカ電波",
+      "artist": "ARM×狐夢想 feat. 山本椛"
+    },
+    "24046": {
+      "song_id": 24046,
+      "filename": "24046.mp3",
+      "title": "ちらちら・はらはら",
+      "alt_titles": [
+        "CHIRACHIRA HARAHARA"
+      ],
+      "genre": "ACEDIA",
+      "artist": "NU-KO"
+    },
+    "24047": {
+      "song_id": 24047,
+      "filename": "24047.mp3",
+      "title": "Believe in you",
+      "alt_titles": [],
+      "genre": "HARDCORE RAVE",
+      "artist": "DJ Shimamura feat. Renna"
+    },
+    "24048": {
+      "song_id": 24048,
+      "filename": "24048.mp3",
+      "title": "Shoot'Em All",
+      "alt_titles": [],
+      "genre": "DETROIT TECHNO",
+      "artist": "Manabu Namiki"
+    },
+    "24049": {
+      "song_id": 24049,
+      "filename": "24049.mp3",
+      "title": "Breakin' Chain",
+      "alt_titles": [],
+      "genre": "MOOMBAHCORE",
+      "artist": "REDALiCE feat. MONICO"
+    },
+    "24050": {
+      "song_id": 24050,
+      "filename": "24050.mp3",
+      "title": "GuNGNiR",
+      "alt_titles": [],
+      "genre": "REQUIEM PSY",
+      "artist": "Gram"
+    },
+    "24051": {
+      "song_id": 24051,
+      "filename": "24051.mp3",
+      "title": "HADES",
+      "alt_titles": [],
+      "genre": "HARDSTYLE",
+      "artist": "Massive New Krew"
+    },
+    "24052": {
+      "song_id": 24052,
+      "filename": "24052.mp3",
+      "title": "Remedy feat. Kanae Asaba",
+      "alt_titles": [
+        "Remedy"
+      ],
+      "genre": "哀愁EUROBEAT",
+      "artist": "Y&Co."
+    },
+    "24053": {
+      "song_id": 24053,
+      "filename": "24053.mp3",
+      "title": "お命ちょうDAI！901娘",
+      "alt_titles": [
+        "Oinochi Cho-D.A.I. 901Girl "
+      ],
+      "genre": "演歌ブレイクス",
+      "artist": "DJ SHARPNEL feat. みらい"
+    },
+    "24054": {
+      "song_id": 24054,
+      "filename": "24054.mp3",
+      "title": "Beyond The Seven",
+      "alt_titles": [],
+      "genre": "TRANCE",
+      "artist": "Nhato"
+    },
+    "24055": {
+      "song_id": 24055,
+      "filename": "24055.mp3",
+      "title": "elemental bender feat. Kanae Asaba",
+      "alt_titles": [
+        "elemental bender"
+      ],
+      "genre": "EDM",
+      "artist": "MK"
+    },
+    "24056": {
+      "song_id": 24056,
+      "filename": "24056.mp3",
+      "title": "Seaside Labyrinth",
+      "alt_titles": [],
+      "genre": "80's SYNTH FUNK",
+      "artist": "Dirty Androids"
+    },
+    "24057": {
+      "song_id": 24057,
+      "filename": "24057.mp3",
+      "title": "SAMURAI-Scramble",
+      "alt_titles": [],
+      "genre": "TECH BREAKBEATS",
+      "artist": "DJ Mass MAD Izm*"
+    },
+    "24058": {
+      "song_id": 24058,
+      "filename": "24058.mp3",
+      "title": "Warrior",
+      "alt_titles": [],
+      "genre": "MAINSTREAM HARDCORE",
+      "artist": "DJ CHUCKY feat. Jonjo"
+    },
+    "24059": {
+      "song_id": 24059,
+      "filename": "24059.mp3",
+      "title": "Summer",
+      "alt_titles": [],
+      "genre": "DANCE MUSIC",
+      "artist": "banvox"
+    },
+    "24060": {
+      "song_id": 24060,
+      "filename": "24060.mp3",
+      "title": "Piano Samurai",
+      "alt_titles": [],
+      "genre": "BEAT PIANO MUSIC",
+      "artist": "maras k(marasy+kors k)"
+    },
+    "24061": {
+      "song_id": 24061,
+      "filename": "24061.mp3",
+      "title": "Sweet Clapper",
+      "alt_titles": [],
+      "genre": "J-POP",
+      "artist": "livetune+"
+    },
+    "24062": {
+      "song_id": 24062,
+      "filename": "24062.mp3",
+      "title": "SCREAM THE LIFE FEAT.KYONO",
+      "alt_titles": [
+        "SCREAM THE LIFE"
+      ],
+      "genre": "ROCK",
+      "artist": "DJ BAKU"
+    },
+    "24063": {
+      "song_id": 24063,
+      "filename": "24063.mp3",
+      "title": "BREAK OVER",
+      "alt_titles": [],
+      "genre": "FESTIVAL SOUND",
+      "artist": "MASAYOSHI IIMORI"
+    },
+    "24064": {
+      "song_id": 24064,
+      "filename": "24064.mp3",
+      "title": "Seize the Day",
+      "alt_titles": [],
+      "genre": "FUTURE BASS",
+      "artist": "DJ'TEKINA//SOMETHING feat.yuyoyuppe"
+    },
+    "24065": {
+      "song_id": 24065,
+      "filename": "24065.mp3",
+      "title": "OTENAMI Hurricane",
+      "alt_titles": [],
+      "genre": "POP BREAKCORE",
+      "artist": "t+pazolite"
+    },
+    "24066": {
+      "song_id": 24066,
+      "filename": "24066.mp3",
+      "title": "Magical",
+      "alt_titles": [],
+      "genre": "KAWAII FUTURE BASS",
+      "artist": "Snail's House"
+    },
+    "24067": {
+      "song_id": 24067,
+      "filename": "24067.mp3",
+      "title": "Yellow Sketch(RX-Ver.S.P.L.)",
+      "alt_titles": [
+        "Yellow Sketch"
+      ],
+      "genre": "ALTERNATIVE ELECTRO",
+      "artist": "高田雅史"
+    },
+    "24068": {
+      "song_id": 24068,
+      "filename": "24068.mp3",
+      "title": "shuriken",
+      "alt_titles": [],
+      "genre": "CHIPTUNE",
+      "artist": "ヒゲドライバー"
+    },
+    "24069": {
+      "song_id": 24069,
+      "filename": "24069.mp3",
+      "title": "yamabiko (SINOBUZ Edition)",
+      "alt_titles": [
+        "yamabiko"
+      ],
+      "genre": "夏の夕暮れと、DUBSTEP。",
+      "artist": "かめりあ"
+    },
+    "24070": {
+      "song_id": 24070,
+      "filename": "24070.mp3",
+      "title": "九尾狐夜行",
+      "alt_titles": [
+        "Kyuubikoyagyou"
+      ],
+      "genre": "ORIENTAL FUSION",
+      "artist": "天狐"
+    },
+    "24071": {
+      "song_id": 24071,
+      "filename": "24071.mp3",
+      "title": "Around The Galaxy",
+      "alt_titles": [],
+      "genre": "UPLIFTING TRANCE",
+      "artist": "NISH"
+    },
+    "24072": {
+      "song_id": 24072,
+      "filename": "24072.mp3",
+      "title": "Sky High",
+      "alt_titles": [],
+      "genre": "ANTHEM",
+      "artist": "Cuvelia"
+    },
+    "24073": {
+      "song_id": 24073,
+      "filename": "24073.mp3",
+      "title": "Snakey Kung-fu",
+      "alt_titles": [],
+      "genre": "ASIAN CONTEMPORARY",
+      "artist": "金獅子 vs 麒麟 feat. 獏"
+    },
+    "24074": {
+      "song_id": 24074,
+      "filename": "24074.mp3",
+      "title": "月雪に舞う華のように",
+      "alt_titles": [
+        "Tsukiyuki ni mau hananoyouni"
+      ],
+      "genre": "FOREST SNOW",
+      "artist": "猫叉Master"
+    },
+    "24075": {
+      "song_id": 24075,
+      "filename": "24075.mp3",
+      "title": "INVISIBLE STRIX",
+      "alt_titles": [],
+      "genre": "NEUROFUNK",
+      "artist": "L.E.D."
+    },
+    "24076": {
+      "song_id": 24076,
+      "filename": "24076.mp3",
+      "title": "RAIN",
+      "alt_titles": [],
+      "genre": "TRANCE",
+      "artist": "dj TAKA"
+    },
+    "24077": {
+      "song_id": 24077,
+      "filename": "24077.mp3",
+      "title": "刃図羅",
+      "alt_titles": [
+        "BUZRA"
+      ],
+      "genre": "LAST ARTS",
+      "artist": "猫叉Master vs HuΣeR"
+    },
+    "24078": {
+      "song_id": 24078,
+      "filename": "24078.mp3",
+      "title": "〆",
+      "alt_titles": [
+        "SHIME"
+      ],
+      "genre": "HiTECH",
+      "artist": "lapix"
+    },
+    "24079": {
+      "song_id": 24079,
+      "filename": "24079.mp3",
+      "title": "BabeL 〜Grand Story〜",
+      "alt_titles": [
+        "BabeL -Grand Story-",
+        "Babel"
+      ],
+      "genre": "SPIRAL STAIRS",
+      "artist": "Ako Atak"
+    },
+    "24080": {
+      "song_id": 24080,
+      "filename": "24080.mp3",
+      "title": "BroGamer",
+      "alt_titles": [],
+      "genre": "SUPER ULTIMATE HYPER CORE",
+      "artist": "USAO"
+    },
+    "24081": {
+      "song_id": 24081,
+      "filename": "24081.mp3",
+      "title": "Beat Juggling Mix",
+      "alt_titles": [],
+      "genre": "DJ BATTLE",
+      "artist": "Hommarju"
+    },
+    "24082": {
+      "song_id": 24082,
+      "filename": "24082.mp3",
+      "title": "SEQUENCE CAT",
+      "alt_titles": [],
+      "genre": "TECHNO",
+      "artist": "SLEDLAKE (SLAKE & L.E.D.)"
+    },
+    "24083": {
+      "song_id": 24083,
+      "filename": "24083.mp3",
+      "title": "nostos",
+      "alt_titles": [],
+      "genre": "NOSTALGIA",
+      "artist": "Setaria Virtuoso"
+    },
+    "24084": {
+      "song_id": 24084,
+      "filename": "24084.mp3",
+      "title": "crew",
+      "alt_titles": [],
+      "genre": "ANTHEM",
+      "artist": "beatnation Records"
+    },
+    "24085": {
+      "song_id": 24085,
+      "filename": "24085.mp3",
+      "title": "Macuilxochitl",
+      "alt_titles": [],
+      "genre": "PIANO CONTEMPORARY",
+      "artist": "TOMOSUKE"
+    },
+    "24086": {
+      "song_id": 24086,
+      "filename": "24086.mp3",
+      "title": "Summerlights(IIDX Edition)",
+      "alt_titles": [
+        "Summerlights"
+      ],
+      "genre": "HARDCORE RAVE",
+      "artist": "DJ Noriken"
+    },
+    "24087": {
+      "song_id": 24087,
+      "filename": "24087.mp3",
+      "title": "HAPPY★RUSH",
+      "alt_titles": [
+        "HAPPY RUSH"
+      ],
+      "genre": "HAPPY",
+      "artist": "P*Light"
+    },
+    "24088": {
+      "song_id": 24088,
+      "filename": "24088.mp3",
+      "title": "Surf on the Light",
+      "alt_titles": [],
+      "genre": "ELECTRO FUSION",
+      "artist": "Tomoyuki Uchida"
+    },
+    "24089": {
+      "song_id": 24089,
+      "filename": "24089.mp3",
+      "title": "Venom",
+      "alt_titles": [],
+      "genre": "JUMP UP/HARDCORE",
+      "artist": "kors k vs L.E.D.-G"
+    },
+    "24090": {
+      "song_id": 24090,
+      "filename": "24090.mp3",
+      "title": "Cyber True Color",
+      "alt_titles": [],
+      "genre": "DREAM COLLABORATION",
+      "artist": "kors k vs Sota Fujimori"
+    },
+    "24091": {
+      "song_id": 24091,
+      "filename": "24091.mp3",
+      "title": "恋はどう？モロ◎波動OK☆方程式!!",
+      "alt_titles": [
+        "koihadou? moro hadou ok houteishiki!!"
+      ],
+      "genre": "理系ポップ",
+      "artist": "あべにゅうぷろじぇくと feat. 佐倉紗織 produced by ave;new"
+    },
+    "24092": {
+      "song_id": 24092,
+      "filename": "24092.mp3",
+      "title": "Vermilion",
+      "alt_titles": [],
+      "genre": "HARD HOUSE",
+      "artist": "Remo-con"
+    },
+    "24093": {
+      "song_id": 24093,
+      "filename": "24093.mp3",
+      "title": "Lost wing at.0",
+      "alt_titles": [],
+      "genre": "DRUM'N'BASS",
+      "artist": "猫叉Master+"
+    },
+    "24094": {
+      "song_id": 24094,
+      "filename": "24094.mp3",
+      "title": "童話回廊",
+      "alt_titles": [
+        "DOUWAKAIROU"
+      ],
+      "genre": "空想ファンタジーシリーズ",
+      "artist": "DJ TOTTO"
+    },
+    "24095": {
+      "song_id": 24095,
+      "filename": "24095.mp3",
+      "title": "Apocalypse",
+      "alt_titles": [],
+      "genre": "EPIC D'N'B",
+      "artist": "Morrigan feat. リリィ"
+    },
     "30000": {
       "song_id": 30000,
       "filename": "30000.mp3",
@@ -54,14 +891,16 @@
       "song_id": 30006,
       "filename": "30006.mp3",
       "title": "[ ]DENTITY",
-      "alt_titles": [],
+      "alt_titles": [
+        "IDENTITY"
+      ],
       "genre": "FORTUNE OVERTURE",
       "artist": "BEMANI Sound Team \"HuΣeR\""
     },
     "30007": {
       "song_id": 30007,
       "filename": "30007.mp3",
-      "title": "V?ID",
+      "title": "VØID",
       "alt_titles": [
         "VOID"
       ],
@@ -73,7 +912,7 @@
       "filename": "30008.mp3",
       "title": "FLARE -炎舞- ft.Nana Takahashi",
       "alt_titles": [
-        "FLARE -ENBU- ft.Nana Takahashi"
+        "FLARE"
       ],
       "genre": "BPL S3 THEME",
       "artist": "BEMANI Sound Team \"dj TAKA\" Vs SOUND HOLIC"
@@ -125,7 +964,7 @@
       "filename": "30014.mp3",
       "title": "サヨナラ・ヘヴン-Celtic Chip Dance Mix-",
       "alt_titles": [
-        "Sayonara Heaven-Celtic Chip Dance Mix-"
+        "Sayonara Heaven -Celtic Chip Dance Mix-"
       ],
       "genre": "BEMANI 8BIT COLLECTION",
       "artist": "しのりゅー"
@@ -161,7 +1000,8 @@
       "filename": "30018.mp3",
       "title": "■□模様",
       "alt_titles": [
-        "B.W.ASPECT"
+        "B.W.ASPECT",
+        "Black White Aspect"
       ],
       "genre": "ALTERNATIVE SHIBUYA E-POP",
       "artist": "BEMANI Sound Team \"PHQUASE\" feat.紫崎 雪"
@@ -221,7 +1061,7 @@
       "filename": "30027.mp3",
       "title": "kors k's How to make OTOGE CORE 「LONG」",
       "alt_titles": [
-        "kors k's How to make OTOGE CORE LONG"
+        "How to make OTOGE CORE LONG"
       ],
       "genre": "CHANNEL K",
       "artist": "kors k"
@@ -257,7 +1097,7 @@
       "filename": "30031.mp3",
       "title": "月と夢の跡 ft. マナ",
       "alt_titles": [
-        "tsuki to yume no ato ft.mana"
+        "tsuki to yume no ato"
       ],
       "genre": "J METAL×DANCE POP",
       "artist": "Xceon"
@@ -274,7 +1114,9 @@
       "song_id": 30033,
       "filename": "30033.mp3",
       "title": "C-C-C-N-N-N",
-      "alt_titles": [],
+      "alt_titles": [
+        "CCCNNN"
+      ],
       "genre": "ELECTRONICORE",
       "artist": "RoughSkreamZ feat. Aikapin"
     },
@@ -374,7 +1216,9 @@
       "song_id": 30045,
       "filename": "30045.mp3",
       "title": "wanna be a \"BAD GIRL\" feat. Nana Takahashi",
-      "alt_titles": [],
+      "alt_titles": [
+        "wanna be a \"BAD GIRL\""
+      ],
       "genre": "FUNK POP",
       "artist": "Nhato"
     },
@@ -537,7 +1381,8 @@
       "filename": "30064.mp3",
       "title": "チェイスチェイスジョーカーズのうた (オニスタイルリミックス)",
       "alt_titles": [
-        "Chase Chase Jokers No Uta (Oni Style Remix)"
+        "Chase Chase Jokers No Uta (Oni Style Remix)",
+        "Chase Chase Jokers No Uta"
       ],
       "genre": "ウラシュダイカ",
       "artist": "ちよこ & 一ノ瀬 月琉 Prod. by RoughSketch & NUE"
@@ -595,7 +1440,7 @@
       "filename": "30072.mp3",
       "title": "あるビー！ feat.ころねぽち",
       "alt_titles": [
-        "Aru B! feat.PochiKorone"
+        "Aru B!"
       ],
       "genre": "ピコピコ電波ソング",
       "artist": "ヒゲドライバー"
@@ -605,7 +1450,7 @@
       "filename": "30073.mp3",
       "title": "真夜中のバベル",
       "alt_titles": [
-        "MidnightBabel"
+        "Midnight Babel"
       ],
       "genre": "HOUSE",
       "artist": "Len"
@@ -747,9 +1592,10 @@
     "30089": {
       "song_id": 30089,
       "filename": "30089.mp3",
-      "title": "?u Legends",
+      "title": "Ōu Legends",
       "alt_titles": [
-        "Tohoku Densetsu"
+        "Tohoku Densetsu",
+        "Ou Legends"
       ],
       "genre": "TOHOKU NEURO DENSETSU",
       "artist": "かめりあ"
@@ -881,7 +1727,8 @@
       "filename": "30105.mp3",
       "title": "マツケンサンバII",
       "alt_titles": [
-        "Matsuken SambaII"
+        "Matsuken Samba II",
+        "Matsuken Samba"
       ],
       "genre": "IIDX EDITION",
       "artist": "Remixed by Ryu☆ feat. BEMANI Sound Team \"ショッチョー\" ＆ イオ"
