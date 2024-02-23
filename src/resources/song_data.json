@@ -1771,6 +1771,850 @@
       "genre": "BEMANIZED ROCKCORE",
       "artist": "いちか"
     },
+    "29000": {
+      "song_id": 29000,
+      "filename": "29000.mp3",
+      "title": "LIVE DRIVING!! feat. 花たん",
+      "alt_titles": [
+        "LIVE DRIVING!! feat. Hanatan"
+      ],
+      "genre": "HARD ELECTRIC POP",
+      "artist": "BEMANI Sound Team \"S-C-U vs L.E.D.\""
+    },
+    "29001": {
+      "song_id": 29001,
+      "filename": "29001.mp3",
+      "title": "SOLID WYVERN",
+      "alt_titles": [],
+      "genre": "HARDPSY",
+      "artist": "BEMANI Sound Team \"L.E.D.\""
+    },
+    "29002": {
+      "song_id": 29002,
+      "filename": "29002.mp3",
+      "title": "GRAVITON",
+      "alt_titles": [],
+      "genre": "NEUROFUNK",
+      "artist": "BEMANI Sound Team \"L.E.D.\""
+    },
+    "29003": {
+      "song_id": 29003,
+      "filename": "29003.mp3",
+      "title": "PLASMA SOUL NIGHT feat. Nana Takahashi / 709sec.",
+      "alt_titles": [],
+      "genre": "LIGHTNING EUROBEAT",
+      "artist": "BEMANI Sound Team \"L.E.D.\""
+    },
+    "29005": {
+      "song_id": 29005,
+      "filename": "29005.mp3",
+      "title": "HEARTACHE",
+      "alt_titles": [],
+      "genre": "HEALING FUTURE",
+      "artist": "BEMANI Sound Team \"HuΣeR\" feat.ゆきまめ"
+    },
+    "29006": {
+      "song_id": 29006,
+      "filename": "29006.mp3",
+      "title": "Onyx",
+      "alt_titles": [],
+      "genre": "STYLISH COLOUR",
+      "artist": "BEMANI Sound Team \"HuΣeR\""
+    },
+    "29007": {
+      "song_id": 29007,
+      "filename": "29007.mp3",
+      "title": "ALTERNATOR",
+      "alt_titles": [],
+      "genre": "IRREGULAR OMNIBUS HARDCORE",
+      "artist": "BEMANI Sound Team \"dj Hellix\""
+    },
+    "29008": {
+      "song_id": 29008,
+      "filename": "29008.mp3",
+      "title": "ANEMONE",
+      "alt_titles": [],
+      "genre": "EMOTIONAL J-POP",
+      "artist": "BEMANI Sound Team \"HuΣeR × Yvya\" feat.紫村 花澄"
+    },
+    "29009": {
+      "song_id": 29009,
+      "filename": "29009.mp3",
+      "title": "Tail Lights",
+      "alt_titles": [],
+      "genre": "TRANCE",
+      "artist": "BEMANI Sound Team \"dj TAKA\" feat.nana hatori"
+    },
+    "29010": {
+      "song_id": 29010,
+      "filename": "29010.mp3",
+      "title": "Binary Black Hole",
+      "alt_titles": [],
+      "genre": "BLACK OUT",
+      "artist": "BEMANI Sound Team \"D.J.Amuro\""
+    },
+    "29011": {
+      "song_id": 29011,
+      "filename": "29011.mp3",
+      "title": "Divine Heaven",
+      "alt_titles": [],
+      "genre": "BIG ANTHEM",
+      "artist": "Absolute The 4th"
+    },
+    "29012": {
+      "song_id": 29012,
+      "filename": "29012.mp3",
+      "title": "ハイテックトキオ",
+      "alt_titles": [
+        "HiTECH TOKIO"
+      ],
+      "genre": "ハイテックトキオ",
+      "artist": "lapix ∞ BEMANI Sound Team \"Sota Fujimori\""
+    },
+    "29013": {
+      "song_id": 29013,
+      "filename": "29013.mp3",
+      "title": "AMICABLE",
+      "alt_titles": [],
+      "genre": "FUTURE POP",
+      "artist": "BEMANI Sound Team \"Sota F.\""
+    },
+    "29014": {
+      "song_id": 29014,
+      "filename": "29014.mp3",
+      "title": "ILAYZA",
+      "alt_titles": [],
+      "genre": "EMOTIONAL SENTENCE -INSTRUMENTAL-",
+      "artist": "BEMANI Sound Team \"TAG\""
+    },
+    "29015": {
+      "song_id": 29015,
+      "filename": "29015.mp3",
+      "title": "ウツシミウツシ",
+      "alt_titles": [
+        "transfer reflection"
+      ],
+      "genre": "ALTERNATIVE DANCE CORE",
+      "artist": "BEMANI Sound Team \"PHQUASE\" feat.ぁゅ"
+    },
+    "29016": {
+      "song_id": 29016,
+      "filename": "29016.mp3",
+      "title": "SPARK IN THE NIGHT",
+      "alt_titles": [],
+      "genre": "EUPHORIC HARDSTYLE",
+      "artist": "BEMANI Sound Team \"L.E.D.-G\""
+    },
+    "29017": {
+      "song_id": 29017,
+      "filename": "29017.mp3",
+      "title": "ピアノ独奏無言歌 \"灰燼\"",
+      "alt_titles": [
+        "Lied ohne Worte \"Asche-Traum\""
+      ],
+      "genre": "THRENODY",
+      "artist": "BEMANI Sound Team \"Virkato Wakhmaninov\""
+    },
+    "29018": {
+      "song_id": 29018,
+      "filename": "29018.mp3",
+      "title": "DISPARATE",
+      "alt_titles": [],
+      "genre": "CYBERPUNK",
+      "artist": "BEMANI Sound Team \"Captain Sonic\""
+    },
+    "29019": {
+      "song_id": 29019,
+      "filename": "29019.mp3",
+      "title": "Pout",
+      "alt_titles": [],
+      "genre": "FUTURE BASS",
+      "artist": "BEMANI Sound Team \"SYUNN\""
+    },
+    "29020": {
+      "song_id": 29020,
+      "filename": "29020.mp3",
+      "title": "DREAM OF SPACE UFO ABDUCTION",
+      "alt_titles": [],
+      "genre": "ABDUCTION BEAT",
+      "artist": "BEMANI Sound Team \"謎の宇宙人スペースX\""
+    },
+    "29021": {
+      "song_id": 29021,
+      "filename": "29021.mp3",
+      "title": "Lawes's Parotia",
+      "alt_titles": [],
+      "genre": "PROGRESSIVE METAL",
+      "artist": "BEMANI Sound Team \"Yvya\""
+    },
+    "29022": {
+      "song_id": 29022,
+      "filename": "29022.mp3",
+      "title": "PIRATES BLADE",
+      "alt_titles": [],
+      "genre": "STORMY SEA",
+      "artist": "BEMANI Sound Team \"劇団レコード\""
+    },
+    "29023": {
+      "song_id": 29023,
+      "filename": "29023.mp3",
+      "title": "Legendary Treasures",
+      "alt_titles": [],
+      "genre": "ADVENTURE TRIP",
+      "artist": "BEMANI Sound Team \"劇団レコード\""
+    },
+    "29024": {
+      "song_id": 29024,
+      "filename": "29024.mp3",
+      "title": "Prohibited Props",
+      "alt_titles": [],
+      "genre": "VARIABLE FUTURE BASS",
+      "artist": "BEMANI Sound Team \"ZAQUVA\""
+    },
+    "29025": {
+      "song_id": 29025,
+      "filename": "29025.mp3",
+      "title": "Purple Perplex",
+      "alt_titles": [],
+      "genre": "MELODIC RIDDIM",
+      "artist": "Eagle"
+    },
+    "29026": {
+      "song_id": 29026,
+      "filename": "29026.mp3",
+      "title": "kors k's How to make OTOGE CORE",
+      "alt_titles": [],
+      "genre": "CHANNEL K",
+      "artist": "kors k"
+    },
+    "29027": {
+      "song_id": 29027,
+      "filename": "29027.mp3",
+      "title": "2 Beasts Unchained",
+      "alt_titles": [],
+      "genre": "HARDCORE",
+      "artist": "kors k vs Yooh"
+    },
+    "29028": {
+      "song_id": 29028,
+      "filename": "29028.mp3",
+      "title": "愛しくてラヴィンユー ft. マナ",
+      "alt_titles": [
+        "itoshikute love in you ft.mana"
+      ],
+      "genre": "EURO BEAT",
+      "artist": "Xceon"
+    },
+    "29029": {
+      "song_id": 29029,
+      "filename": "29029.mp3",
+      "title": "Fegrix",
+      "alt_titles": [],
+      "genre": "EURO BEAT",
+      "artist": "Xceon vs DJ Command (Eurobeat Union)"
+    },
+    "29030": {
+      "song_id": 29030,
+      "filename": "29030.mp3",
+      "title": "GiGaGaHell",
+      "alt_titles": [],
+      "genre": "EXTRATONE",
+      "artist": "m1dy, RoughSketch"
+    },
+    "29031": {
+      "song_id": 29031,
+      "filename": "29031.mp3",
+      "title": "Skreaming for Salvation",
+      "alt_titles": [],
+      "genre": "DIGITAL HARDCORE",
+      "artist": "RoughSkreamZ"
+    },
+    "29032": {
+      "song_id": 29032,
+      "filename": "29032.mp3",
+      "title": "Votania Beat",
+      "alt_titles": [],
+      "genre": "BEAT MUSIC",
+      "artist": "まろん vs. ビートまりお"
+    },
+    "29033": {
+      "song_id": 29033,
+      "filename": "29033.mp3",
+      "title": "Xyndrome",
+      "alt_titles": [],
+      "genre": "FRENCHCORE",
+      "artist": "nora2r"
+    },
+    "29035": {
+      "song_id": 29035,
+      "filename": "29035.mp3",
+      "title": "Wonderful Escape",
+      "alt_titles": [],
+      "genre": "NU DRUM & BASS",
+      "artist": "D? D? MOUSE"
+    },
+    "29036": {
+      "song_id": 29036,
+      "filename": "29036.mp3",
+      "title": "FINALLY BLAZE",
+      "alt_titles": [],
+      "genre": "ENERGETIC HARDCORE",
+      "artist": "BlackY"
+    },
+    "29037": {
+      "song_id": 29037,
+      "filename": "29037.mp3",
+      "title": "Victory Of Ravers",
+      "alt_titles": [],
+      "genre": "HARDCORE RAVE",
+      "artist": "DJ Shimamura"
+    },
+    "29038": {
+      "song_id": 29038,
+      "filename": "29038.mp3",
+      "title": "青の洞窟",
+      "alt_titles": [
+        "Blue Grotto"
+      ],
+      "genre": "AQUARIUM QUARTERSTEP",
+      "artist": "Ujico*"
+    },
+    "29039": {
+      "song_id": 29039,
+      "filename": "29039.mp3",
+      "title": "Banger Banger Banger Banger",
+      "alt_titles": [],
+      "genre": "EARLY RAVE",
+      "artist": "nora2r"
+    },
+    "29040": {
+      "song_id": 29040,
+      "filename": "29040.mp3",
+      "title": "Get set, Go! feat.Kanae Asaba",
+      "alt_titles": [],
+      "genre": "FUTURE BOUNCE",
+      "artist": "MK"
+    },
+    "29041": {
+      "song_id": 29041,
+      "filename": "29041.mp3",
+      "title": "天邪鬼",
+      "alt_titles": [
+        "AMANOJAKU"
+      ],
+      "genre": "HARD DANCE",
+      "artist": "Qlarabelle"
+    },
+    "29042": {
+      "song_id": 29042,
+      "filename": "29042.mp3",
+      "title": "RAGE feat.H14 of LEONAIR",
+      "alt_titles": [],
+      "genre": "MIXTURE",
+      "artist": "DJ Mass MAD Izm*"
+    },
+    "29043": {
+      "song_id": 29043,
+      "filename": "29043.mp3",
+      "title": "Fantastic Merry-Go-Round",
+      "alt_titles": [],
+      "genre": "DIGITAL POP",
+      "artist": "SOUND HOLIC feat. Nana Takahashi"
+    },
+    "29044": {
+      "song_id": 29044,
+      "filename": "29044.mp3",
+      "title": "Blue Bird feat. Kanae Asaba",
+      "alt_titles": [],
+      "genre": "LATIN FUSION POP",
+      "artist": "Nhato"
+    },
+    "29045": {
+      "song_id": 29045,
+      "filename": "29045.mp3",
+      "title": "禊",
+      "alt_titles": [
+        "Misogi"
+      ],
+      "genre": "HARD PSY TRANCE",
+      "artist": "Nhato"
+    },
+    "29046": {
+      "song_id": 29046,
+      "filename": "29046.mp3",
+      "title": "Ariah",
+      "alt_titles": [],
+      "genre": "UNSUNG REQUIEM",
+      "artist": "satella feat.藍月なくる"
+    },
+    "29047": {
+      "song_id": 29047,
+      "filename": "29047.mp3",
+      "title": "Nocturnal 2097",
+      "alt_titles": [],
+      "genre": "DARKSYNTH",
+      "artist": "Dirty Androids"
+    },
+    "29049": {
+      "song_id": 29049,
+      "filename": "29049.mp3",
+      "title": "Flying Castle",
+      "alt_titles": [],
+      "genre": "COLOUR CORE",
+      "artist": "lapix"
+    },
+    "29050": {
+      "song_id": 29050,
+      "filename": "29050.mp3",
+      "title": "WHA",
+      "alt_titles": [],
+      "genre": "CROSSO-WHA-R",
+      "artist": "かめりあ involving ななひら"
+    },
+    "29051": {
+      "song_id": 29051,
+      "filename": "29051.mp3",
+      "title": "N.O.",
+      "alt_titles": [],
+      "genre": "ASTRONOMICAL TECHNO",
+      "artist": "かめりあ"
+    },
+    "29052": {
+      "song_id": 29052,
+      "filename": "29052.mp3",
+      "title": "烽火連天の刃",
+      "alt_titles": [
+        "HOKA RENTEN NO YAIBA"
+      ],
+      "genre": "CYBER TAIGA",
+      "artist": "OSTER project"
+    },
+    "29053": {
+      "song_id": 29053,
+      "filename": "29053.mp3",
+      "title": "オールトの雲",
+      "alt_titles": [
+        "Oort Cloud"
+      ],
+      "genre": "GALAXY QUEST",
+      "artist": "OSTER project"
+    },
+    "29054": {
+      "song_id": 29054,
+      "filename": "29054.mp3",
+      "title": "Smalt #28598F",
+      "alt_titles": [
+        "Smalt 28598F"
+      ],
+      "genre": "TECH DANCE",
+      "artist": "REMO-CON"
+    },
+    "29055": {
+      "song_id": 29055,
+      "filename": "29055.mp3",
+      "title": "Ergosphere",
+      "alt_titles": [],
+      "genre": "亜空間ジャズ",
+      "artist": "TOMOSUKE"
+    },
+    "29056": {
+      "song_id": 29056,
+      "filename": "29056.mp3",
+      "title": "EMOTiON TRiPPER",
+      "alt_titles": [],
+      "genre": "ELECTRIC POP",
+      "artist": "sky_delta"
+    },
+    "29057": {
+      "song_id": 29057,
+      "filename": "29057.mp3",
+      "title": "808monkey",
+      "alt_titles": [],
+      "genre": "JUNGLE TERROR",
+      "artist": "AJURIKA"
+    },
+    "29058": {
+      "song_id": 29058,
+      "filename": "29058.mp3",
+      "title": "10000 MILES AWAY",
+      "alt_titles": [],
+      "genre": "DRUMSTEP",
+      "artist": "AJURIKA"
+    },
+    "29060": {
+      "song_id": 29060,
+      "filename": "29060.mp3",
+      "title": "口カラ凸ゲキ",
+      "alt_titles": [
+        "Kuchi kara Totsugeki"
+      ],
+      "genre": "HUMAN BEATBOX ELECTRO",
+      "artist": "SARUKANI × Blacklolita"
+    },
+    "29061": {
+      "song_id": 29061,
+      "filename": "29061.mp3",
+      "title": "n/a",
+      "alt_titles": [],
+      "genre": "SYMPHONIC DUBSTEP",
+      "artist": "Blacklolita"
+    },
+    "29062": {
+      "song_id": 29062,
+      "filename": "29062.mp3",
+      "title": "Angel's Ladder",
+      "alt_titles": [],
+      "genre": "PIANO TECH",
+      "artist": "xi"
+    },
+    "29063": {
+      "song_id": 29063,
+      "filename": "29063.mp3",
+      "title": "Ventriloquist",
+      "alt_titles": [],
+      "genre": "JAZZY STEP",
+      "artist": "Avans"
+    },
+    "29064": {
+      "song_id": 29064,
+      "filename": "29064.mp3",
+      "title": "Non Stop Rock",
+      "alt_titles": [],
+      "genre": "DRUM'N'BASS",
+      "artist": "Masayoshi Iimori"
+    },
+    "29065": {
+      "song_id": 29065,
+      "filename": "29065.mp3",
+      "title": "ナイトフィクション",
+      "alt_titles": [
+        "Night Fiction"
+      ],
+      "genre": "ALTERNATIVE",
+      "artist": "中山真斗 feat. CHAN"
+    },
+    "29066": {
+      "song_id": 29066,
+      "filename": "29066.mp3",
+      "title": "hard-wired",
+      "alt_titles": [],
+      "genre": "HIDEOUT",
+      "artist": "Yuta Imai ≡ Blacklolita"
+    },
+    "29068": {
+      "song_id": 29068,
+      "filename": "29068.mp3",
+      "title": "雪上断火",
+      "alt_titles": [
+        "Burn out beyond determination on snowy"
+      ],
+      "genre": "HIP ROCK3",
+      "artist": "Des-ROW・組"
+    },
+    "29069": {
+      "song_id": 29069,
+      "filename": "29069.mp3",
+      "title": "No Day But Today!",
+      "alt_titles": [],
+      "genre": "J-POP",
+      "artist": "NU-KO & yunocy"
+    },
+    "29070": {
+      "song_id": 29070,
+      "filename": "29070.mp3",
+      "title": "Arkadia",
+      "alt_titles": [],
+      "genre": "FREEFORM HARDCORE",
+      "artist": "Hommarju ft. Mayumi Morinaga"
+    },
+    "29071": {
+      "song_id": 29071,
+      "filename": "29071.mp3",
+      "title": "踊",
+      "alt_titles": [
+        "ODO"
+      ],
+      "genre": "J-POP",
+      "artist": "Ado"
+    },
+    "29072": {
+      "song_id": 29072,
+      "filename": "29072.mp3",
+      "title": "デモーニッシュ",
+      "alt_titles": [
+        "damonisch"
+      ],
+      "genre": "J-POP",
+      "artist": "ツユ"
+    },
+    "29074": {
+      "song_id": 29074,
+      "filename": "29074.mp3",
+      "title": "アクマフカ",
+      "alt_titles": [
+        "Akumafuka"
+      ],
+      "genre": "ROCK",
+      "artist": "Pizuya's Cell"
+    },
+    "29075": {
+      "song_id": 29075,
+      "filename": "29075.mp3",
+      "title": "シル・ヴ・プレジデント",
+      "alt_titles": [
+        "S'IL VOUS PRESIDENT"
+      ],
+      "genre": "J-POP",
+      "artist": "P丸様。"
+    },
+    "29076": {
+      "song_id": 29076,
+      "filename": "29076.mp3",
+      "title": "Don't believe the hype",
+      "alt_titles": [],
+      "genre": "MIXTURE",
+      "artist": "DJ Mass MAD Izm* feat.H14(LEONAIR)"
+    },
+    "29077": {
+      "song_id": 29077,
+      "filename": "29077.mp3",
+      "title": "P.O.W.E.R.",
+      "alt_titles": [],
+      "genre": "RAWSTYLE",
+      "artist": "Yuta Imai"
+    },
+    "29078": {
+      "song_id": 29078,
+      "filename": "29078.mp3",
+      "title": "ABSOLUTE EVIL",
+      "alt_titles": [],
+      "genre": "EUPHORIC FRENCHCORE",
+      "artist": "Yuta Imai"
+    },
+    "29079": {
+      "song_id": 29079,
+      "filename": "29079.mp3",
+      "title": "月とミルク",
+      "alt_titles": [
+        "Tsuki To Milk"
+      ],
+      "genre": "CHIPBREAK POP",
+      "artist": "TORIENA"
+    },
+    "29080": {
+      "song_id": 29080,
+      "filename": "29080.mp3",
+      "title": "めでてえ",
+      "alt_titles": [
+        "Medetee"
+      ],
+      "genre": "ハッピースピードコア",
+      "artist": "TORIENA"
+    },
+    "29081": {
+      "song_id": 29081,
+      "filename": "29081.mp3",
+      "title": "怪物",
+      "alt_titles": [
+        "KAIBUTSU"
+      ],
+      "genre": "IIDX EDITION",
+      "artist": "Remixed by Nhato feat. ricono"
+    },
+    "29082": {
+      "song_id": 29082,
+      "filename": "29082.mp3",
+      "title": "ミュージック・アワー",
+      "alt_titles": [
+        "Music Hour"
+      ],
+      "genre": "IIDX EDITION",
+      "artist": "Remixed by BEMANI Sound Team \"PON\""
+    },
+    "29083": {
+      "song_id": 29083,
+      "filename": "29083.mp3",
+      "title": "ぐだふわエブリデー",
+      "alt_titles": [
+        "gudafuwa everyday"
+      ],
+      "genre": "IIDX EDITION",
+      "artist": "Remixed by Xceon feat. Marcia(幽閉サテライト)"
+    },
+    "29084": {
+      "song_id": 29084,
+      "filename": "29084.mp3",
+      "title": "Silver Bullet",
+      "alt_titles": [],
+      "genre": "PIANO CONCERTINO + JAZZ FUSION",
+      "artist": "xi"
+    },
+    "29085": {
+      "song_id": 29085,
+      "filename": "29085.mp3",
+      "title": "オドループ",
+      "alt_titles": [
+        "oddloop"
+      ],
+      "genre": "J-POP",
+      "artist": "フレデリック"
+    },
+    "29086": {
+      "song_id": 29086,
+      "filename": "29086.mp3",
+      "title": "《GRANDMASTER》",
+      "alt_titles": [
+        "GRANDMASTER"
+      ],
+      "genre": "TRIUMPH",
+      "artist": "Blacklolita"
+    },
+    "29087": {
+      "song_id": 29087,
+      "filename": "29087.mp3",
+      "title": "Game Changers",
+      "alt_titles": [],
+      "genre": "HARD MIXTURE",
+      "artist": "Yuta Imai"
+    },
+    "29088": {
+      "song_id": 29088,
+      "filename": "29088.mp3",
+      "title": "Hat Surprise",
+      "alt_titles": [],
+      "genre": "UK HARDCORE",
+      "artist": "Hommarju"
+    },
+    "29089": {
+      "song_id": 29089,
+      "filename": "29089.mp3",
+      "title": "TOMAHAWK",
+      "alt_titles": [],
+      "genre": "SUPER HARDCORE NOVA",
+      "artist": "かめりあ"
+    },
+    "29090": {
+      "song_id": 29090,
+      "filename": "29090.mp3",
+      "title": "One for All",
+      "alt_titles": [],
+      "genre": "EUPHORIC FRENCHCORE",
+      "artist": "RoughSketch"
+    },
+    "29091": {
+      "song_id": 29091,
+      "filename": "29091.mp3",
+      "title": "Brave Spirits",
+      "alt_titles": [],
+      "genre": "MELODIC RIDDIM",
+      "artist": "MK"
+    },
+    "29092": {
+      "song_id": 29092,
+      "filename": "29092.mp3",
+      "title": "Triple Cross",
+      "alt_titles": [],
+      "genre": "MUSIC GAME TRADITIONAL",
+      "artist": "BEMANI Sound Team \"dj TAKA & DJ YOSHITAKA & SYUNN\""
+    },
+    "29093": {
+      "song_id": 29093,
+      "filename": "29093.mp3",
+      "title": "Aftermath",
+      "alt_titles": [],
+      "genre": "ROCK",
+      "artist": "BEMANI Sound Team \"猫叉Master & あさき & Yvya\""
+    },
+    "29094": {
+      "song_id": 29094,
+      "filename": "29094.mp3",
+      "title": "逆月",
+      "alt_titles": [
+        "SAKADUKI"
+      ],
+      "genre": "JAPANESQUE",
+      "artist": "BEMANI Sound Team \"HuΣeR\" feat.Fernweh"
+    },
+    "29095": {
+      "song_id": 29095,
+      "filename": "29095.mp3",
+      "title": "Souhait bleu",
+      "alt_titles": [],
+      "genre": "ALCHEMY POP",
+      "artist": "しーけー"
+    },
+    "29096": {
+      "song_id": 29096,
+      "filename": "29096.mp3",
+      "title": "Harmonia",
+      "alt_titles": [],
+      "genre": "NU PRELUDE",
+      "artist": "ATSUMI UEDA"
+    },
+    "29097": {
+      "song_id": 29097,
+      "filename": "29097.mp3",
+      "title": "Stepper",
+      "alt_titles": [],
+      "genre": "DANCE MUSIC",
+      "artist": "PSYQUI"
+    },
+    "29098": {
+      "song_id": 29098,
+      "filename": "29098.mp3",
+      "title": "Push on Beats!〜音ゲの国のeX-ストリーマー〜",
+      "alt_titles": [
+        "Push on Beats!Otoge no Kuni no eX-Streamer"
+      ],
+      "genre": "AKIBA-POP",
+      "artist": "MOSAIC.WAV"
+    },
+    "29099": {
+      "song_id": 29099,
+      "filename": "29099.mp3",
+      "title": "黒紅掬い",
+      "alt_titles": [
+        "kurobeni sukui"
+      ],
+      "genre": "SHOWA RETRO",
+      "artist": "猫叉Master feat.霜月はるか"
+    },
+    "29100": {
+      "song_id": 29100,
+      "filename": "29100.mp3",
+      "title": "Emera",
+      "alt_titles": [],
+      "genre": "EDM STYLE",
+      "artist": "PON"
+    },
+    "29101": {
+      "song_id": 29101,
+      "filename": "29101.mp3",
+      "title": "VR - Virtual Reality (prod.by Snail's House)",
+      "alt_titles": [],
+      "genre": "DANCE MUSIC",
+      "artist": "KMNZ"
+    },
+    "29102": {
+      "song_id": 29102,
+      "filename": "29102.mp3",
+      "title": "グッバイ宣言",
+      "alt_titles": [
+        "Good-bye Declaration"
+      ],
+      "genre": "IIDX EDITION",
+      "artist": "Remixed by uno(IOSYS) & Liqo feat. Chiyoko"
+    },
+    "29103": {
+      "song_id": 29103,
+      "filename": "29103.mp3",
+      "title": "あいつら全員同窓会",
+      "alt_titles": [
+        "Inside Joke"
+      ],
+      "genre": "J-POP",
+      "artist": "ずっと真夜中でいいのに。"
+    },
     "30000": {
       "song_id": 30000,
       "filename": "30000.mp3",
