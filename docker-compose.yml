@@ -1,6 +1,8 @@
 services:
   api:
-    build: .
+    build:
+      context: .
+      dockerfile: "standard.Dockerfile"
     container_name: api
     environment:
       PORT: 8000

@@ -13,7 +13,7 @@ ENV PYTHONDONTWRITEBYTECODE=1 \
 
 WORKDIR /app
 
-RUN python -m pip install poetry==1.7.1
+RUN python -m pip install wheel poetry==1.7.1
 
 COPY pyproject.toml poetry.lock ./
 RUN touch README.md
