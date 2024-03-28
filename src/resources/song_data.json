@@ -1,5 +1,1281 @@
 {
   "songs": {
+    "18000": {
+      "song_id": 18000,
+      "filename": "18000.mp3",
+      "title": "Stay my side",
+      "alt_titles": [],
+      "genre": "R&B",
+      "artist": "DJ Yoshitaka feat.RINA"
+    },
+    "18001": {
+      "song_id": 18001,
+      "filename": "18001.mp3",
+      "title": "Watch Out Pt.2",
+      "alt_titles": [],
+      "genre": "TECH-BREAKBEATS",
+      "artist": "DJ Mass MAD Izm* VS.DJ Yoshitaka"
+    },
+    "18002": {
+      "song_id": 18002,
+      "filename": "18002.mp3",
+      "title": "Tropical April",
+      "alt_titles": [],
+      "genre": "VACATION DANCE",
+      "artist": "Risk Junk"
+    },
+    "18003": {
+      "song_id": 18003,
+      "filename": "18003.mp3",
+      "title": "DAYDREAMER",
+      "alt_titles": [],
+      "genre": "GIRLY ROCK",
+      "artist": "ピンクターボ"
+    },
+    "18004": {
+      "song_id": 18004,
+      "filename": "18004.mp3",
+      "title": "perditus†paradisus",
+      "alt_titles": [
+        "perditus/paradisus"
+      ],
+      "genre": "ANTHEM CORE",
+      "artist": "iconoclasm"
+    },
+    "18005": {
+      "song_id": 18005,
+      "filename": "18005.mp3",
+      "title": "THE DOOR INTO RAINBOW",
+      "alt_titles": [],
+      "genre": "TRANCE",
+      "artist": "L.E.D."
+    },
+    "18006": {
+      "song_id": 18006,
+      "filename": "18006.mp3",
+      "title": "XANADU OF TWO",
+      "alt_titles": [],
+      "genre": "DANCE POP",
+      "artist": "T.Kakuta With Starving Trancer + 森永真由美"
+    },
+    "18007": {
+      "song_id": 18007,
+      "filename": "18007.mp3",
+      "title": "ELECTRIC MASSIVE DIVER",
+      "alt_titles": [],
+      "genre": "GABBA",
+      "artist": "L.E.D.-G"
+    },
+    "18008": {
+      "song_id": 18008,
+      "filename": "18008.mp3",
+      "title": "THE BLACK KNIGHT",
+      "alt_titles": [],
+      "genre": "GOA TRANCE",
+      "artist": "L.E.D."
+    },
+    "18009": {
+      "song_id": 18009,
+      "filename": "18009.mp3",
+      "title": "PARADISE LOST",
+      "alt_titles": [],
+      "genre": "TRANCE CORE",
+      "artist": "Ryu☆ Vs. L.E.D.-G"
+    },
+    "18010": {
+      "song_id": 18010,
+      "filename": "18010.mp3",
+      "title": "Never Fade Away",
+      "alt_titles": [],
+      "genre": "IIDX HANDZ UP!!",
+      "artist": "Sota Fujimori feat. dj MAX STEROID"
+    },
+    "18011": {
+      "song_id": 18011,
+      "filename": "18011.mp3",
+      "title": "おおきなこえで",
+      "alt_titles": [
+        "OOKINA KOEDE"
+      ],
+      "genre": "WORLD/POPS",
+      "artist": "猫叉Master feat.Sana"
+    },
+    "18012": {
+      "song_id": 18012,
+      "filename": "18012.mp3",
+      "title": "Destiny Sword",
+      "alt_titles": [],
+      "genre": "ELECTRIC STEP",
+      "artist": "CAPACITY GATE"
+    },
+    "18013": {
+      "song_id": 18013,
+      "filename": "18013.mp3",
+      "title": "Aegis",
+      "alt_titles": [],
+      "genre": "TECHNO",
+      "artist": "IT medalion"
+    },
+    "18014": {
+      "song_id": 18014,
+      "filename": "18014.mp3",
+      "title": "ZETA〜素数の世界と超越者〜",
+      "alt_titles": [
+        "ZETA"
+      ],
+      "genre": "IDM",
+      "artist": "Zektbach"
+    },
+    "18015": {
+      "song_id": 18015,
+      "filename": "18015.mp3",
+      "title": "旅人リラン",
+      "alt_titles": [
+        "THE FLYING RERUN"
+      ],
+      "genre": "ELECLORE",
+      "artist": "XOGO BRYKK"
+    },
+    "18016": {
+      "song_id": 18016,
+      "filename": "18016.mp3",
+      "title": "La Mar",
+      "alt_titles": [],
+      "genre": "CATALA LOUNGE",
+      "artist": "seiya-murai feat. David Solanes Venzala"
+    },
+    "18017": {
+      "song_id": 18017,
+      "filename": "18017.mp3",
+      "title": "Dances with Snow Fairies",
+      "alt_titles": [],
+      "genre": "トレンディートランス",
+      "artist": "Dr.Honda"
+    },
+    "18018": {
+      "song_id": 18018,
+      "filename": "18018.mp3",
+      "title": "I FIGHT ME",
+      "alt_titles": [],
+      "genre": "DRUM & BASS",
+      "artist": "kobo feat. Marsha"
+    },
+    "18019": {
+      "song_id": 18019,
+      "filename": "18019.mp3",
+      "title": "Vermillion",
+      "alt_titles": [],
+      "genre": "PSYCHE FUSION",
+      "artist": "Mystic Moon"
+    },
+    "18020": {
+      "song_id": 18020,
+      "filename": "18020.mp3",
+      "title": "Programmed Life",
+      "alt_titles": [],
+      "genre": "PSY TRANCE(FULL ON)",
+      "artist": "kors k"
+    },
+    "18021": {
+      "song_id": 18021,
+      "filename": "18021.mp3",
+      "title": "Kailua",
+      "alt_titles": [],
+      "genre": "ENERGETIC HAWAIIAN TRANCE",
+      "artist": "kors k"
+    },
+    "18022": {
+      "song_id": 18022,
+      "filename": "18022.mp3",
+      "title": "Bounce Bounce Bounce",
+      "alt_titles": [],
+      "genre": "DANCEHALL",
+      "artist": "kors k feat.Kanata Okajima＆楽天斎"
+    },
+    "18023": {
+      "song_id": 18023,
+      "filename": "18023.mp3",
+      "title": "Mermaid girl",
+      "alt_titles": [],
+      "genre": "BUBBLEGUM DANCE",
+      "artist": "Cream puff"
+    },
+    "18024": {
+      "song_id": 18024,
+      "filename": "18024.mp3",
+      "title": "passionate fate",
+      "alt_titles": [],
+      "genre": "HANDZ UP",
+      "artist": "Ryu☆"
+    },
+    "18025": {
+      "song_id": 18025,
+      "filename": "18025.mp3",
+      "title": "Golden Palms",
+      "alt_titles": [],
+      "genre": "NU DISCO",
+      "artist": "Dirty Androids"
+    },
+    "18026": {
+      "song_id": 18026,
+      "filename": "18026.mp3",
+      "title": "New Castle Legions",
+      "alt_titles": [],
+      "genre": "DYSTOPIA",
+      "artist": "Dirty Androids"
+    },
+    "18027": {
+      "song_id": 18027,
+      "filename": "18027.mp3",
+      "title": "BLUST OF WIND",
+      "alt_titles": [],
+      "genre": "CROSSOVER HOUSE",
+      "artist": "Anemo=Aspel by MLREC."
+    },
+    "18028": {
+      "song_id": 18028,
+      "filename": "18028.mp3",
+      "title": "BROKEN EDEN",
+      "alt_titles": [],
+      "genre": "SYMPHONIC-TEK",
+      "artist": "MYTHOLOGIA by MLREC."
+    },
+    "18029": {
+      "song_id": 18029,
+      "filename": "18029.mp3",
+      "title": "かげぬい 〜 Ver.BENIBOTAN 〜",
+      "alt_titles": [
+        "KAGENUI"
+      ],
+      "genre": "NATSU MATSURI",
+      "artist": "CULTVOICE by S.S.D.PRODUCTS"
+    },
+    "18030": {
+      "song_id": 18030,
+      "filename": "18030.mp3",
+      "title": "Rock Da House",
+      "alt_titles": [],
+      "genre": "UK HARDCORE",
+      "artist": "M-Project fw. GUHROOVY"
+    },
+    "18031": {
+      "song_id": 18031,
+      "filename": "18031.mp3",
+      "title": "EXTREMA PT. 2",
+      "alt_titles": [],
+      "genre": "TECH DANCE",
+      "artist": "Remo-con"
+    },
+    "18032": {
+      "song_id": 18032,
+      "filename": "18032.mp3",
+      "title": "灼熱Beach Side Bunny",
+      "alt_titles": [
+        "SHAKUNETSU BEACH SIDE BUNNY"
+      ],
+      "genre": "BROKEN SAMBA BREAK",
+      "artist": "DJ Mass MAD Izm*"
+    },
+    "18033": {
+      "song_id": 18033,
+      "filename": "18033.mp3",
+      "title": "Raise your hands",
+      "alt_titles": [],
+      "genre": "OKINAWA ANTHEM",
+      "artist": "Keiichi Ueno feat. RIISA"
+    },
+    "18034": {
+      "song_id": 18034,
+      "filename": "18034.mp3",
+      "title": "You Were The One",
+      "alt_titles": [],
+      "genre": "ITALO HOUSE",
+      "artist": "good-cool ft. Brenda Vaughn"
+    },
+    "18035": {
+      "song_id": 18035,
+      "filename": "18035.mp3",
+      "title": "Answer",
+      "alt_titles": [],
+      "genre": "STARPOP",
+      "artist": "星野奏子"
+    },
+    "18036": {
+      "song_id": 18036,
+      "filename": "18036.mp3",
+      "title": "WISE UP!",
+      "alt_titles": [],
+      "genre": "RESORT HOUSE",
+      "artist": "木之下慶行 feat.星野奏子"
+    },
+    "18037": {
+      "song_id": 18037,
+      "filename": "18037.mp3",
+      "title": "恋愛レボリューション21-秋葉工房mix-",
+      "alt_titles": [
+        "RENAI REVOLUTION 21 -AKIBA KOUBOU MIX-"
+      ],
+      "genre": "EUROBEAT",
+      "artist": "DJ Command feat. うさ＆ともみん"
+    },
+    "18038": {
+      "song_id": 18038,
+      "filename": "18038.mp3",
+      "title": "LIFE SCROLLING",
+      "alt_titles": [],
+      "genre": "DETROIT TECHNO",
+      "artist": "HIROSHI WATANABE"
+    },
+    "18039": {
+      "song_id": 18039,
+      "filename": "18039.mp3",
+      "title": "Session 9 -Chronicles-",
+      "alt_titles": [],
+      "genre": "ROCKIN' DRUM'N'BASS",
+      "artist": "PRASTIK DANCEFLOOR"
+    },
+    "18040": {
+      "song_id": 18040,
+      "filename": "18040.mp3",
+      "title": "Space Time",
+      "alt_titles": [],
+      "genre": "ENERGETIC TRANCE",
+      "artist": "NISH"
+    },
+    "18041": {
+      "song_id": 18041,
+      "filename": "18041.mp3",
+      "title": "ラクエン Feat.Chiharu Chonan -JAKA respect for K.S.K. Remix",
+      "alt_titles": [
+        "RAKUEN FEAT.CHIHARU CHONAN -JAKA RESPECT FOR K.S.K. REMIX"
+      ],
+      "genre": "TECHY FREEFORM",
+      "artist": "Remixed by JAKAZiD"
+    },
+    "18042": {
+      "song_id": 18042,
+      "filename": "18042.mp3",
+      "title": "夕焼け 〜Fading Day〜",
+      "alt_titles": [
+        "YUUYAKE -FADING DAY-"
+      ],
+      "genre": "AURAL ADRENALINE",
+      "artist": "JAKAZiD"
+    },
+    "18043": {
+      "song_id": 18043,
+      "filename": "18043.mp3",
+      "title": "Believe In Me",
+      "alt_titles": [],
+      "genre": "HARDCORE",
+      "artist": "Uraken feat. Calyn Tsukishima"
+    },
+    "18044": {
+      "song_id": 18044,
+      "filename": "18044.mp3",
+      "title": "Let The Track Flow",
+      "alt_titles": [],
+      "genre": "UK HARDCORE",
+      "artist": "Brisk & Ham"
+    },
+    "18045": {
+      "song_id": 18045,
+      "filename": "18045.mp3",
+      "title": "Energy Drive",
+      "alt_titles": [],
+      "genre": "HARDCORE",
+      "artist": "kevin energy"
+    },
+    "18046": {
+      "song_id": 18046,
+      "filename": "18046.mp3",
+      "title": "Hardcore Mania",
+      "alt_titles": [],
+      "genre": "HARDCORE",
+      "artist": "DJ Weaver"
+    },
+    "18047": {
+      "song_id": 18047,
+      "filename": "18047.mp3",
+      "title": "Breaking the ground",
+      "alt_titles": [],
+      "genre": "HARDCORE",
+      "artist": "Art of Fighters"
+    },
+    "18048": {
+      "song_id": 18048,
+      "filename": "18048.mp3",
+      "title": "Programmed Sun (xac Antarctic Ocean mix)",
+      "alt_titles": [],
+      "genre": "UPLIFTING TRANCE",
+      "artist": "xac"
+    },
+    "18049": {
+      "song_id": 18049,
+      "filename": "18049.mp3",
+      "title": "Cansei de S NIK",
+      "alt_titles": [],
+      "genre": "FIDGET HOUSE",
+      "artist": "PRASTIK DANCEFLOOR"
+    },
+    "18050": {
+      "song_id": 18050,
+      "filename": "18050.mp3",
+      "title": "reunion",
+      "alt_titles": [],
+      "genre": "CYBER WALTZ",
+      "artist": "Tatsh"
+    },
+    "18051": {
+      "song_id": 18051,
+      "filename": "18051.mp3",
+      "title": "ANTHEM LANDING",
+      "alt_titles": [],
+      "genre": "LATIN TEK",
+      "artist": "DJムラサメ"
+    },
+    "18052": {
+      "song_id": 18052,
+      "filename": "18052.mp3",
+      "title": "Get Out",
+      "alt_titles": [],
+      "genre": "ELECTRO",
+      "artist": "壱岐尾彩花"
+    },
+    "18053": {
+      "song_id": 18053,
+      "filename": "18053.mp3",
+      "title": "Medicine of love",
+      "alt_titles": [],
+      "genre": "MAGICAL POP",
+      "artist": "イロハ＆リリナ"
+    },
+    "18054": {
+      "song_id": 18054,
+      "filename": "18054.mp3",
+      "title": "Eternal Tears",
+      "alt_titles": [],
+      "genre": "WINTER BALLADE",
+      "artist": "ツガル"
+    },
+    "18055": {
+      "song_id": 18055,
+      "filename": "18055.mp3",
+      "title": "Fantasia",
+      "alt_titles": [],
+      "genre": "HYPER FANTASIA",
+      "artist": "ＴЁЯＲＡ"
+    },
+    "18056": {
+      "song_id": 18056,
+      "filename": "18056.mp3",
+      "title": "SABER WING",
+      "alt_titles": [],
+      "genre": "SHOOTING WALTZ",
+      "artist": "TAG"
+    },
+    "18057": {
+      "song_id": 18057,
+      "filename": "18057.mp3",
+      "title": "DM STAR〜関西 energy style〜",
+      "alt_titles": [
+        "DM STAR -KANSAI ENERGY STYLE-"
+      ],
+      "genre": "SPEED RAVE",
+      "artist": "NAOKI"
+    },
+    "18058": {
+      "song_id": 18058,
+      "filename": "18058.mp3",
+      "title": "WE LOVE SHONAN",
+      "alt_titles": [],
+      "genre": "SURF&DUB",
+      "artist": "Studio Bongo Mango feat. Likkle Mai"
+    },
+    "18059": {
+      "song_id": 18059,
+      "filename": "18059.mp3",
+      "title": "ALBIDA",
+      "alt_titles": [],
+      "genre": "HARD RENAISSANCE",
+      "artist": "DJ YOSHITAKA"
+    },
+    "18060": {
+      "song_id": 18060,
+      "filename": "18060.mp3",
+      "title": "黒髪乱れし修羅となりて",
+      "alt_titles": [
+        "KUROKAMI MIDARESHI SHURA TO NARITE"
+      ],
+      "genre": "撫子メタル",
+      "artist": "村正クオリア"
+    },
+    "18061": {
+      "song_id": 18061,
+      "filename": "18061.mp3",
+      "title": "sakura storm",
+      "alt_titles": [],
+      "genre": "HAPPY HARDCORE",
+      "artist": "Ryu☆"
+    },
+    "18062": {
+      "song_id": 18062,
+      "filename": "18062.mp3",
+      "title": "Everlasting Resort",
+      "alt_titles": [],
+      "genre": "ONLY ONE ANTHEM",
+      "artist": "SUPER STAR 満-MITSURU-"
+    },
+    "18063": {
+      "song_id": 18063,
+      "filename": "18063.mp3",
+      "title": "Take Me Higher",
+      "alt_titles": [],
+      "genre": "SYNTHETIC ELECTRO",
+      "artist": "Sota Fujimori feat.Sachi"
+    },
+    "20000": {
+      "song_id": 20000,
+      "filename": "20000.mp3",
+      "title": "planarian",
+      "alt_titles": [],
+      "genre": "ELECTRIC POP",
+      "artist": "S-C-U"
+    },
+    "20001": {
+      "song_id": 20001,
+      "filename": "20001.mp3",
+      "title": "Fractal",
+      "alt_titles": [],
+      "genre": "CYBER PROGRESSIVE",
+      "artist": "Sota Fujimori"
+    },
+    "20002": {
+      "song_id": 20002,
+      "filename": "20002.mp3",
+      "title": "Liberation",
+      "alt_titles": [],
+      "genre": "TRANCE",
+      "artist": "dj TAKA"
+    },
+    "20003": {
+      "song_id": 20003,
+      "filename": "20003.mp3",
+      "title": "ΕΛΠΙΣ",
+      "alt_titles": [
+        "Elpis"
+      ],
+      "genre": "ROMANTIC SCHOOL VARIATIONS",
+      "artist": "dj TAKA"
+    },
+    "20004": {
+      "song_id": 20004,
+      "filename": "20004.mp3",
+      "title": "狂イ咲ケ焔ノ華",
+      "alt_titles": [
+        "kuruizake homura no hana"
+      ],
+      "genre": "Hi-GOTH",
+      "artist": "覚醒ノPrim"
+    },
+    "20005": {
+      "song_id": 20005,
+      "filename": "20005.mp3",
+      "title": "BLUE STRAGGLER",
+      "alt_titles": [],
+      "genre": "HARD DANCE",
+      "artist": "L.E.D."
+    },
+    "20006": {
+      "song_id": 20006,
+      "filename": "20006.mp3",
+      "title": "トリカゴノ鳳凰",
+      "alt_titles": [
+        "TORIKAGONO HOUOH"
+      ],
+      "genre": "歌謡 DRUM & BASS",
+      "artist": "L.E.D. Vs. 幽閉サテライト"
+    },
+    "20007": {
+      "song_id": 20007,
+      "filename": "20007.mp3",
+      "title": "キャトられ?恋はモ〜モク",
+      "alt_titles": [
+        "KYATORARE KOIHA MOOMOKU"
+      ],
+      "genre": "Hi-ν BLEEP",
+      "artist": "ギュ〜っとしたい?Prim"
+    },
+    "20008": {
+      "song_id": 20008,
+      "filename": "20008.mp3",
+      "title": "Confiserie",
+      "alt_titles": [],
+      "genre": "HARD ELECTRIC POP",
+      "artist": "L.E.D. vs S-C-U"
+    },
+    "20009": {
+      "song_id": 20009,
+      "filename": "20009.mp3",
+      "title": "POINT ZERO",
+      "alt_titles": [],
+      "genre": "DRUM'N'BASS",
+      "artist": "猫叉Master+"
+    },
+    "20010": {
+      "song_id": 20010,
+      "filename": "20010.mp3",
+      "title": "portal",
+      "alt_titles": [],
+      "genre": "ELECTRO",
+      "artist": "猫叉Master+"
+    },
+    "20011": {
+      "song_id": 20011,
+      "filename": "20011.mp3",
+      "title": "connective",
+      "alt_titles": [],
+      "genre": "LOUNGE POP",
+      "artist": "猫叉Master feat.*spiLa*"
+    },
+    "20012": {
+      "song_id": 20012,
+      "filename": "20012.mp3",
+      "title": "Proof of the existence",
+      "alt_titles": [],
+      "genre": "HARD ELECTRONICA",
+      "artist": "猫叉Master+"
+    },
+    "20013": {
+      "song_id": 20013,
+      "filename": "20013.mp3",
+      "title": "Rainbow after snow",
+      "alt_titles": [],
+      "genre": "DRUM'N'BASS",
+      "artist": "猫叉Master feat.林ももこ"
+    },
+    "20014": {
+      "song_id": 20014,
+      "filename": "20014.mp3",
+      "title": "Tp-RZ",
+      "alt_titles": [],
+      "genre": "BREAKBEATS",
+      "artist": "CAPACITY GATE"
+    },
+    "20015": {
+      "song_id": 20015,
+      "filename": "20015.mp3",
+      "title": "Re:GENERATION",
+      "alt_titles": [
+        "REGENERATION"
+      ],
+      "genre": "EMOTIONAL SENTENCE",
+      "artist": "TAG feat. ERi"
+    },
+    "20016": {
+      "song_id": 20016,
+      "filename": "20016.mp3",
+      "title": "In Heaven",
+      "alt_titles": [],
+      "genre": "HEAVENLY TRANCE",
+      "artist": "Sota Fujimori"
+    },
+    "20017": {
+      "song_id": 20017,
+      "filename": "20017.mp3",
+      "title": "GRADIUS 2012",
+      "alt_titles": [],
+      "genre": "KONAMI REMIX",
+      "artist": "Sota Fujimori"
+    },
+    "20018": {
+      "song_id": 20018,
+      "filename": "20018.mp3",
+      "title": "CONCEPTUAL",
+      "alt_titles": [],
+      "genre": "HARD REVOLUTION",
+      "artist": "Sota Fujimori 2nd Season"
+    },
+    "20019": {
+      "song_id": 20019,
+      "filename": "20019.mp3",
+      "title": "龍と少女とデコヒーレンス",
+      "alt_titles": [
+        "Decoherence"
+      ],
+      "genre": "EPIC TECHNO",
+      "artist": "黒猫ダンジョン"
+    },
+    "20020": {
+      "song_id": 20020,
+      "filename": "20020.mp3",
+      "title": "Elemental Creation",
+      "alt_titles": [],
+      "genre": "HARD RENAISSANCE",
+      "artist": "dj TAKA meets DJ YOSHITAKA"
+    },
+    "20021": {
+      "song_id": 20021,
+      "filename": "20021.mp3",
+      "title": "8bit Princess",
+      "alt_titles": [],
+      "genre": "CHIPTUNE",
+      "artist": "seiya-murai feat. ALT"
+    },
+    "20022": {
+      "song_id": 20022,
+      "filename": "20022.mp3",
+      "title": "下弦の月",
+      "alt_titles": [
+        "kagen no tsuki"
+      ],
+      "genre": "NEO CLASSICAL DANCE",
+      "artist": "iNO"
+    },
+    "20023": {
+      "song_id": 20023,
+      "filename": "20023.mp3",
+      "title": "New Lights",
+      "alt_titles": [],
+      "genre": "HARDCORE",
+      "artist": "kors k"
+    },
+    "20024": {
+      "song_id": 20024,
+      "filename": "20024.mp3",
+      "title": "Howling",
+      "alt_titles": [],
+      "genre": "NU RAVE",
+      "artist": "PON"
+    },
+    "20025": {
+      "song_id": 20025,
+      "filename": "20025.mp3",
+      "title": "VEGA",
+      "alt_titles": [],
+      "genre": "UNIVERSAL J-CORE",
+      "artist": "REDALiCE"
+    },
+    "20027": {
+      "song_id": 20027,
+      "filename": "20027.mp3",
+      "title": "Praludium",
+      "alt_titles": [
+        "praludium"
+      ],
+      "genre": "CLASSICAL PIANO",
+      "artist": "Yuko Takahashi"
+    },
+    "20028": {
+      "song_id": 20028,
+      "filename": "20028.mp3",
+      "title": "rumrum triplets",
+      "alt_titles": [],
+      "genre": "LOUNGECORE",
+      "artist": "yu_tokiwa.djw"
+    },
+    "20029": {
+      "song_id": 20029,
+      "filename": "20029.mp3",
+      "title": "Thor's Hammer",
+      "alt_titles": [],
+      "genre": "TRANSCENDENTAL ETUDES",
+      "artist": "ユニバーサル度胸兄弟"
+    },
+    "20030": {
+      "song_id": 20030,
+      "filename": "20030.mp3",
+      "title": "BRAVE GLOW",
+      "alt_titles": [],
+      "genre": "SPACY TRANCE",
+      "artist": "SOUND HOLIC feat. Nana Takahashi"
+    },
+    "20031": {
+      "song_id": 20031,
+      "filename": "20031.mp3",
+      "title": "Illegal Function Call",
+      "alt_titles": [],
+      "genre": "ORBITALIC CORE",
+      "artist": "U1-ASAMi"
+    },
+    "20032": {
+      "song_id": 20032,
+      "filename": "20032.mp3",
+      "title": "Ascalon",
+      "alt_titles": [],
+      "genre": "ELECTRO POP",
+      "artist": "Qrispy Joybox"
+    },
+    "20033": {
+      "song_id": 20033,
+      "filename": "20033.mp3",
+      "title": "I know You know",
+      "alt_titles": [],
+      "genre": "NEW 80's",
+      "artist": "Suke+Suke feat.Ribbon"
+    },
+    "20034": {
+      "song_id": 20034,
+      "filename": "20034.mp3",
+      "title": "Echo Of Forever",
+      "alt_titles": [],
+      "genre": "HOUSE",
+      "artist": "kors k"
+    },
+    "20035": {
+      "song_id": 20035,
+      "filename": "20035.mp3",
+      "title": "S!ck",
+      "alt_titles": [],
+      "genre": "DRUMSTEP",
+      "artist": "Eagle"
+    },
+    "20036": {
+      "song_id": 20036,
+      "filename": "20036.mp3",
+      "title": "405nm (Ryu☆mix)",
+      "alt_titles": [
+        "405nm (Ryu* mix)"
+      ],
+      "genre": "HARDCORE",
+      "artist": "Another Infinity"
+    },
+    "20037": {
+      "song_id": 20037,
+      "filename": "20037.mp3",
+      "title": "Fly you to the star",
+      "alt_titles": [],
+      "genre": "HANDZ UP",
+      "artist": "Another Infinity feat. Mayumi Morinaga"
+    },
+    "20038": {
+      "song_id": 20038,
+      "filename": "20038.mp3",
+      "title": "Plan 8",
+      "alt_titles": [],
+      "genre": "HAPPY GABBA",
+      "artist": "Ryu☆"
+    },
+    "20039": {
+      "song_id": 20039,
+      "filename": "20039.mp3",
+      "title": "仮想空間の旅人たち",
+      "alt_titles": [
+        "The travelers of virtual space"
+      ],
+      "genre": "TECHNO",
+      "artist": "DJ MURASAME"
+    },
+    "20040": {
+      "song_id": 20040,
+      "filename": "20040.mp3",
+      "title": "Light and Cyber…",
+      "alt_titles": [
+        "Light and Cyber..."
+      ],
+      "genre": "HAPPY HARDCORE",
+      "artist": "Tatsh"
+    },
+    "20041": {
+      "song_id": 20041,
+      "filename": "20041.mp3",
+      "title": "SYNC-ANTHEM",
+      "alt_titles": [],
+      "genre": "LATIN EURO",
+      "artist": "Tatsh feat. 星野奏子"
+    },
+    "20042": {
+      "song_id": 20042,
+      "filename": "20042.mp3",
+      "title": "Spinning Around",
+      "alt_titles": [],
+      "genre": "FRENCH HOUSE",
+      "artist": "Dirty Androids"
+    },
+    "20043": {
+      "song_id": 20043,
+      "filename": "20043.mp3",
+      "title": "Timepiece phase II (CN Ver.)",
+      "alt_titles": [],
+      "genre": "PROGRESSIVE ROCK",
+      "artist": "佐々木博史"
+    },
+    "20044": {
+      "song_id": 20044,
+      "filename": "20044.mp3",
+      "title": "ラキラキ",
+      "alt_titles": [
+        "RAKIRAKI"
+      ],
+      "genre": "LUCKY TECHNO",
+      "artist": "Mutsuhiko Izumi & S-C-U"
+    },
+    "20045": {
+      "song_id": 20045,
+      "filename": "20045.mp3",
+      "title": "Breaking Dawn feat. NO+CHIN, AYANO",
+      "alt_titles": [],
+      "genre": "J-CORE",
+      "artist": "GUHROOVY "
+    },
+    "20046": {
+      "song_id": 20046,
+      "filename": "20046.mp3",
+      "title": "Beastie Starter",
+      "alt_titles": [],
+      "genre": "SPEEDCORE",
+      "artist": "GUHROOVY"
+    },
+    "20047": {
+      "song_id": 20047,
+      "filename": "20047.mp3",
+      "title": "†渚の小悪魔ラヴリィ〜レイディオ†(IIDX EDIT)",
+      "alt_titles": [
+        "NAGISANOKOAKUMA LOVELY RADIO"
+      ],
+      "genre": "Hi-CORE",
+      "artist": "夏色ビキニのPrim"
+    },
+    "20048": {
+      "song_id": 20048,
+      "filename": "20048.mp3",
+      "title": "Little Star",
+      "alt_titles": [],
+      "genre": "J-CORE",
+      "artist": "REDALiCE feat. Ayumi Nomiya"
+    },
+    "20049": {
+      "song_id": 20049,
+      "filename": "20049.mp3",
+      "title": "アストライアの双皿",
+      "alt_titles": [
+        "BALANCE OF ASTRAIA"
+      ],
+      "genre": "ZODIAC ORACLE 7",
+      "artist": "ZODIACSYNDICATE"
+    },
+    "20050": {
+      "song_id": 20050,
+      "filename": "20050.mp3",
+      "title": "To my star",
+      "alt_titles": [],
+      "genre": "STARPOP",
+      "artist": "星野奏子"
+    },
+    "20051": {
+      "song_id": 20051,
+      "filename": "20051.mp3",
+      "title": "Sol Cosine Job 2",
+      "alt_titles": [],
+      "genre": "FREEFORM HARDCORE",
+      "artist": "DJ TECHNORCH"
+    },
+    "20052": {
+      "song_id": 20052,
+      "filename": "20052.mp3",
+      "title": "ILIAS",
+      "alt_titles": [],
+      "genre": "HYPER ELECTRO",
+      "artist": "Masayoshi Minoshima feat. 坂上なち"
+    },
+    "20053": {
+      "song_id": 20053,
+      "filename": "20053.mp3",
+      "title": "FLOWER",
+      "alt_titles": [],
+      "genre": "TRANCE CORE",
+      "artist": "DJ YOSHITAKA"
+    },
+    "20054": {
+      "song_id": 20054,
+      "filename": "20054.mp3",
+      "title": "即席！脳直★ミュージックシステム",
+      "alt_titles": [
+        "Sokuseki! Nouchoku Music System"
+      ],
+      "genre": "AKIBA-POP",
+      "artist": "MOSAIC.WAV"
+    },
+    "20055": {
+      "song_id": 20055,
+      "filename": "20055.mp3",
+      "title": "カジノファイヤーことみちゃん",
+      "alt_titles": [
+        "Casino Fire Kotomi-chan"
+      ],
+      "genre": "電波",
+      "artist": "ARM feat. 山本椛 + Brasscapsule"
+    },
+    "20056": {
+      "song_id": 20056,
+      "filename": "20056.mp3",
+      "title": "Deceive Your Insight",
+      "alt_titles": [],
+      "genre": "PIECED ROCK",
+      "artist": "Project B-"
+    },
+    "20057": {
+      "song_id": 20057,
+      "filename": "20057.mp3",
+      "title": "Holy Snow",
+      "alt_titles": [],
+      "genre": "CHRISTMAS SYMPHONY",
+      "artist": "Mutsuhiko Izumi"
+    },
+    "20058": {
+      "song_id": 20058,
+      "filename": "20058.mp3",
+      "title": "True Blue",
+      "alt_titles": [],
+      "genre": "ESSENTIALLY",
+      "artist": "dj TAKA feat.AiMEE"
+    },
+    "20059": {
+      "song_id": 20059,
+      "filename": "20059.mp3",
+      "title": "Take My Life",
+      "alt_titles": [],
+      "genre": "EUROBEAT",
+      "artist": "Y&Co."
+    },
+    "20060": {
+      "song_id": 20060,
+      "filename": "20060.mp3",
+      "title": "晴天Bon Voyage",
+      "alt_titles": [
+        "SEITEN Bon Voyage"
+      ],
+      "genre": "スウィートロニカ",
+      "artist": "TOMOSUKE × seiya-murai feat. ALT"
+    },
+    "20061": {
+      "song_id": 20061,
+      "filename": "20061.mp3",
+      "title": "メイメツ、フラグメンツ",
+      "alt_titles": [
+        "Mei-Metsu, Fragments"
+      ],
+      "genre": "CYBER SYMPHONIC POP",
+      "artist": "中山真斗(Elements Garden)feat.桜川めぐ"
+    },
+    "20062": {
+      "song_id": 20062,
+      "filename": "20062.mp3",
+      "title": "STULTI",
+      "alt_titles": [],
+      "genre": "GRAVIOL",
+      "artist": "MAX MAXIMIZER VS DJ TOTTO"
+    },
+    "20063": {
+      "song_id": 20063,
+      "filename": "20063.mp3",
+      "title": "Devilz Staircase",
+      "alt_titles": [],
+      "genre": "SYMPHONIC BREAK BEATS",
+      "artist": "OSTER project"
+    },
+    "20064": {
+      "song_id": 20064,
+      "filename": "20064.mp3",
+      "title": "ZED",
+      "alt_titles": [],
+      "genre": "DUB STEP",
+      "artist": "USAO"
+    },
+    "20065": {
+      "song_id": 20065,
+      "filename": "20065.mp3",
+      "title": "Shining World",
+      "alt_titles": [],
+      "genre": "ELECTRO POP",
+      "artist": "DJ Genki feat. Yukacco"
+    },
+    "20066": {
+      "song_id": 20066,
+      "filename": "20066.mp3",
+      "title": "Neonlights",
+      "alt_titles": [],
+      "genre": "TECH DANCE",
+      "artist": "DJ Noriken"
+    },
+    "20067": {
+      "song_id": 20067,
+      "filename": "20067.mp3",
+      "title": "Timepiece phase II",
+      "alt_titles": [],
+      "genre": "PROGRESSIVE ROCK",
+      "artist": "佐々木博史"
+    },
+    "20068": {
+      "song_id": 20068,
+      "filename": "20068.mp3",
+      "title": "LUV CAN SAVE U",
+      "alt_titles": [],
+      "genre": "NEO 80's EURO ELECTRO",
+      "artist": "HIDEKI NAGANUMA"
+    },
+    "20069": {
+      "song_id": 20069,
+      "filename": "20069.mp3",
+      "title": "虹色の花",
+      "alt_titles": [
+        "NIJIIRO NO HANA"
+      ],
+      "genre": "LIGHT-VISUAL POP",
+      "artist": "Akhuta y OJ"
+    },
+    "20070": {
+      "song_id": 20070,
+      "filename": "20070.mp3",
+      "title": "DAY DREAM",
+      "alt_titles": [],
+      "genre": "DARK PROGRESSIVE",
+      "artist": "Mutsuhiko Izumi"
+    },
+    "20071": {
+      "song_id": 20071,
+      "filename": "20071.mp3",
+      "title": "JOMANDA",
+      "alt_titles": [],
+      "genre": "HARD RENAISSANCE",
+      "artist": "DJ YOSHITAKA"
+    },
+    "20072": {
+      "song_id": 20072,
+      "filename": "20072.mp3",
+      "title": "New Decade IIDX Edition",
+      "alt_titles": [],
+      "genre": "SPEED DANCE CORE",
+      "artist": "Sota F."
+    },
+    "20073": {
+      "song_id": 20073,
+      "filename": "20073.mp3",
+      "title": "Hollywood Galaxy",
+      "alt_titles": [],
+      "genre": "DRUM'N'BASS",
+      "artist": "dj TAKA"
+    },
+    "20074": {
+      "song_id": 20074,
+      "filename": "20074.mp3",
+      "title": "neu",
+      "alt_titles": [],
+      "genre": "NIENTE",
+      "artist": "少年ラジオ"
+    },
+    "20075": {
+      "song_id": 20075,
+      "filename": "20075.mp3",
+      "title": "YELLOW FROG  from Steel Chronicle",
+      "alt_titles": [
+        "YELLOW FROG from Steel Chronicle"
+      ],
+      "genre": "DESERT ALTERNATIVE EDGE",
+      "artist": "劇団レコード"
+    },
+    "20076": {
+      "song_id": 20076,
+      "filename": "20076.mp3",
+      "title": "Reflection Into the EDEN",
+      "alt_titles": [],
+      "genre": "BOSSA ELECTRONICA",
+      "artist": "猫叉Master"
+    },
+    "20082": {
+      "song_id": 20082,
+      "filename": "20082.mp3",
+      "title": "Time To Empress",
+      "alt_titles": [],
+      "genre": "TRANCE",
+      "artist": "dj TAKA feat.wac & secret K"
+    },
+    "20083": {
+      "song_id": 20083,
+      "filename": "20083.mp3",
+      "title": "たまゆら",
+      "alt_titles": [
+        "tamayura"
+      ],
+      "genre": "PROGRESSIVE",
+      "artist": "佐々木博史"
+    },
+    "20086": {
+      "song_id": 20086,
+      "filename": "20086.mp3",
+      "title": "Saturn",
+      "alt_titles": [],
+      "genre": "PROGRESSIVE TRIBAL",
+      "artist": "Mr.Saturn"
+    },
+    "20087": {
+      "song_id": 20087,
+      "filename": "20087.mp3",
+      "title": "Cookie Bouquets",
+      "alt_titles": [],
+      "genre": "BREAK CORE",
+      "artist": "L.E.D. vs TOMOSUKE fw.crimm"
+    },
+    "20088": {
+      "song_id": 20088,
+      "filename": "20088.mp3",
+      "title": "mnemoniq",
+      "alt_titles": [],
+      "genre": "JAZZ HOUSE",
+      "artist": "youhei shimizu"
+    },
+    "20089": {
+      "song_id": 20089,
+      "filename": "20089.mp3",
+      "title": "お米の美味しい炊き方、そしてお米を食べることによるその効果。",
+      "alt_titles": [
+        "HOW TO COOK DELICIOUS RICE AND THE EFFECT OF EATING RICE"
+      ],
+      "genre": "お米タル",
+      "artist": "大日本鉄倶楽部【あさき＆９６】"
+    },
+    "20090": {
+      "song_id": 20090,
+      "filename": "20090.mp3",
+      "title": "創世ノート",
+      "alt_titles": [
+        "GENESIS NOTE"
+      ],
+      "genre": "CREATOR",
+      "artist": "PON+wac"
+    },
+    "20091": {
+      "song_id": 20091,
+      "filename": "20091.mp3",
+      "title": "Synergy For Angels",
+      "alt_titles": [],
+      "genre": "ORBITALIC REVOLUTION",
+      "artist": "TAG×U1-ASAMi"
+    },
+    "20092": {
+      "song_id": 20092,
+      "filename": "20092.mp3",
+      "title": "Empathetic",
+      "alt_titles": [],
+      "genre": "DRUM STEP",
+      "artist": "Sota÷Des"
+    },
+    "20093": {
+      "song_id": 20093,
+      "filename": "20093.mp3",
+      "title": "GAIA",
+      "alt_titles": [],
+      "genre": "SPEED DANCE",
+      "artist": "猫叉L.E.D.Master+"
+    },
+    "20094": {
+      "song_id": 20094,
+      "filename": "20094.mp3",
+      "title": "Zirkfied",
+      "alt_titles": [],
+      "genre": "SPACE REQUIEM",
+      "artist": "iconoclasm"
+    },
     "21001": {
       "song_id": 21001,
       "filename": "21001.mp3",
