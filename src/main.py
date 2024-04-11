@@ -22,7 +22,7 @@ def get_random_question(number_of_songs: PositiveInt = 1):
 
 
 @app.get("/song/{song_id}")
-def get_song_data_by_id(song_id: int):
+def get_song_data_by_id(song_id: str):
     song_data = get_song_by_id(song_id)
     if len(song_data) == 0:
         raise HTTPException(status_code=404, detail="No song found with this ID")
@@ -30,7 +30,7 @@ def get_song_data_by_id(song_id: int):
 
 
 @app.get("/audio/{song_id}")
-def get_song_audio_by_id(song_id: int):
+def get_song_audio_by_id(song_id: str):
     song_data = get_song_by_id(song_id)
     if len(song_data) == 0:
         raise HTTPException(status_code=404, detail="No song found with this ID")

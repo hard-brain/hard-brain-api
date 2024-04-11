@@ -35,7 +35,7 @@ def get_random_song(number_of_songs: PositiveInt) -> List[Dict]:
         for i in range(limit):
             key = None
             retries = 0
-            song_id = None
+            song_id = "None"
 
             while not key and retries < max_retries:
                 song_id = random.choice(list(song_data.keys()))
@@ -51,9 +51,8 @@ def get_random_song(number_of_songs: PositiveInt) -> List[Dict]:
     return [song for song in yield_song(number_of_songs)]
 
 
-def get_song_by_id(song_id: int) -> Dict:
+def get_song_by_id(song_id: str) -> Dict:
     song_data = _load_song_data()
-    id_string = str(song_id)
-    if id_string in song_data.keys():
-        return song_data[id_string]
+    if song_id in song_data.keys():
+        return song_data[song_id]
     return {}
