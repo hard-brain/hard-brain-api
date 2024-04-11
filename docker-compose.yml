@@ -2,7 +2,7 @@ services:
   api:
     build:
       context: .
-      dockerfile: "standard.Dockerfile"
+      dockerfile: "Dockerfile"
     container_name: api
     environment:
       PORT: 8000
