@@ -5,8 +5,13 @@ from fastapi.responses import FileResponse
 from pydantic import PositiveInt
 
 from src.quiz.questions import get_random_song, get_song_by_id
+from src.db import models
+from src.db.database import engine
 
-# setup stuff
+# setup database
+models.Base.metadata.create_all(bind=engine)
+
+# setup app
 app = FastAPI()
 app_path = Path(f"{__file__}/..")
 

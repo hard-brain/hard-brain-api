@@ -9,16 +9,21 @@ services:
     ports:
       - '8000:8000'
     restart: "no"
+    links:
+      - "db:database"
 
-# Future work, unrequired at the moment
-#  db:
-#    image: postgres
-#    restart: always
-#    environment:
-#      POSTGRES_PASSWORD: example
-#
-#  adminer:
-#    image: adminer
-#    restart: always
-#    ports:
-#      - "8080:8080"
+  db:
+    image: postgres
+    restart: always
+    env_file:
+      - ./.env
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./db-data/:/var/lib/postgresql/data/
+
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - "8080:8080"
