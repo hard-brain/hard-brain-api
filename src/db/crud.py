@@ -1,14 +1,19 @@
+from sqlalchemy.exc import SQLAlchemyError
 from sqlalchemy.orm import Session
 
 from src.db import models, schemas
 
 
 def create_song(db: Session, song: schemas.SongCreate):
-    db_song = models.Song(**song.dict())
-    db.add(db_song)
-    db.commit()
-    db.refresh(db_song)
-    return db_song
+    try:
+        db_song = models.Song(**song.dict())
+        db.add(db_song)
+        db.commit()
+        db.refresh(db_song)
+        return db_song
+    except SQLAlchemyError as error:
+        db.rollback()
+        print(f"Error while adding song: {error}")
 
 
 # noinspection PyTypeChecker
