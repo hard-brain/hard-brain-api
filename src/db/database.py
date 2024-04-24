@@ -9,9 +9,8 @@ DB_PASSWORD = os.getenv("POSTGRES_PASSWORD")
 DB_NAME = os.getenv("POSTGRES_DB")
 DB_HOSTNAME = os.getenv("DB_HOSTNAME")
 
-SQLALCHEMY_DATABASE_URL = \
-    f"postgresql://{DB_USER}:{DB_PASSWORD}@{DB_HOSTNAME if DB_HOSTNAME else 'localhost'}/{DB_NAME}"
+DATABASE_URL = f"postgresql://{DB_USER}:{DB_PASSWORD}@{DB_HOSTNAME if DB_HOSTNAME else 'localhost'}/{DB_NAME}"
 
-engine = create_engine(SQLALCHEMY_DATABASE_URL)
+engine = create_engine(DATABASE_URL)
 
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
