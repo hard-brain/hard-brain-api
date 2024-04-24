@@ -4,11 +4,13 @@ from sqlalchemy.orm import sessionmaker
 from sqlmodel import create_engine
 
 # get postgres creds from environment - set by Docker compose
-DB_USER = os.getenv("DB_USERNAME")
-DB_PASSWORD = os.getenv("DB_PASSWORD")
-DB_NAME = os.getenv("DB_NAME")
+DB_USER = os.getenv("PGUSER")
+DB_PASSWORD = os.getenv("POSTGRES_PASSWORD")
+DB_NAME = os.getenv("POSTGRES_DB")
+DB_HOSTNAME = os.getenv("DB_HOSTNAME")
 
-SQLALCHEMY_DATABASE_URL = f"postgresql://{DB_USER}:{DB_PASSWORD}@localhost/{DB_NAME}"
+SQLALCHEMY_DATABASE_URL = \
+    f"postgresql://{DB_USER}:{DB_PASSWORD}@{DB_HOSTNAME if DB_HOSTNAME else 'localhost'}/{DB_NAME}"
 
 engine = create_engine(SQLALCHEMY_DATABASE_URL)
 

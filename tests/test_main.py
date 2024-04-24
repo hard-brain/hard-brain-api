@@ -10,9 +10,9 @@ from src.main import app
 
 @pytest.fixture(autouse=True)
 def client():
-    assert os.getenv("DB_USERNAME")
-    assert os.getenv("DB_PASSWORD")
-    assert os.getenv("DB_NAME")
+    assert os.getenv("PGUSER")
+    assert os.getenv("POSTGRES_PASSWORD")
+    assert os.getenv("POSTGRES_DB")
     client = TestClient(app)
     return client
 
