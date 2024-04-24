@@ -3,13 +3,14 @@ from pathlib import Path
 from fastapi import FastAPI, HTTPException
 from fastapi.responses import FileResponse
 from pydantic import PositiveInt
+from sqlmodel import SQLModel
 
-from src.quiz.questions import get_random_song, get_song_by_id
 from src.db import models
 from src.db.database import engine
+from src.quiz.questions import get_random_song, get_song_by_id
 
 # setup database
-models.Base.metadata.create_all(bind=engine)
+SQLModel.metadata.create_all(bind=engine)
 
 # setup app
 app = FastAPI()
@@ -29,7 +30,7 @@ def get_random_question(number_of_songs: PositiveInt = 1):
 @app.get("/song/{song_id}")
 def get_song_data_by_id(song_id: str):
     song_data = get_song_by_id(song_id)
-    if len(song_data) == 0:
+    if not song_data:
         raise HTTPException(status_code=404, detail="No song found with this ID")
     return song_data
 
@@ -37,9 +38,9 @@ def get_song_data_by_id(song_id: str):
 @app.get("/audio/{song_id}")
 def get_song_audio_by_id(song_id: str):
     song_data = get_song_by_id(song_id)
-    if len(song_data) == 0:
+    if not song_data:
         raise HTTPException(status_code=404, detail="No song found with this ID")
-    fp = app_path / f"resources/songs/{song_data['filename']}"
+    fp = app_path / f"resources/songs/{song_data.filename}"
     if not fp.resolve().exists():
         raise HTTPException(
             status_code=404, detail="No song file found for this song ID"

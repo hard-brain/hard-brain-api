@@ -12,7 +12,7 @@ def song_data_schema__30000():
         "song_id": "30000",
         "filename": "30000.mp3",
         "title": "B.O.D.Y.",
-        "alt_titles": [],
+        "alt_titles": '{}',
         "genre": "HARD BODY MUSIC",
         "artist": 'BEMANI Sound Team "L.E.D. Sota F."& Starbitz',
     }
@@ -25,7 +25,7 @@ def song_data_schema__07032():
         "song_id": "07032",
         "filename": "07032.mp3",
         "title": "Spica",
-        "alt_titles": [],
+        "alt_titles": '{}',
         "genre": "HOUSE",
         "artist": "D.JW"
     }

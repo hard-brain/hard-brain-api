@@ -1,19 +1,26 @@
 import random
 from pathlib import Path
-from typing import Set
+from typing import List
 
 from pydantic.types import PositiveInt
 
 from src.db import crud
 from src.db.database import SessionLocal
+from src.db.models import Song
 
 file_path = Path(__file__)
-songs_dir = set([file.stem for file in Path(file_path / "../../resources/songs").resolve().iterdir()])
+songs_dir = set(
+    [
+        file.stem
+        for file in Path(file_path / "../../resources/songs").resolve().iterdir()
+        if len(file.stem) == 5
+    ]
+)
 
 
-def _load_song_ids() -> Set:
+def _load_song_ids() -> List:
     with SessionLocal() as db:
-        return set(crud.get_all_song_ids(db))
+        return list(crud.get_all_song_ids(db))
 
 
 def _check_song_exists(key: str) -> bool:
@@ -39,13 +46,15 @@ def get_random_song(number_of_songs: PositiveInt):
             song_id = "None"
 
             while not key and retries < max_retries:
-                song_id = random.choice(list(song_data))
+                song_id = random.choice(song_data)
                 if _check_song_exists(song_id):
                     key = song_id
                 retries += 1
 
             if not key:
-                raise FileNotFoundError(f"Did not find a file matching id '{song_id}' after {max_retries} retries")
+                raise FileNotFoundError(
+                    f"Did not find a file matching id '{song_id}' after {max_retries} retries"
+                )
 
             with SessionLocal() as db:
                 yield crud.get_song(db, song_id)
@@ -53,6 +62,6 @@ def get_random_song(number_of_songs: PositiveInt):
     return [song for song in yield_song(number_of_songs)]
 
 
-def get_song_by_id(song_id: str):
+def get_song_by_id(song_id: str) -> Song:
     with SessionLocal() as db:
-        yield crud.get_song(db, song_id)
+        return crud.get_song(db, song_id)

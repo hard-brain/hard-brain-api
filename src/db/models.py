@@ -1,14 +1,10 @@
-from sqlalchemy import String, Column
-
-from src.db.database import Base
+from sqlmodel import SQLModel, Field
 
 
-class Song(Base):
-    __tablename__ = "song_data"
-
-    song_id = Column(String, primary_key=True)
-    filename = Column(String)
-    title = Column(String)
-    alt_titles = Column(String)
-    genre = Column(String)
-    artist = Column(String)
+class Song(SQLModel, table=True):
+    song_id: str | None = Field(default=None, primary_key=True)
+    filename: str
+    title: str
+    alt_titles: str | None = None
+    genre: str
+    artist: str
