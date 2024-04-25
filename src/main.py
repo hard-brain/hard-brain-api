@@ -5,16 +5,21 @@ from fastapi.responses import FileResponse
 from pydantic import PositiveInt
 from sqlmodel import SQLModel
 
-from src.db import models
+from src.db import models, loader
 from src.db.database import engine
 from src.quiz.questions import get_random_song, get_song_by_id
 
+app_path = Path(f"{__file__}/..")
+
 # setup database
 SQLModel.metadata.create_all(bind=engine)
+if loader.is_song_table_empty():
+    print("Songs table is empty, loading songs...")
+    json_path = Path(app_path / "resources/song_data.json").resolve()
+    loader.load_into_db(json_path.as_posix())
 
 # setup app
 app = FastAPI()
-app_path = Path(f"{__file__}/..")
 
 
 @app.get("/")

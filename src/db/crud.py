@@ -8,11 +8,12 @@ from src.db import models
 
 def create_song(db: Session, song: models.Song):
     try:
+        alt_titles = ", ".join(song["alt_titles"])
         db_song = models.Song(
             song_id=song["song_id"],
             filename=song["filename"],
             title=song["title"],
-            alt_titles=song["alt_titles"],
+            alt_titles=alt_titles,
             genre=song["genre"],
             artist=song["artist"],
         )
