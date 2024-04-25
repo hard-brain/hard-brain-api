@@ -2772,7 +2772,9 @@
       "song_id": "17041",
       "filename": "17041.mp3",
       "title": "Session 1 -Genesis-",
-      "alt_titles": [],
+      "alt_titles": [
+        "Session 1"
+      ],
       "genre": "ELECTRIC FUSION",
       "artist": "PRASTIK DANCEFLOOR"
     },
@@ -3216,7 +3218,9 @@
       "song_id": "18039",
       "filename": "18039.mp3",
       "title": "Session 9 -Chronicles-",
-      "alt_titles": [],
+      "alt_titles": [
+        "Session 9"
+      ],
       "genre": "ROCKIN' DRUM'N'BASS",
       "artist": "PRASTIK DANCEFLOOR"
     },
@@ -3233,7 +3237,7 @@
       "filename": "18042.mp3",
       "title": "夕焼け ～Fading Day～",
       "alt_titles": [
-        "YUUYAKE -FADING DAY-"
+        "FADING DAY"
       ],
       "genre": "AURAL ADRENALINE",
       "artist": "JAKAZiD"
@@ -3323,7 +3327,7 @@
       "filename": "18057.mp3",
       "title": "DM STAR～関西 energy style～",
       "alt_titles": [
-        "DM STAR -KANSAI ENERGY STYLE-"
+        "DM STAR"
       ],
       "genre": "SPEED RAVE",
       "artist": "NAOKI"
@@ -3341,7 +3345,8 @@
       "filename": "18060.mp3",
       "title": "黒髪乱れし修羅となりて",
       "alt_titles": [
-        "KUROKAMI MIDARESHI SHURA TO NARITE"
+        "KUROKAMI MIDARESHI SHURA TO NARITE",
+        "KUROKAMI"
       ],
       "genre": "撫子メタル",
       "artist": "村正クオリア"
@@ -3433,7 +3438,8 @@
       "filename": "19002.mp3",
       "title": "天空の夜明け",
       "alt_titles": [
-        "TENKU NO YOAKE"
+        "TENKU NO YOAKE",
+        "Cuvelia"
       ],
       "genre": "ANTHEM",
       "artist": "Cuvelia"
@@ -3682,7 +3688,9 @@
       "song_id": "19036",
       "filename": "19036.mp3",
       "title": "LAX5 feat.Ryota Yoshinari",
-      "alt_titles": [],
+      "alt_titles": [
+        "LAX5"
+      ],
       "genre": "LOUD TECH",
       "artist": "Katana Sounds"
     },
@@ -3717,7 +3725,7 @@
       "filename": "19040.mp3",
       "title": "Mermaid girl-秋葉工房 MIX-",
       "alt_titles": [
-        "Mermaid girl -AKIBA KOUBOU MIX-"
+        "Mermaid girl remix"
       ],
       "genre": "EURO BEAT",
       "artist": "Remixed by DJ Command"
@@ -3745,7 +3753,8 @@
       "filename": "19046.mp3",
       "title": "突撃!ガラスのニーソ姫!",
       "alt_titles": [
-        "RUSH! PRINCESS GLASS OVER-KNEE!"
+        "RUSH! PRINCESS GLASS OVER-KNEE!",
+        "princess knee socks"
       ],
       "genre": "電波",
       "artist": "山本椛 (monotone)"
@@ -3754,7 +3763,9 @@
       "song_id": "19047",
       "filename": "19047.mp3",
       "title": "Liquid Crystal Girl feat. echo",
-      "alt_titles": [],
+      "alt_titles": [
+        "Liquid Crystal Girl"
+      ],
       "genre": "ELECTRO",
       "artist": "kmp"
     },
@@ -4486,7 +4497,9 @@
       "song_id": "20072",
       "filename": "20072.mp3",
       "title": "New Decade IIDX Edition",
-      "alt_titles": [],
+      "alt_titles": [
+        "New Decade"
+      ],
       "genre": "SPEED DANCE CORE",
       "artist": "Sota F."
     },
@@ -4755,7 +4768,7 @@
       "filename": "21012.mp3",
       "title": "Close the World feat.a☆ru",
       "alt_titles": [
-        "CLOSE THE WORLD FEAT.A RU"
+        "CLOSE THE WORLD"
       ],
       "genre": "J-CORE",
       "artist": "天叢雲剣"
@@ -4918,7 +4931,9 @@
       "song_id": "21034",
       "filename": "21034.mp3",
       "title": "Wonder Girl feat. Kanae Asaba",
-      "alt_titles": [],
+      "alt_titles": [
+        "Wonder Girl"
+      ],
       "genre": "EUROBEAT",
       "artist": "Y&Co."
     },
@@ -4935,7 +4950,7 @@
       "filename": "21037.mp3",
       "title": "ALBA -黎明-",
       "alt_titles": [
-        "ALBA -REIMEI-"
+        "ALBA"
       ],
       "genre": "HYPER GOTHIC BEAT",
       "artist": "SOUND HOLIC feat. Nana Takahashi"
@@ -4987,7 +5002,7 @@
       "filename": "21044.mp3",
       "title": "BLUE DRAGON(雷龍RemixIIDX)",
       "alt_titles": [
-        "BLUE DRAGON RAIRYU RemixIIDX"
+        "BLUE DRAGON Remix"
       ],
       "genre": "RAVERS DANCE SPEED",
       "artist": "青龍"
@@ -5013,7 +5028,8 @@
       "filename": "21048.mp3",
       "title": "疾風迅雷",
       "alt_titles": [
-        "LIGHTNING SPEED"
+        "LIGHTNING SPEED",
+        "kumokiri"
       ],
       "genre": "ORIENTAL CORE",
       "artist": "KUMOKIRI"
@@ -5377,7 +5393,7 @@
       "filename": "22010.mp3",
       "title": "もっと！モット！ときめき feat. 松下",
       "alt_titles": [
-        "Motto! motto! TOKIMEKI feat.Matsushita"
+        "Motto! motto! TOKIMEKI"
       ],
       "genre": "きらめきコア",
       "artist": "シャイニング度胸兄弟"
@@ -5505,7 +5521,8 @@
       "filename": "22031.mp3",
       "title": "超青少年ノ為ノ超多幸ナ超古典的超舞曲",
       "alt_titles": [
-        "VERY Classical Dance with VERY Euphoria for VERRRRRY Juvenile"
+        "VERY Classical Dance with VERY Euphoria for VERRRRRY Juvenile",
+        "very juvenile"
       ],
       "genre": "PIECED EUPHORIA",
       "artist": "Project B-"
@@ -5648,7 +5665,9 @@
       "song_id": "22049",
       "filename": "22049.mp3",
       "title": "HELL SCAPER -Last Escape Remix-",
-      "alt_titles": [],
+      "alt_titles": [
+        "HELL SCAPER Remix"
+      ],
       "genre": "GABBAH",
       "artist": "Remixed by DJ TECHNORCH fw.GUHROOVY"
     },
@@ -5681,7 +5700,7 @@
       "filename": "22055.mp3",
       "title": "SpaceLand☆TOYBOX",
       "alt_titles": [
-        "SpaceLand*TOYBOX"
+        "SpaceLand TOYBOX"
       ],
       "genre": "RAGTIME FUTURE POP",
       "artist": "OSTER project"
@@ -6244,7 +6263,9 @@
       "song_id": "23033",
       "filename": "23033.mp3",
       "title": "Set U Free feat. Kanae Asaba",
-      "alt_titles": [],
+      "alt_titles": [
+        "Set U Free"
+      ],
       "genre": "HARD TRANCE",
       "artist": "Y&Co."
     },
@@ -6294,7 +6315,9 @@
       "song_id": "23039",
       "filename": "23039.mp3",
       "title": "do the thing feat. Kanae Asaba",
-      "alt_titles": [],
+      "alt_titles": [
+        "do the thing"
+      ],
       "genre": "EDM",
       "artist": "MK"
     },
@@ -6303,7 +6326,7 @@
       "filename": "23041.mp3",
       "title": "真 地獄超特急 -HELL or HELL-",
       "alt_titles": [
-        "THE HELL EXPRESS -HELL or HELL-"
+        "THE HELL EXPRESS"
       ],
       "genre": "新世紀進歩的羽扇子音楽",
       "artist": "DJ TECHNORCH Vs. L.E.D.Light-G"
@@ -6329,7 +6352,7 @@
       "filename": "23045.mp3",
       "title": "めいさいアイドル☆あいむちゃん♪",
       "alt_titles": [
-        "Meisai Idol Aim-chang."
+        "Meisai Idol Aim-chan"
       ],
       "genre": "電波デステクノ",
       "artist": "DJ SHARPNEL feat. みらい"
@@ -6389,7 +6412,7 @@
       "filename": "23051.mp3",
       "title": "灼熱 Pt.2 Long Train Running",
       "alt_titles": [
-        "shakunetsu pt.2 Long Train Running"
+        "shakunetsu pt.2"
       ],
       "genre": "BROKEN SAMBA BREAK",
       "artist": "DJ Mass MAD Izm*"
@@ -6422,7 +6445,10 @@
       "song_id": "23055",
       "filename": "23055.mp3",
       "title": "199024club -Re:BounceKiller-",
-      "alt_titles": [],
+      "alt_titles": [
+        "199024club",
+        "Re:BounceKiller"
+      ],
       "genre": "TECH BREAKBEATS",
       "artist": "DJ Mass MAD Izm*"
     },
@@ -6495,7 +6521,7 @@
       "filename": "23067.mp3",
       "title": "GENERATE feat.綾倉盟",
       "alt_titles": [
-        "GENERATE feat.Mei Ayakura"
+        "GENERATE"
       ],
       "genre": "ELECTRONIC DANCE",
       "artist": "Masayoshi Minoshima"
@@ -6512,7 +6538,9 @@
       "song_id": "23069",
       "filename": "23069.mp3",
       "title": "Battle Train -IIDX Edition-",
-      "alt_titles": [],
+      "alt_titles": [
+        "Battle Train"
+      ],
       "genre": "HARD DANCE",
       "artist": "Sota Fujimori"
     },
@@ -6536,7 +6564,9 @@
       "song_id": "23073",
       "filename": "23073.mp3",
       "title": "Derelict Star feat. Ryu*",
-      "alt_titles": [],
+      "alt_titles": [
+        "Derelict Star"
+      ],
       "genre": "HARD DANCE",
       "artist": "Remo-con"
     },
@@ -6795,7 +6825,7 @@
       "filename": "24011.mp3",
       "title": "冬椿 ft. Kanae Asaba",
       "alt_titles": [
-        "Fuyutsubaki ft. Kanae Asaba"
+        "Fuyutsubaki"
       ],
       "genre": "HYPER ENKA POP",
       "artist": "Xceon"
@@ -7126,7 +7156,9 @@
       "song_id": "24052",
       "filename": "24052.mp3",
       "title": "Remedy feat. Kanae Asaba",
-      "alt_titles": [],
+      "alt_titles": [
+        "Remedy"
+      ],
       "genre": "哀愁EUROBEAT",
       "artist": "Y&Co."
     },
@@ -7142,7 +7174,9 @@
       "song_id": "24055",
       "filename": "24055.mp3",
       "title": "elemental bender feat. Kanae Asaba",
-      "alt_titles": [],
+      "alt_titles": [
+        "elemental bender"
+      ],
       "genre": "EDM",
       "artist": "MK"
     },
@@ -7595,7 +7629,7 @@
       "filename": "25015.mp3",
       "title": "Life Is A Game ft.DD\"ナカタ\"Metal",
       "alt_titles": [
-        "Life Is A Game ft.DD\"Nakata\"Metal"
+        "Life Is A Game"
       ],
       "genre": "UPTEMPO HARDCORE",
       "artist": "RoughSketch"
@@ -7707,7 +7741,7 @@
       "filename": "25031.mp3",
       "title": "ハイ*ビスカス ft. Kanae Asaba",
       "alt_titles": [
-        "Hi*biscus ft. Kanae Asaba"
+        "Hibiscus"
       ],
       "genre": "YANKEE CAR J TRANCE",
       "artist": "Xceon"
@@ -7885,7 +7919,7 @@
       "filename": "25053.mp3",
       "title": "No Limit 2 dAnce feat. 大山愛未",
       "alt_titles": [
-        "No Limit 2 dAnce feat. Aimi Oyama"
+        "No Limit 2 dAnce"
       ],
       "genre": "HYPER TECHNO",
       "artist": "Y&Co."
@@ -7909,7 +7943,7 @@
     "25056": {
       "song_id": "25056",
       "filename": "25056.mp3",
-      "title": "Get Up! feat. Kanae Asaba",
+      "title": "Get Up!",
       "alt_titles": [],
       "genre": "TROPICAL HOUSE",
       "artist": "MK"
@@ -8409,7 +8443,7 @@
       "filename": "26031.mp3",
       "title": "夏の匂い。キミの残像。 ft. Kanae Asaba",
       "alt_titles": [
-        "Natsunonioi kiminozanzou ft. Kanae Asaba"
+        "Natsunonioi kiminozanzou"
       ],
       "genre": "Re 90's J-DANCE POP",
       "artist": "Xceon"
@@ -8477,7 +8511,7 @@
       "filename": "26041.mp3",
       "title": "花冠 feat.Aikapin",
       "alt_titles": [
-        "Hanakanmuri feat.Aikapin"
+        "Hanakanmuri"
       ],
       "genre": "SOCA",
       "artist": "RoughSkreamZ"
@@ -8522,7 +8556,9 @@
       "song_id": "26046",
       "filename": "26046.mp3",
       "title": "IDC feat.REVERBEE (Mo'Cuts Ver)",
-      "alt_titles": [],
+      "alt_titles": [
+        "IDC"
+      ],
       "genre": "TECH-BREAKS",
       "artist": "DJ Mass MAD Izm*"
     },
@@ -8547,7 +8583,8 @@
       "filename": "26049.mp3",
       "title": "ROCK女 feat. 大山愛未, Ken",
       "alt_titles": [
-        "ROCK ONNA feat. Aimi Oyama, Ken"
+        "ROCK ONNA",
+        "dogshit"
       ],
       "genre": "TRANCE",
       "artist": "Y&Co."
@@ -8572,7 +8609,9 @@
       "song_id": "26052",
       "filename": "26052.mp3",
       "title": "Cranberry City ft. Luschel",
-      "alt_titles": [],
+      "alt_titles": [
+        "Cranberry City"
+      ],
       "genre": "GARAGE",
       "artist": "lapix"
     },
@@ -8777,7 +8816,7 @@
       "filename": "26081.mp3",
       "title": "XENON II ～TOMOYUKIの野望～",
       "alt_titles": [
-        "XENON II -TOMOYUKI no Yabou-"
+        "XENON II"
       ],
       "genre": "ELECTRO SHOCK",
       "artist": "Mr.T"
@@ -9269,7 +9308,7 @@
       "filename": "27032.mp3",
       "title": "セピアの軌跡 ft. 天宮みや(少女フラクタル)",
       "alt_titles": [
-        "sepia no kiseki ft. Amamiya Miya"
+        "sepia no kiseki"
       ],
       "genre": "MS J TRANCE POP",
       "artist": "Xceon"
@@ -9443,7 +9482,7 @@
       "filename": "27055.mp3",
       "title": "NRG STAR '86 feat. 大山愛未",
       "alt_titles": [
-        "NRG STAR 86 feat. Aimi Oyama"
+        "NRG STAR 86"
       ],
       "genre": "Hi-NRG",
       "artist": "Y&Co."
@@ -9585,7 +9624,7 @@
       "filename": "27076.mp3",
       "title": "Hyper Drive feat. ぷにぷに電機",
       "alt_titles": [
-        "Hyper Drive feat. punipunidenki"
+        "Hyper Drive"
       ],
       "genre": "DANCE POP",
       "artist": "パソコン音楽クラブ"
@@ -9964,7 +10003,9 @@
       "song_id": "28013",
       "filename": "28013.mp3",
       "title": "Hands Up feat. kradness BEMANI Sound Team \"Sota Fujimori\" Remix",
-      "alt_titles": [],
+      "alt_titles": [
+        "Hands Up"
+      ],
       "genre": "THE 4TH",
       "artist": "BEMANI Sound Team \"Sota Fujimori\""
     },
@@ -10054,7 +10095,9 @@
       "song_id": "28023",
       "filename": "28023.mp3",
       "title": "Winner's Proof ft. KANASA from bless4",
-      "alt_titles": [],
+      "alt_titles": [
+        "Winner's Proof"
+      ],
       "genre": "THEME SONG",
       "artist": "BEMANI Sound Team \"HuΣeR\" & kors k"
     },
@@ -10095,7 +10138,7 @@
       "filename": "28028.mp3",
       "title": "水無月の雫 ft. 小林まな",
       "alt_titles": [
-        "minazuki no shizuku ft. kobayashi mana"
+        "minazuki no shizuku"
       ],
       "genre": "-和- EURO TRANCE",
       "artist": "Xceon"
@@ -10230,7 +10273,9 @@
       "song_id": "28044",
       "filename": "28044.mp3",
       "title": "Don't Stop The Music feat. Kanae Asaba",
-      "alt_titles": [],
+      "alt_titles": [
+        "Don't Stop The Music"
+      ],
       "genre": "ELECTRO FUNK",
       "artist": "Nhato"
     },
@@ -10415,7 +10460,7 @@
       "filename": "28066.mp3",
       "title": "Explorer feat. ぷにぷに電機",
       "alt_titles": [
-        "Explorer feat. punipunidenki"
+        "Explorer"
       ],
       "genre": "DANCE POP",
       "artist": "パソコン音楽クラブ"
@@ -10441,7 +10486,7 @@
       "filename": "28069.mp3",
       "title": "Tell me what you wish feat.らっぷびと",
       "alt_titles": [
-        "Tell me what you wish feat. Rapbit"
+        "Tell me what you wish"
       ],
       "genre": "ROCK",
       "artist": "Pizuya's Cell"
@@ -10450,7 +10495,9 @@
       "song_id": "28070",
       "filename": "28070.mp3",
       "title": "Ocean Blue feat. Luschel",
-      "alt_titles": [],
+      "alt_titles": [
+        "Ocean Blue"
+      ],
       "genre": "HiTECH FUSION",
       "artist": "lapix"
     },
@@ -10767,7 +10814,7 @@
       "filename": "29000.mp3",
       "title": "LIVE DRIVING!! feat. 花たん",
       "alt_titles": [
-        "LIVE DRIVING!! feat. Hanatan"
+        "LIVE DRIVING"
       ],
       "genre": "HARD ELECTRIC POP",
       "artist": "BEMANI Sound Team \"S-C-U vs L.E.D.\""
@@ -10792,7 +10839,9 @@
       "song_id": "29003",
       "filename": "29003.mp3",
       "title": "PLASMA SOUL NIGHT feat. Nana Takahashi / 709sec.",
-      "alt_titles": [],
+      "alt_titles": [
+        "PLASMA SOUL NIGHT"
+      ],
       "genre": "LIGHTNING EUROBEAT",
       "artist": "BEMANI Sound Team \"L.E.D.\""
     },
@@ -10991,7 +11040,7 @@
       "filename": "29028.mp3",
       "title": "愛しくてラヴィンユー ft. マナ",
       "alt_titles": [
-        "itoshikute love in you ft.mana"
+        "itoshikute love in you"
       ],
       "genre": "EURO BEAT",
       "artist": "Xceon"
@@ -11082,7 +11131,9 @@
       "song_id": "29040",
       "filename": "29040.mp3",
       "title": "Get set, Go! feat.Kanae Asaba",
-      "alt_titles": [],
+      "alt_titles": [
+        "Get set Go"
+      ],
       "genre": "FUTURE BOUNCE",
       "artist": "MK"
     },
@@ -11100,7 +11151,9 @@
       "song_id": "29042",
       "filename": "29042.mp3",
       "title": "RAGE feat.H14 of LEONAIR",
-      "alt_titles": [],
+      "alt_titles": [
+        "rage"
+      ],
       "genre": "MIXTURE",
       "artist": "DJ Mass MAD Izm*"
     },
@@ -11116,7 +11169,9 @@
       "song_id": "29044",
       "filename": "29044.mp3",
       "title": "Blue Bird feat. Kanae Asaba",
-      "alt_titles": [],
+      "alt_titles": [
+        "Blue Bird"
+      ],
       "genre": "LATIN FUSION POP",
       "artist": "Nhato"
     },
@@ -11679,7 +11734,7 @@
       "filename": "30008.mp3",
       "title": "FLARE -炎舞- ft.Nana Takahashi",
       "alt_titles": [
-        "FLARE -ENBU- ft.Nana Takahashi"
+        "FLARE"
       ],
       "genre": "BPL S3 THEME",
       "artist": "BEMANI Sound Team \"dj TAKA\" Vs SOUND HOLIC"
@@ -11863,7 +11918,7 @@
       "filename": "30031.mp3",
       "title": "月と夢の跡 ft. マナ",
       "alt_titles": [
-        "tsuki to yume no ato ft.mana"
+        "tsuki to yume no ato"
       ],
       "genre": "J METAL×DANCE POP",
       "artist": "Xceon"
@@ -11980,7 +12035,9 @@
       "song_id": "30045",
       "filename": "30045.mp3",
       "title": "wanna be a \"BAD GIRL\" feat. Nana Takahashi",
-      "alt_titles": [],
+      "alt_titles": [
+        "wanna be a bad girl"
+      ],
       "genre": "FUNK POP",
       "artist": "Nhato"
     },
@@ -12201,7 +12258,7 @@
       "filename": "30072.mp3",
       "title": "あるビー！ feat.ころねぽち",
       "alt_titles": [
-        "Aru B! feat.PochiKorone"
+        "Aru B"
       ],
       "genre": "ピコピコ電波ソング",
       "artist": "ヒゲドライバー"
@@ -12487,7 +12544,7 @@
       "filename": "30105.mp3",
       "title": "マツケンサンバII",
       "alt_titles": [
-        "Matsuken SambaII"
+        "Matsuken Samba"
       ],
       "genre": "IIDX EDITION",
       "artist": "Remixed by Ryu☆ feat. BEMANI Sound Team \"ショッチョー\" ＆ イオ"
@@ -12496,7 +12553,9 @@
       "song_id": "30106",
       "filename": "30106.mp3",
       "title": "CODE -CRiMSON-",
-      "alt_titles": [],
+      "alt_titles": [
+        "code crimson"
+      ],
       "genre": "NRG SCHRANZ",
       "artist": "Shiron"
     },
@@ -12548,7 +12607,9 @@
       "song_id": "01000",
       "filename": "01000.mp3",
       "title": "5.1.1.",
-      "alt_titles": [],
+      "alt_titles": [
+        "511"
+      ],
       "genre": "PIANO AMBIENT",
       "artist": "dj nagureo"
     },
@@ -12653,7 +12714,7 @@
       "filename": "01020.mp3",
       "title": "PARANOIA MAX～DIRTY MIX～",
       "alt_titles": [
-        "PARANOIA MAX-DIRTY MIX-"
+        "PARANOIA MAX DIRTY MIX"
       ],
       "genre": "JUNGLE",
       "artist": "190"
@@ -12938,7 +12999,9 @@
       "song_id": "04021",
       "filename": "04021.mp3",
       "title": "Voltage (feat. Hidemaru)",
-      "alt_titles": [],
+      "alt_titles": [
+        "Voltage"
+      ],
       "genre": "BIG BEAT",
       "artist": "TaQ"
     },
@@ -12978,7 +13041,9 @@
       "song_id": "04033",
       "filename": "04033.mp3",
       "title": "Jam&Marmalade",
-      "alt_titles": [],
+      "alt_titles": [
+        "jam and marmalade"
+      ],
       "genre": "WARP HOUSE",
       "artist": "FinalOffset"
     },
@@ -13042,7 +13107,9 @@
       "song_id": "05014",
       "filename": "05014.mp3",
       "title": "RIDE ON THE LIGHT (HI GREAT MIX)",
-      "alt_titles": [],
+      "alt_titles": [
+        "RIDE ON THE LIGHT"
+      ],
       "genre": "POWER FUSION",
       "artist": "Mr.T"
     },
@@ -13516,7 +13583,9 @@
       "song_id": "08009",
       "filename": "08009.mp3",
       "title": "Colors -Y&Co. Eurobeat Remix-",
-      "alt_titles": [],
+      "alt_titles": [
+        "Colors Remix"
+      ],
       "genre": "EUROBEAT",
       "artist": "dj TAKA (remixed by 横田商会)"
     },
