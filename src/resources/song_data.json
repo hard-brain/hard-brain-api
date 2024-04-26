@@ -1177,7 +1177,7 @@
     "13047": {
       "song_id": "13047",
       "filename": "13047.mp3",
-      "title": "Double&#9825;&#9825;Loving Heart",
+      "title": "Double:heart:Loving Heart",
       "alt_titles": [
         "DOUBLE LOVING HEART"
       ],
@@ -12731,7 +12731,9 @@
       "song_id": "02003",
       "filename": "02003.mp3",
       "title": "Digital MinD(A/T Libra mix)",
-      "alt_titles": [],
+      "alt_titles": [
+        "Digital Mind"
+      ],
       "genre": "MINIMAL",
       "artist": "TaQ"
     },
@@ -12739,7 +12741,9 @@
       "song_id": "02005",
       "filename": "02005.mp3",
       "title": "Electro Tuned(the SubS mix)",
-      "alt_titles": [],
+      "alt_titles": [
+        "Electro Tuned"
+      ],
       "genre": "BIG BEAT",
       "artist": "TaQ"
     },
