@@ -11723,7 +11723,8 @@
       "filename": "29098.mp3",
       "title": "Push on Beats!〜音ゲの国のeX-ストリーマー〜",
       "alt_titles": [
-        "Push on Beats!Otoge no Kuni no eX-Streamer"
+        "Push on Beats!Otoge no Kuni no eX-Streamer",
+        "Push on Beats"
       ],
       "genre": "AKIBA-POP",
       "artist": "MOSAIC.WAV"
@@ -13346,7 +13347,9 @@
       "song_id": "06005",
       "filename": "06005.mp3",
       "title": "Colors (radio edit)",
-      "alt_titles": [],
+      "alt_titles": [
+        "Colors"
+      ],
       "genre": "TRANCE",
       "artist": "dj TAKA"
     },
