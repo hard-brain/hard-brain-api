@@ -14,7 +14,8 @@ A service for song quizzes for Beatmania IIDX music.
 
 Songs used for Hard Brain quiz questions are placed here, but not included on the main repo due to file size and legal
 reasons. [Songs can be downloaded from here](https://corndog.galaxy.usbx.me/nextcloud/s/Q56JdfDpy8GMocd) and are
-required for the `/audio/{song_id}` endpoint to work. Unzip the archive and place the contents in the `src/resources/songs/` directory.
+required for the `/audio/{song_id}` endpoint to work. Unzip the archive and place the contents in a folder called
+`songs` in the project root directory.
 
 ## Building and running via Docker
 

@@ -150,6 +150,7 @@ dmypy.json
 cython_debug/
 
 # don't commit songs to repo because I don't want to be DMCA'd
+songs/
 *.mp3
 *.ogg
 *.wav
