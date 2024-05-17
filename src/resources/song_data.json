@@ -240,7 +240,9 @@
       "song_id": "10049",
       "filename": "10049.mp3",
       "title": "One More Lovely",
-      "alt_titles": [],
+      "alt_titles": [
+        "oml"
+      ],
       "genre": "HAPPY",
       "artist": "Risk Junk"
     },
@@ -399,7 +401,9 @@
       "filename": "11026.mp3",
       "title": "ピアノ協奏曲第１番”蠍火”",
       "alt_titles": [
-        "PF CONCERTO ANTI-ARES"
+        "PF CONCERTO ANTI-ARES",
+        "scorpion fire",
+        "sasoribi"
       ],
       "genre": "DIRGE",
       "artist": "virkato"
@@ -959,7 +963,8 @@
       "filename": "13005.mp3",
       "title": "嘆きの樹",
       "alt_titles": [
-        "NAGEKI NO KI"
+        "NAGEKI NO KI",
+        "nageki"
       ],
       "genre": "CONTEMPORARY",
       "artist": "金獅子"
@@ -1188,7 +1193,9 @@
       "song_id": "13048",
       "filename": "13048.mp3",
       "title": "Zenius -I- vanisher",
-      "alt_titles": [],
+      "alt_titles": [
+        "ziv"
+      ],
       "genre": "CYBER OPUS",
       "artist": "Tatsh"
     },
@@ -1576,7 +1583,9 @@
       "song_id": "14052",
       "filename": "14052.mp3",
       "title": "Fascination MAXX",
-      "alt_titles": [],
+      "alt_titles": [
+        "faxx"
+      ],
       "genre": "SuperNOVA BEAT",
       "artist": "100-200-400"
     },
@@ -1818,7 +1827,9 @@
       "song_id": "15026",
       "filename": "15026.mp3",
       "title": "Time to Air",
-      "alt_titles": [],
+      "alt_titles": [
+        "tta"
+      ],
       "genre": "DANCE SPEED",
       "artist": "青龍"
     },
@@ -1997,7 +2008,7 @@
       "filename": "15056.mp3",
       "title": "ミラージュ・レジデンス",
       "alt_titles": [
-        "MIRAGE REGIDENCE"
+        "MIRAGE RESIDENCE"
       ],
       "genre": "FUSION",
       "artist": "Jimmy Weckl"
@@ -2095,7 +2106,8 @@
       "filename": "16006.mp3",
       "title": "不沈艦CANDY",
       "alt_titles": [
-        "FUCHINKAN CANDY"
+        "FUCHINKAN CANDY",
+        "fucking CANDY"
       ],
       "genre": "HARDCORE",
       "artist": "Risk Junk"
@@ -2112,7 +2124,9 @@
       "song_id": "16009",
       "filename": "16009.mp3",
       "title": "BITTER CHOCOLATE STRIKER",
-      "alt_titles": [],
+      "alt_titles": [
+        "bcs"
+      ],
       "genre": "JUMPSTYLE",
       "artist": "L.E.D.-G"
     },
@@ -2254,7 +2268,9 @@
       "song_id": "16026",
       "filename": "16026.mp3",
       "title": "3y3s",
-      "alt_titles": [],
+      "alt_titles": [
+        "eyes"
+      ],
       "genre": "DANCE SPEED",
       "artist": "青龍"
     },
@@ -2621,7 +2637,8 @@
       "filename": "17017.mp3",
       "title": "ワルツ第17番 ト短調”大犬のワルツ”",
       "alt_titles": [
-        "VALSE DU GRANDE CHIEN"
+        "VALSE DU GRANDE CHIEN",
+        "VALSE"
       ],
       "genre": "VALSE",
       "artist": "virkato"
@@ -2983,7 +3000,9 @@
       "filename": "18004.mp3",
       "title": "perditus†paradisus",
       "alt_titles": [
-        "perditus/paradisus"
+        "perditus paradisus",
+        "perditus",
+        "pp"
       ],
       "genre": "ANTHEM CORE",
       "artist": "iconoclasm"
@@ -3193,7 +3212,9 @@
       "filename": "18032.mp3",
       "title": "灼熱Beach Side Bunny",
       "alt_titles": [
-        "SHAKUNETSU BEACH SIDE BUNNY"
+        "SHAKUNETSU BEACH SIDE BUNNY",
+        "BEACH SIDE BUNNY",
+        "bsb"
       ],
       "genre": "BROKEN SAMBA BREAK",
       "artist": "DJ Mass MAD Izm*"
@@ -3346,7 +3367,8 @@
       "title": "黒髪乱れし修羅となりて",
       "alt_titles": [
         "KUROKAMI MIDARESHI SHURA TO NARITE",
-        "KUROKAMI"
+        "KUROKAMI",
+        "nadeshiko metal"
       ],
       "genre": "撫子メタル",
       "artist": "村正クオリア"
@@ -3465,7 +3487,9 @@
       "filename": "19005.mp3",
       "title": "恋する☆宇宙戦争っ！！",
       "alt_titles": [
-        "koisuru uchusensou!!"
+        "koisuru uchusensou!!",
+        "uchuu sensou",
+        "space prim"
       ],
       "genre": "Hi-BLEEP",
       "artist": "Prim"
@@ -3616,7 +3640,9 @@
       "song_id": "19026",
       "filename": "19026.mp3",
       "title": "The Sampling Paradise",
-      "alt_titles": [],
+      "alt_titles": [
+        "tsp"
+      ],
       "genre": "HARD TRANCE",
       "artist": "Mamonis"
     },
@@ -3735,7 +3761,9 @@
       "filename": "19042.mp3",
       "title": "聖人の塔",
       "alt_titles": [
-        "SEIJIN NO TOU"
+        "SEIJIN NO TOU",
+        "Beridzebeth",
+        "tower of saints"
       ],
       "genre": "BATTLE TRACK",
       "artist": "Beridzebeth"
@@ -3889,7 +3917,9 @@
       "song_id": "19064",
       "filename": "19064.mp3",
       "title": "fffff",
-      "alt_titles": [],
+      "alt_titles": [
+        "Five Hammer"
+      ],
       "genre": "HARD Pf",
       "artist": "Five Hammer"
     },
@@ -3898,7 +3928,8 @@
       "filename": "19065.mp3",
       "title": "子供の落書き帳",
       "alt_titles": [
-        "Children's Sketchbook"
+        "Children's Sketchbook",
+        "sketchbook"
       ],
       "genre": "PROGRESSIVE",
       "artist": "佐々木博史"
@@ -4000,7 +4031,9 @@
       "filename": "20003.mp3",
       "title": "ΕΛΠΙΣ",
       "alt_titles": [
-        "Elpis"
+        "Elpis",
+        "Eanie",
+        "Elias"
       ],
       "genre": "ROMANTIC SCHOOL VARIATIONS",
       "artist": "dj TAKA"
@@ -4010,7 +4043,9 @@
       "filename": "20004.mp3",
       "title": "狂イ咲ケ焔ノ華",
       "alt_titles": [
-        "kuruizake homura no hana"
+        "kuruizake homura no hana",
+        "ikeno",
+        "goth prim"
       ],
       "genre": "Hi-GOTH",
       "artist": "覚醒ノPrim"
@@ -4038,7 +4073,9 @@
       "filename": "20007.mp3",
       "title": "キャトられ♥恋はモ～モク",
       "alt_titles": [
-        "KYATORARE KOIHA MOOMOKU"
+        "KYATORARE KOIHA MOOMOKU",
+        "KYATORARE",
+        "cow prim"
       ],
       "genre": "Hi-ν BLEEP",
       "artist": "ギュ～っとしたい♥Prim"
@@ -4215,7 +4252,9 @@
       "song_id": "20031",
       "filename": "20031.mp3",
       "title": "Illegal Function Call",
-      "alt_titles": [],
+      "alt_titles": [
+        "ifc"
+      ],
       "genre": "ORBITALIC CORE",
       "artist": "U1-ASAMi"
     },
@@ -4274,7 +4313,8 @@
       "filename": "20039.mp3",
       "title": "仮想空間の旅人たち",
       "alt_titles": [
-        "The travelers of virtual space"
+        "The travelers of virtual space",
+        "travellers"
       ],
       "genre": "TECHNO",
       "artist": "DJ MURASAME"
@@ -4328,7 +4368,9 @@
       "filename": "20047.mp3",
       "title": "†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT)",
       "alt_titles": [
-        "NAGISANOKOAKUMA LOVELY RADIO"
+        "NAGISANOKOAKUMA LOVELY RADIO",
+        "nagisa prim",
+        "lovely radio prim"
       ],
       "genre": "Hi-CORE",
       "artist": "夏色ビキニのPrim"
@@ -4346,7 +4388,8 @@
       "filename": "20049.mp3",
       "title": "アストライアの双皿",
       "alt_titles": [
-        "BALANCE OF ASTRAIA"
+        "BALANCE OF ASTRAIA",
+        "ZODIAC ORACLE"
       ],
       "genre": "ZODIAC ORACLE 7",
       "artist": "ZODIACSYNDICATE"
@@ -4380,7 +4423,8 @@
       "filename": "20054.mp3",
       "title": "即席！脳直★ミュージックシステム",
       "alt_titles": [
-        "Sokuseki! Nouchoku Music System"
+        "Sokuseki! Nouchoku Music System",
+        "mosaic.wav tricoro"
       ],
       "genre": "AKIBA-POP",
       "artist": "MOSAIC.WAV"
@@ -4574,7 +4618,8 @@
       "filename": "20089.mp3",
       "title": "お米の美味しい炊き方、そしてお米を食べることによるその効果。",
       "alt_titles": [
-        "HOW TO COOK DELICIOUS RICE AND THE EFFECT OF EATING RICE"
+        "HOW TO COOK DELICIOUS RICE AND THE EFFECT OF EATING RICE",
+        "rice metal"
       ],
       "genre": "お米タル",
       "artist": "大日本鉄倶楽部【あさき＆９６】"
@@ -4652,7 +4697,8 @@
       "filename": "20099.mp3",
       "title": "音楽",
       "alt_titles": [
-        "ONGAKU"
+        "ONGAKU",
+        "silent"
       ],
       "genre": "SILENT",
       "artist": "弁士カンタビレオ"
@@ -4672,7 +4718,8 @@
       "filename": "20101.mp3",
       "title": "シュレーディンガーの猫",
       "alt_titles": [
-        "SCHRODINGER'S CAT"
+        "SCHRODINGER'S CAT",
+        "simpsons song"
       ],
       "genre": "TOY CONTEMPORARY",
       "artist": "Cait Sith"
@@ -4698,7 +4745,8 @@
       "filename": "21002.mp3",
       "title": "旋律のドグマ～Misérables～",
       "alt_titles": [
-        "SENRITSUNO DOGMA"
+        "SENRITSUNO DOGMA",
+        "dogma prim"
       ],
       "genre": "JUVENILE DRUM & BASS",
       "artist": "楓璃夢＝ジークフリード＝ファイエルローゼン"
@@ -4884,7 +4932,9 @@
       "filename": "21029.mp3",
       "title": "廿",
       "alt_titles": [
-        "TWENTY"
+        "TWENTY",
+        "20",
+        "nijyuu"
       ],
       "genre": "新世紀進歩的羽扇子音楽",
       "artist": "DJ TECHNORCH"
@@ -4914,7 +4964,8 @@
       "filename": "21032.mp3",
       "title": "煉獄のエルフェリア",
       "alt_titles": [
-        "ELFERIA of purgatory"
+        "ELFERIA of purgatory",
+        "rengoku ELFERIA"
       ],
       "genre": "HARD SYMPHONIC",
       "artist": "猫叉Master+"
@@ -5029,6 +5080,8 @@
       "title": "疾風迅雷",
       "alt_titles": [
         "LIGHTNING SPEED",
+        "shippujinrai",
+        "shitpoo",
         "kumokiri"
       ],
       "genre": "ORIENTAL CORE",
@@ -5054,7 +5107,9 @@
       "song_id": "21052",
       "filename": "21052.mp3",
       "title": "Feel The Beat",
-      "alt_titles": [],
+      "alt_titles": [
+        "ftb"
+      ],
       "genre": "HARDCORE RAVE",
       "artist": "Falsion"
     },
@@ -5239,7 +5294,9 @@
       "filename": "21081.mp3",
       "title": "轟け！恋のビーンボール！！",
       "alt_titles": [
-        "THUNDER LOVE BEANBALL !"
+        "THUNDER LOVE BEANBALL !",
+        "baseball prim",
+        "beanball"
       ],
       "genre": "ベースボールヒロイン",
       "artist": "ダイナミック野球兄弟 v.s. クロスファイヤーPrim"
@@ -5249,7 +5306,8 @@
       "filename": "21082.mp3",
       "title": "IX",
       "alt_titles": [
-        "NINE"
+        "NINE",
+        "9"
       ],
       "genre": "BLOOD METAL",
       "artist": "dj TAKA VS DJ TOTTO feat.藍"
@@ -5293,7 +5351,8 @@
       "filename": "21088.mp3",
       "title": "海神",
       "alt_titles": [
-        "WADATSUMI"
+        "WADATSUMI",
+        "HYDRO CORE"
       ],
       "genre": "HYDRO CORE",
       "artist": "兎々"
@@ -5334,7 +5393,9 @@
       "song_id": "22003",
       "filename": "22003.mp3",
       "title": "Rave*it!! Rave*it!!",
-      "alt_titles": [],
+      "alt_titles": [
+        "rave it rave it"
+      ],
       "genre": "EDM SPEED",
       "artist": "機龍"
     },
@@ -5383,7 +5444,8 @@
       "filename": "22009.mp3",
       "title": "表裏一体！？怪盗いいんちょの悩み♥",
       "alt_titles": [
-        "HYOURIITTAI KAITOU IINCHOU NO NAYAMI"
+        "HYOURIITTAI KAITOU IINCHOU NO NAYAMI",
+        "thief prim 1"
       ],
       "genre": "Hi-FUNK BREAKS",
       "artist": "◇◆噂の怪盗少女 ぷらずま★彡Prim◇◆"
@@ -5411,7 +5473,9 @@
       "filename": "22012.mp3",
       "title": "共鳴遊戯の華",
       "alt_titles": [
-        "kyoumeiyuugino hana"
+        "kyoumeiyuugino hana",
+        "naikara",
+        "ASTRAL DRUM & BASS"
       ],
       "genre": "ASTRAL DRUM & BASS",
       "artist": "アイテール魔導士隊"
@@ -5532,7 +5596,8 @@
       "filename": "22032.mp3",
       "title": "リリーゼと炎龍レーヴァテイン",
       "alt_titles": [
-        "lilieze and her fire dragon"
+        "lilieze and her fire dragon",
+        "lilieze"
       ],
       "genre": "OLDSTYLE GAMEMUSIC",
       "artist": "黒猫ダンジョン"
@@ -5621,7 +5686,9 @@
       "song_id": "22043",
       "filename": "22043.mp3",
       "title": "IMPLANTATION",
-      "alt_titles": [],
+      "alt_titles": [
+        "nythil"
+      ],
       "genre": "GOA TRANCE",
       "artist": "TOMOSUKE"
     },
@@ -5789,7 +5856,9 @@
       "song_id": "22065",
       "filename": "22065.mp3",
       "title": "entelecheia",
-      "alt_titles": [],
+      "alt_titles": [
+        "enchilada"
+      ],
       "genre": "SACRED TRANCE",
       "artist": "Rche"
     },
@@ -5888,7 +5957,8 @@
       "filename": "22083.mp3",
       "title": "千年ノ理",
       "alt_titles": [
-        "sennenno kotowari"
+        "sennenno kotowari",
+        "semen"
       ],
       "genre": "WORLD/ELECTRONICA",
       "artist": "猫叉Master"
@@ -5926,7 +5996,8 @@
       "filename": "22087.mp3",
       "title": "それは花火のような恋",
       "alt_titles": [
-        "soreha hanabino youna koi"
+        "soreha hanabino youna koi",
+        "femboy prim"
       ],
       "genre": "Hi-歌謡コア",
       "artist": "夏色バーニングラブ☆Prim"
@@ -5978,7 +6049,8 @@
       "filename": "22093.mp3",
       "title": "少年は空を辿る",
       "alt_titles": [
-        "Shonen ha Sora wo Tadoru"
+        "Shonen ha Sora wo Tadoru",
+        "murakumo"
       ],
       "genre": "ムラクモ",
       "artist": "Power Of Nature"
@@ -6352,7 +6424,8 @@
       "filename": "23045.mp3",
       "title": "めいさいアイドル☆あいむちゃん♪",
       "alt_titles": [
-        "Meisai Idol Aim-chan"
+        "Meisai Idol Aim-chan",
+        "copula sharpnel"
       ],
       "genre": "電波デステクノ",
       "artist": "DJ SHARPNEL feat. みらい"
@@ -6412,7 +6485,9 @@
       "filename": "23051.mp3",
       "title": "灼熱 Pt.2 Long Train Running",
       "alt_titles": [
-        "shakunetsu pt.2"
+        "shakunetsu pt.2",
+        "long train running",
+        "ltr"
       ],
       "genre": "BROKEN SAMBA BREAK",
       "artist": "DJ Mass MAD Izm*"
@@ -6447,7 +6522,7 @@
       "title": "199024club -Re:BounceKiller-",
       "alt_titles": [
         "199024club",
-        "Re:BounceKiller"
+        "Re:Bounce Killer"
       ],
       "genre": "TECH BREAKBEATS",
       "artist": "DJ Mass MAD Izm*"
@@ -6504,7 +6579,9 @@
       "song_id": "23063",
       "filename": "23063.mp3",
       "title": "Blue Spring Express",
-      "alt_titles": [],
+      "alt_titles": [
+        "martin"
+      ],
       "genre": "DREAM CORE",
       "artist": "DJ Scratch & Bend"
     },
@@ -6851,7 +6928,8 @@
       "filename": "24014.mp3",
       "title": "津軽雪",
       "alt_titles": [
-        "TSUGARU SETSU"
+        "TSUGARU SETSU",
+        "michinoku"
       ],
       "genre": "MICHINOKU",
       "artist": "罠師 VS 安室"
@@ -7039,7 +7117,8 @@
       "filename": "24036.mp3",
       "title": "#MAGiCVLGiRL_TRVP_B3VTZ",
       "alt_titles": [
-        "MAGiCVLGiRL_TRVP_B3VTZ"
+        "MAGiCVLGiRL_TRVP_B3VTZ",
+        "magical girl trap beats"
       ],
       "genre": "NEON/TWERKCORE",
       "artist": "DJ Noriken"
@@ -7273,7 +7352,9 @@
       "filename": "24070.mp3",
       "title": "九尾狐夜行",
       "alt_titles": [
-        "Kyuubikoyagyou"
+        "Kyuubikoyagyou",
+        "fox song",
+        "oriental fusion"
       ],
       "genre": "ORIENTAL FUSION",
       "artist": "天狐"
@@ -7497,7 +7578,9 @@
       "filename": "25000.mp3",
       "title": "神謳 -RESONANCE-",
       "alt_titles": [
-        "SHINOH -RESONANCE-"
+        "SHINOH -RESONANCE-",
+        "GOD PHOENIX Prim",
+        "SOUND HOLIC prim"
       ],
       "genre": "Hi-MYTH",
       "artist": "SOUND HOLIC feat. Nana Takahashi Vs.GOD PHOENIX Prim"
@@ -7647,7 +7730,8 @@
       "filename": "25017.mp3",
       "title": "シムルグの目醒め",
       "alt_titles": [
-        "Dawn of Simurgh"
+        "Dawn of Simurgh",
+        "simurgh"
       ],
       "genre": "NATURE",
       "artist": "BEMANI Sound Team \"DJ TOTTO\" feat.rionos"
@@ -8235,7 +8319,9 @@
       "filename": "26003.mp3",
       "title": "抱きしめてモナムール",
       "alt_titles": [
-        "dakishimete mon amour"
+        "dakishimete mon amour",
+        "mon amour prim",
+        "rootage prim"
       ],
       "genre": "Hi-歌謡コア",
       "artist": "冬色AMOUR☆Prim"
@@ -8746,7 +8832,9 @@
       "song_id": "26072",
       "filename": "26072.mp3",
       "title": "Level One",
-      "alt_titles": [],
+      "alt_titles": [
+        "level 1"
+      ],
       "genre": "Drumstep / DnB",
       "artist": "Yamato"
     },
@@ -8789,7 +8877,8 @@
       "filename": "26078.mp3",
       "title": "金野火織の金色提言",
       "alt_titles": [
-        "KONNO HIORI NO KONJIKI TEIGEN"
+        "KONNO HIORI NO KONJIKI TEIGEN",
+        "ano sumimasen"
       ],
       "genre": "音ゲー賛美歌",
       "artist": "DJ TECHNORCH feat. 宇宙★海月"
@@ -9015,7 +9104,8 @@
       "filename": "26110.mp3",
       "title": "最小三倍完全数",
       "alt_titles": [
-        "SMALLEST 3K-PERFECT NUMBER"
+        "SMALLEST 3K-PERFECT NUMBER",
+        "tri perfect"
       ],
       "genre": "ピタゴラス的不完全性破壊衝動音律(ハンマーによる)",
       "artist": "DJ TECHNORCH"
@@ -9085,7 +9175,8 @@
       "filename": "27003.mp3",
       "title": "がっつり陰キャ!? 怪盗いいんちょの億劫^^;",
       "alt_titles": [
-        "gattsuri inkya kaitouiincho no okkuu"
+        "gattsuri inkya kaitouiincho no okkuu",
+        "thief prim 2"
       ],
       "genre": "Hi-メランコリックコア",
       "artist": "噂の怪盗少女ぷらずま★彡Prim@休業中～( _ _ ).。"
@@ -9205,7 +9296,9 @@
       "filename": "27018.mp3",
       "title": "華麗なる大犬円舞曲",
       "alt_titles": [
-        "Valse Brillante du Grand Chien"
+        "Valse Brillante du Grand Chien",
+        "lesbian valse",
+        "big dog 2"
       ],
       "genre": "CINEMATIC VALSE",
       "artist": "Wiktoria"
@@ -9273,7 +9366,8 @@
       "filename": "27026.mp3",
       "title": "魅惑のYUMMYスイーツ",
       "alt_titles": [
-        "Enchanting YUMMY sweets"
+        "Enchanting YUMMY sweets",
+        "YUMMY sweets"
       ],
       "genre": "TWINKLE POP",
       "artist": "BEMANI Sound Team \"TATSUYA\""
@@ -9429,7 +9523,8 @@
       "filename": "27049.mp3",
       "title": "灼熱Beach Side Bunny (Masayoshi Iimori Remix)",
       "alt_titles": [
-        "Shakunetsu Beach Side Bunny (Masayoshi Iimori Remix)"
+        "Shakunetsu Beach Side Bunny (Masayoshi Iimori Remix)",
+        "bsb Masayoshi Iimori Remix"
       ],
       "genre": "NRG",
       "artist": "Remixed by Masayoshi Iimori"
@@ -9471,7 +9566,8 @@
       "filename": "27054.mp3",
       "title": "深淵に捧ぐレクイエム",
       "alt_titles": [
-        "Requiem for the abyss"
+        "Requiem for the abyss",
+        "CYBER REQUIEM"
       ],
       "genre": "CYBER REQUIEM",
       "artist": "OSTER project"
@@ -9640,7 +9736,9 @@
       "song_id": "27078",
       "filename": "27078.mp3",
       "title": "Level 2",
-      "alt_titles": [],
+      "alt_titles": [
+        "level two"
+      ],
       "genre": "BIGBEAT / DUBSTEP",
       "artist": "Yamato"
     },
@@ -9703,7 +9801,9 @@
       "filename": "27088.mp3",
       "title": "ピアノ協奏曲第1番”蠍火” (BlackY Remix)",
       "alt_titles": [
-        "Pf Concerto No.1 \"Anti-Ares\" BlackY Remix"
+        "Pf Concerto No.1 \"Anti-Ares\" BlackY Remix",
+        "scorpion fire BlackY Remix",
+        "sasoribi BlackY Remix"
       ],
       "genre": "PDM",
       "artist": "Remixed by BlackY"
@@ -10031,7 +10131,8 @@
       "filename": "28016.mp3",
       "title": "水鏡の異界",
       "alt_titles": [
-        "Suikyo no Ikai"
+        "Suikyo no Ikai",
+        "coyaan"
       ],
       "genre": "JAPANESE TECH BREAKS",
       "artist": "BEMANI Sound Team \"Coyaan\""
@@ -10155,7 +10256,9 @@
       "filename": "28030.mp3",
       "title": "閠槞彁の願い",
       "alt_titles": [
-        "GRK NO NEGAI"
+        "GRK NO NEGAI",
+        "gyokurouka no negai",
+        "darkstep"
       ],
       "genre": "DARKSTEP",
       "artist": "DJ TECHNORCH & RoughSketch"
@@ -10554,7 +10657,9 @@
       "song_id": "28078",
       "filename": "28078.mp3",
       "title": "3!dolon Forc3",
-      "alt_titles": [],
+      "alt_titles": [
+        "eidolon force"
+      ],
       "genre": "THE 4TH",
       "artist": "青龍×Eagle"
     },
@@ -10579,7 +10684,8 @@
       "filename": "28081.mp3",
       "title": "二人ノ廃城幽踊宴",
       "alt_titles": [
-        "A Revenant Ball For Two In An Abandoned Castle"
+        "A Revenant Ball For Two In An Abandoned Castle",
+        "spukwaltzer"
       ],
       "genre": "SPUKWALZER",
       "artist": "上ノ瀬つかさ"
@@ -10712,7 +10818,9 @@
       "song_id": "28096",
       "filename": "28096.mp3",
       "title": "Level 3",
-      "alt_titles": [],
+      "alt_titles": [
+        "level three"
+      ],
       "genre": "DRUMSTEP / DnB",
       "artist": "Yamato"
     },
@@ -10905,7 +11013,8 @@
       "filename": "29012.mp3",
       "title": "ハイテックトキオ",
       "alt_titles": [
-        "HiTECH TOKIO"
+        "HiTECH TOKIO",
+        "hi-tech tokyo"
       ],
       "genre": "ハイテックトキオ",
       "artist": "lapix ∞ BEMANI Sound Team \"Sota Fujimori\""
@@ -10949,7 +11058,8 @@
       "filename": "29017.mp3",
       "title": "ピアノ独奏無言歌 \"灰燼\"",
       "alt_titles": [
-        "Lied ohne Worte \"Asche-Traum\""
+        "Lied ohne Worte \"Asche-Traum\"",
+        "kaijin"
       ],
       "genre": "THRENODY",
       "artist": "BEMANI Sound Team \"Virkato Wakhmaninov\""
@@ -11229,7 +11339,8 @@
       "filename": "29052.mp3",
       "title": "烽火連天の刃",
       "alt_titles": [
-        "HOKA RENTEN NO YAIBA"
+        "HOKA RENTEN NO YAIBA",
+        "cyber taiga"
       ],
       "genre": "CYBER TAIGA",
       "artist": "OSTER project"
@@ -11249,7 +11360,8 @@
       "filename": "29054.mp3",
       "title": "Smalt #28598F",
       "alt_titles": [
-        "Smalt 28598F"
+        "Smalt",
+        "smelf"
       ],
       "genre": "TECH DANCE",
       "artist": "REMO-CON"
@@ -11351,7 +11463,9 @@
       "filename": "29068.mp3",
       "title": "雪上断火",
       "alt_titles": [
-        "Burn out beyond determination on snowy"
+        "Burn out beyond determination on snowy",
+        "setsujou danka",
+        "HIP ROCK 3"
       ],
       "genre": "HIP ROCK3",
       "artist": "Des-ROW・組"
@@ -11714,7 +11828,9 @@
       "song_id": "30006",
       "filename": "30006.mp3",
       "title": "[ ]DENTITY",
-      "alt_titles": [],
+      "alt_titles": [
+        "identity"
+      ],
       "genre": "FORTUNE OVERTURE",
       "artist": "BEMANI Sound Team \"HuΣeR\""
     },
@@ -12320,7 +12436,9 @@
       "song_id": "30079",
       "filename": "30079.mp3",
       "title": "Level 4",
-      "alt_titles": [],
+      "alt_titles": [
+        "level four"
+      ],
       "genre": "DnB",
       "artist": "Yamato"
     },
