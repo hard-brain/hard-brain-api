@@ -1,9 +1,8 @@
 [tool.poetry]
 name = "hard-brain"
-version = "0.2.1"
+version = "0.2.2"
 description = "A service for song quizzes for Beatmania IIDX music."
-authors = ["Your Name <you@example.com>"]
-license = "Unlicense"
+authors = ["Corndog <admin@corndogit.dev>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
