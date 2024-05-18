@@ -1,6 +1,6 @@
 # Hard Brain API
 
-A service for song quizzes for Beatmania IIDX music.
+A service for providing song data and audio files for Beatmania IIDX music.
 
 ## Installation (for development)
 
@@ -9,7 +9,7 @@ A service for song quizzes for Beatmania IIDX music.
 - Python (3.10.10)
 - Poetry (1.7.1 recommended)
 
-## Steps
+### Steps
 
 1. Clone the project and run `poetry install`. This should create a new virtual environment with all dependencies.
 2. Run `poetry shell` and `uvicorn src.main:app --reload`
@@ -25,3 +25,15 @@ container under `/app/src/resources/songs/`
 
 Please refer to the [hard-brain-deploy](https://github.com/hard-brain/hard-brain-deploy) for instructions on how to
 deploy the backend for development or production environments.
+
+### Running tests
+
+A Compose file is included for running the tests against. Once running, run the `test_main.py` file with the following
+environment variables set:
+
+| Environment Variable | Value           |
+|----------------------|-----------------|
+| PGUSER               | "postgres"      |
+| POSTGRES_DB          | "hard-brain-db" |
+| DB_HOSTNAME          | "db"            |
+| POSTGRES_PASSWORD:   | "testdb"        |
