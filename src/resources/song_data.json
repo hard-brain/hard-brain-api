@@ -12721,6 +12721,995 @@
       "genre": "STYLISH ELECTRO",
       "artist": "BEMANI Sound Team \"HuΣeR\""
     },
+    "31000": {
+      "song_id": "31000",
+      "filename": "31000.mp3",
+      "title": "JUSTICE/GUILTY feat. Nana Takahashi & 709sec.",
+      "alt_titles": ["justice/guilty"],
+      "genre": "ROCKIN' DRUM & BASS",
+      "artist": "BEMANI Sound Team \"L.E.D.\""
+    },
+    "31001": {
+      "song_id": "31001",
+      "filename": "31001.mp3",
+      "title": "CADENZA",
+      "alt_titles": [],
+      "genre": "PSYCHEDELIC TRANCE",
+      "artist": "lapix ∞ BEMANI Sound Team \"L.E.D.\""
+    },
+    "31003": {
+      "song_id": "31003",
+      "filename": "31003.mp3",
+      "title": "The Last Apocalypse",
+      "alt_titles": [],
+      "genre": "NEO-CLASSICAL CORE",
+      "artist": "BEMANI Sound Team \"Sota F. feat. Yvya\""
+    },
+    "31004": {
+      "song_id": "31004",
+      "filename": "31004.mp3",
+      "title": "Iris",
+      "alt_titles": [],
+      "genre": "EMOTIONAL J-POP",
+      "artist": "BEMANI Sound Team \"HuΣeR\" feat.紫村 花澄"
+    },
+    "31005": {
+      "song_id": "31005",
+      "filename": "31005.mp3",
+      "title": "電子になりたい",
+      "alt_titles": [
+        "DENSHI NI NARITAI"
+      ],
+      "genre": "HYBRID DANCE MUSIC",
+      "artist": "BEMANI Sound Team \"HuΣeR\""
+    },
+    "31006": {
+      "song_id": "31006",
+      "filename": "31006.mp3",
+      "title": "Riff//rain",
+      "alt_titles": [],
+      "genre": "THEME SONG",
+      "artist": "Rainy。"
+    },
+    "31007": {
+      "song_id": "31007",
+      "filename": "31007.mp3",
+      "title": "Vulnerability",
+      "alt_titles": [],
+      "genre": "VARIABLE CORE",
+      "artist": "BEMANI Sound Team \"ZAQUVA\""
+    },
+    "31008": {
+      "song_id": "31008",
+      "filename": "31008.mp3",
+      "title": "Time Distortion pt.2(IIDX Edit)",
+      "alt_titles": ["Time Distortion pt.2"],
+      "genre": "PSYCHEDELIC TECHNO",
+      "artist": "kors k vs BEMANI Sound Team \"setup\""
+    },
+    "31009": {
+      "song_id": "31009",
+      "filename": "31009.mp3",
+      "title": "frequent",
+      "alt_titles": [],
+      "genre": "MUSIC GAME TRADITIONAL",
+      "artist": "BEMANI Sound Team \"dj TAKA\""
+    },
+    "31010": {
+      "song_id": "31010",
+      "filename": "31010.mp3",
+      "title": "Cult Invitation",
+      "alt_titles": [],
+      "genre": "00's TECHNO",
+      "artist": "BEMANI Sound Team \"謎の勢力\""
+    },
+    "31011": {
+      "song_id": "31011",
+      "filename": "31011.mp3",
+      "title": "Chemical Colours",
+      "alt_titles": [],
+      "genre": "COLOUR TECHCORE",
+      "artist": "Blacklolita x BEMANI Sound Team \"Expander\""
+    },
+    "31012": {
+      "song_id": "31012",
+      "filename": "31012.mp3",
+      "title": "Speculation",
+      "alt_titles": [],
+      "genre": "HARDCORE TECHNO",
+      "artist": "BEMANI Sound Team \"ZAQUVA\""
+    },
+    "31013": {
+      "song_id": "31013",
+      "filename": "31013.mp3",
+      "title": "めうめうぺったんたん！！ (ZAQUVA Remix)",
+      "alt_titles": [
+        "Meumeupettantan!! (ZAQUVA Remix)",
+        "Meu Meu Pettantan remix"
+      ],
+      "genre": "HYPERACTIVE HELLCORE",
+      "artist": "Remixed by BEMANI Sound Team \"ZAQUVA\""
+    },
+    "31014": {
+      "song_id": "31014",
+      "filename": "31014.mp3",
+      "title": "WaterCube Pf.(RX-Ver.S.P.L.)",
+      "alt_titles": ["WaterCube"],
+      "genre": "ETHNO POP",
+      "artist": "高田雅史"
+    },
+    "31015": {
+      "song_id": "31015",
+      "filename": "31015.mp3",
+      "title": "Sword of Vengeance",
+      "alt_titles": [],
+      "genre": "HI-SPEED TECHCORE",
+      "artist": "sky_delta"
+    },
+    "31016": {
+      "song_id": "31016",
+      "filename": "31016.mp3",
+      "title": "Psychedelic Intelligence",
+      "alt_titles": [],
+      "genre": "PSYCHEDELIC",
+      "artist": "BEMANI Sound Team \"Sota Fujimori\""
+    },
+    "31017": {
+      "song_id": "31017",
+      "filename": "31017.mp3",
+      "title": "ポラリスノウタ",
+      "alt_titles": [
+        "Polaris no Uta"
+      ],
+      "genre": "FUTUREBASS",
+      "artist": "ここなつ2.0"
+    },
+    "31018": {
+      "song_id": "31018",
+      "filename": "31018.mp3",
+      "title": "終焔のClaudia",
+      "alt_titles": [
+        "Shuen no Claudia"
+      ],
+      "genre": "HARD RENAISSANCE",
+      "artist": "二代目朱雀"
+    },
+    "31019": {
+      "song_id": "31019",
+      "filename": "31019.mp3",
+      "title": "Get Higher",
+      "alt_titles": [],
+      "genre": "ADVENTURE TRIP",
+      "artist": "BEMANI Sound Team \"劇団レコード\""
+    },
+    "31020": {
+      "song_id": "31020",
+      "filename": "31020.mp3",
+      "title": "Amethyst",
+      "alt_titles": [],
+      "genre": "TRANCE",
+      "artist": "BlackY"
+    },
+    "31021": {
+      "song_id": "31021",
+      "filename": "31021.mp3",
+      "title": "アイドル",
+      "alt_titles": [
+        "IDOL"
+      ],
+      "genre": "IIDX EDITION",
+      "artist": "Covered by BEMANI Sound Team \"HuΣeR × wac\" feat. 佐伯伊織"
+    },
+    "31022": {
+      "song_id": "31022",
+      "filename": "31022.mp3",
+      "title": "傷つけど、愛してる。",
+      "alt_titles": [
+        "Kizutsukedo Aishiteru"
+      ],
+      "genre": "J-POP",
+      "artist": "ツユ"
+    },
+    "31023": {
+      "song_id": "31023",
+      "filename": "31023.mp3",
+      "title": "ちゅ、多様性。",
+      "alt_titles": [
+        "Chu, tayousei"
+      ],
+      "genre": "J-POP",
+      "artist": "ano"
+    },
+    "31024": {
+      "song_id": "31024",
+      "filename": "31024.mp3",
+      "title": "酔いどれ知らず",
+      "alt_titles": [
+        "Yoidore Shirazu"
+      ],
+      "genre": "IIDX EDITION",
+      "artist": "Remixed by SOUND HOLIC feat. Nana Takahashi"
+    },
+    "31025": {
+      "song_id": "31025",
+      "filename": "31025.mp3",
+      "title": "寝起きヤシの木",
+      "alt_titles": [
+        "Neoki Yashinoki"
+      ],
+      "genre": "IIDX EDITION",
+      "artist": "Remixed by uno(IOSYS) feat. Chiyoko"
+    },
+    "31026": {
+      "song_id": "31026",
+      "filename": "31026.mp3",
+      "title": "Mukade",
+      "alt_titles": [],
+      "genre": "SCHRANZ",
+      "artist": "kors k"
+    },
+    "31027": {
+      "song_id": "31027",
+      "filename": "31027.mp3",
+      "title": "Glitch N Ride",
+      "alt_titles": [],
+      "genre": "COLOUR BASS",
+      "artist": "Eagle"
+    },
+    "31028": {
+      "song_id": "31028",
+      "filename": "31028.mp3",
+      "title": "See You Again",
+      "alt_titles": [],
+      "genre": "HARDCORE",
+      "artist": "kors k & Numb'n'dub"
+    },
+    "31029": {
+      "song_id": "31029",
+      "filename": "31029.mp3",
+      "title": "winkle 2 winkle",
+      "alt_titles": [],
+      "genre": "EURODANCE SPEED",
+      "artist": "Ryu☆ ft.NU-KO"
+    },
+    "31030": {
+      "song_id": "31030",
+      "filename": "31030.mp3",
+      "title": "灼熱Beach Side Bunny (かめりあ's \"Summertime D'n'B\" Remix)",
+      "alt_titles": [
+        "ShakunetsuBeachSideBunny(Camellia's \"Summertime D'n'B\" Remix)"
+      ],
+      "genre": "BROKEN SAMBA DRUM'N'BASS",
+      "artist": "Remixed by かめりあ"
+    },
+    "31031": {
+      "song_id": "31031",
+      "filename": "31031.mp3",
+      "title": "果たせぬ約束 ft. 小林マナ",
+      "alt_titles": [
+        "hatasenuyakusoku ft. kobayashi mana"
+      ],
+      "genre": "CHINA SQUARE DANCEPOP",
+      "artist": "Xceon"
+    },
+    "31032": {
+      "song_id": "31032",
+      "filename": "31032.mp3",
+      "title": "COUNTING SHEEP ft. Kanae Asaba",
+      "alt_titles": [],
+      "genre": "SYMPHONIC DRUM'N'BASS",
+      "artist": "Xceon"
+    },
+    "31033": {
+      "song_id": "31033",
+      "filename": "31033.mp3",
+      "title": "Tripping Jumping",
+      "alt_titles": [],
+      "genre": "FUNKY BREAKS",
+      "artist": "Aikapin Prod. by uno & NiActivity"
+    },
+    "31034": {
+      "song_id": "31034",
+      "filename": "31034.mp3",
+      "title": "Out of Control",
+      "alt_titles": [],
+      "genre": "FREEFORM ARTCORE",
+      "artist": "CANVAS feat. Quimär"
+    },
+    "31035": {
+      "song_id": "31035",
+      "filename": "31035.mp3",
+      "title": "Echoes of Sunfall",
+      "alt_titles": [],
+      "genre": "ETHNIC HARDSOUND",
+      "artist": "nora2r"
+    },
+    "31036": {
+      "song_id": "31036",
+      "filename": "31036.mp3",
+      "title": "今宵、ロマンス横丁。",
+      "alt_titles": [
+        "Tonight, Romance Alley."
+      ],
+      "genre": "和風歌謡硬核音楽",
+      "artist": "まろん feat. Rikotan"
+    },
+    "31037": {
+      "song_id": "31037",
+      "filename": "31037.mp3",
+      "title": "Stereo Beasts",
+      "alt_titles": [],
+      "genre": "HARD TECHNO/DOWNTEMPO",
+      "artist": "MK & RoughSketch"
+    },
+    "31038": {
+      "song_id": "31038",
+      "filename": "31038.mp3",
+      "title": "Bitter & Lucky",
+      "alt_titles": [],
+      "genre": "NU SYNTH BASS",
+      "artist": "DÉ DÉ MOUSE"
+    },
+    "31039": {
+      "song_id": "31039",
+      "filename": "31039.mp3",
+      "title": "Dahlia",
+      "alt_titles": [],
+      "genre": "HARD RENAISSANCE",
+      "artist": "BlackY"
+    },
+    "31040": {
+      "song_id": "31040",
+      "filename": "31040.mp3",
+      "title": "Jumper",
+      "alt_titles": [],
+      "genre": "DRUM'N'BASS",
+      "artist": "Masayoshi Iimori"
+    },
+    "31041": {
+      "song_id": "31041",
+      "filename": "31041.mp3",
+      "title": "アタシ完全絶対正義ちゃん！",
+      "alt_titles": [
+        "I AM Perfect Absolute Justice-chan!"
+      ],
+      "genre": "ROCK",
+      "artist": "Pizuya's Cell"
+    },
+    "31042": {
+      "song_id": "31042",
+      "filename": "31042.mp3",
+      "title": "シンデレラ",
+      "alt_titles": [
+        "Cinderella"
+      ],
+      "genre": "DRUM & BASS",
+      "artist": "Maozon feat. Nadia"
+    },
+    "31043": {
+      "song_id": "31043",
+      "filename": "31043.mp3",
+      "title": "摩天楼",
+      "alt_titles": [
+        "MATENRO"
+      ],
+      "genre": "VALHALLASTEP",
+      "artist": "Julianne"
+    },
+    "31044": {
+      "song_id": "31044",
+      "filename": "31044.mp3",
+      "title": "惑星鉄道",
+      "alt_titles": [
+        "planetary express"
+      ],
+      "genre": "PROLOGUE",
+      "artist": "Snail's House"
+    },
+    "31045": {
+      "song_id": "31045",
+      "filename": "31045.mp3",
+      "title": "センチメンタル・サマー",
+      "alt_titles": [
+        "Sentimental Summer"
+      ],
+      "genre": "CITY DANCE POP",
+      "artist": "Nhato feat. Kanae Asaba & はるまき (from ボタニカルな暮らし。)"
+    },
+    "31046": {
+      "song_id": "31046",
+      "filename": "31046.mp3",
+      "title": "Demon March",
+      "alt_titles": [],
+      "genre": "CINEMATIC BREAKCORE",
+      "artist": "Nhato"
+    },
+    "31047": {
+      "song_id": "31047",
+      "filename": "31047.mp3",
+      "title": "Aeterna",
+      "alt_titles": [],
+      "genre": "UNSUNG FANTASIA",
+      "artist": "satella feat. Risa Yuzuki"
+    },
+    "31048": {
+      "song_id": "31048",
+      "filename": "31048.mp3",
+      "title": "Deep Sea Mystery",
+      "alt_titles": [],
+      "genre": "NEO 90's AMBIENT JUNGLE",
+      "artist": "Dirty Androids"
+    },
+    "31049": {
+      "song_id": "31049",
+      "filename": "31049.mp3",
+      "title": "Submerge Serenade",
+      "alt_titles": [],
+      "genre": "HARDTECHNO",
+      "artist": "lapix"
+    },
+    "31050": {
+      "song_id": "31050",
+      "filename": "31050.mp3",
+      "title": "INHERITANCE",
+      "alt_titles": [],
+      "genre": "TRANCE CORE",
+      "artist": "Zekk"
+    },
+    "31051": {
+      "song_id": "31051",
+      "filename": "31051.mp3",
+      "title": "MAXIMUM CHEAT GIRL",
+      "alt_titles": [],
+      "genre": "MAXIMUM GAME-BREAKING HARDCORE",
+      "artist": "かめりあ feat. ななひら"
+    },
+    "31052": {
+      "song_id": "31052",
+      "filename": "31052.mp3",
+      "title": "Resonant",
+      "alt_titles": [],
+      "genre": "DRUM'N'BASS",
+      "artist": "BEMANI Sound Team \"猫叉Master\" & かめりあ"
+    },
+    "31053": {
+      "song_id": "31053",
+      "filename": "31053.mp3",
+      "title": "れとりば！",
+      "alt_titles": [
+        "retriever!"
+      ],
+      "genre": "KAWAII DOGGO POPS",
+      "artist": "OSTER project feat. 月ノ輪乃愛"
+    },
+    "31054": {
+      "song_id": "31054",
+      "filename": "31054.mp3",
+      "title": "Vermilion Carol",
+      "alt_titles": [],
+      "genre": "GOTHIC PIANO TRANCE",
+      "artist": "OSTER project"
+    },
+    "31055": {
+      "song_id": "31055",
+      "filename": "31055.mp3",
+      "title": "This Is Club Musik feat. 大久保紅葉",
+      "alt_titles": [
+        "This Is Club Musik feat. Momiji OKUBO"
+      ],
+      "genre": "HARD HOUSE",
+      "artist": "REMO-CON"
+    },
+    "31057": {
+      "song_id": "31057",
+      "filename": "31057.mp3",
+      "title": "神様、つれない。",
+      "alt_titles": [
+        "Kamisama, Tsurenai."
+      ],
+      "genre": "ALTERNATIVE",
+      "artist": "中山真斗 feat. CHAN"
+    },
+    "31058": {
+      "song_id": "31058",
+      "filename": "31058.mp3",
+      "title": "GLORIOUS HAMMER",
+      "alt_titles": [],
+      "genre": "DUBSTEP",
+      "artist": "AJURIKA"
+    },
+    "31059": {
+      "song_id": "31059",
+      "filename": "31059.mp3",
+      "title": "Level 5",
+      "alt_titles": [],
+      "genre": "Drumstep / Bass House / Dnb",
+      "artist": "Yamato"
+    },
+    "31060": {
+      "song_id": "31060",
+      "filename": "31060.mp3",
+      "title": "ZEROIN ON THE LIGHT",
+      "alt_titles": [],
+      "genre": "COLD BEAT",
+      "artist": "SOUND HOLIC Vs. ZYTOKINE feat. Nana Takahashi"
+    },
+    "31061": {
+      "song_id": "31061",
+      "filename": "31061.mp3",
+      "title": "電腦都市",
+      "alt_titles": [
+        "Dennou Toshi"
+      ],
+      "genre": "BREAKCORE",
+      "artist": "Blacklolita"
+    },
+    "31062": {
+      "song_id": "31062",
+      "filename": "31062.mp3",
+      "title": "夢縁",
+      "alt_titles": [
+        "Yume Enishi"
+      ],
+      "genre": "JUVENILE PIANO ROCK",
+      "artist": "xi feat. Risa Yuzuki"
+    },
+    "31063": {
+      "song_id": "31063",
+      "filename": "31063.mp3",
+      "title": "Shapeshifter",
+      "alt_titles": [],
+      "genre": "TECHNICAL ELECTRO",
+      "artist": "Avans"
+    },
+    "31064": {
+      "song_id": "31064",
+      "filename": "31064.mp3",
+      "title": "Ghost Pulse",
+      "alt_titles": [],
+      "genre": "NEOTRANCE",
+      "artist": "crayvxn"
+    },
+    "31065": {
+      "song_id": "31065",
+      "filename": "31065.mp3",
+      "title": "閉塞的フレーション",
+      "alt_titles": [
+        "Feelings that oscillate while in a closed space."
+      ],
+      "genre": "ROCK",
+      "artist": "Pizuya's Cell VS BEMANI Sound Team \"dj TAKA\""
+    },
+    "31066": {
+      "song_id": "31066",
+      "filename": "31066.mp3",
+      "title": "GAME ON",
+      "alt_titles": [],
+      "genre": "MIXTURE",
+      "artist": "DJ Mass MAD Izm* feat.H14 of LEONAIR"
+    },
+    "31067": {
+      "song_id": "31067",
+      "filename": "31067.mp3",
+      "title": "DAZZLE ATTACK",
+      "alt_titles": [],
+      "genre": "HAPPY HARDCORE TAKEOVER",
+      "artist": "Yuta Imai"
+    },
+    "31068": {
+      "song_id": "31068",
+      "filename": "31068.mp3",
+      "title": "SOLAR ECLIPSE",
+      "alt_titles": [],
+      "genre": "CROSSOVER",
+      "artist": "Yuta Imai Vs. BEMANI Sound Team \"Yvya\""
+    },
+    "31069": {
+      "song_id": "31069",
+      "filename": "31069.mp3",
+      "title": "TRIP THE DEEP",
+      "alt_titles": [],
+      "genre": "MELODIC TECHNO",
+      "artist": "Qlarabelle"
+    },
+    "31070": {
+      "song_id": "31070",
+      "filename": "31070.mp3",
+      "title": "夏風邪デスコ",
+      "alt_titles": [
+        "natsukaze disco"
+      ],
+      "genre": "SUMMER POP",
+      "artist": "TORIENA"
+    },
+    "31071": {
+      "song_id": "31071",
+      "filename": "31071.mp3",
+      "title": "out of disk space",
+      "alt_titles": [],
+      "genre": "CHARGE CORE",
+      "artist": "TORIENA"
+    },
+    "31072": {
+      "song_id": "31072",
+      "filename": "31072.mp3",
+      "title": "ないないルーティン",
+      "alt_titles": [
+        "Nainairoutine"
+      ],
+      "genre": "SPEED HOUSE",
+      "artist": "Len"
+    },
+    "31073": {
+      "song_id": "31073",
+      "filename": "31073.mp3",
+      "title": "My Sweet Bird?",
+      "alt_titles": [
+        "My Sweet Bird"
+      ],
+      "genre": "J-POP",
+      "artist": "アオワイファイ feat.秋山雫"
+    },
+    "31074": {
+      "song_id": "31074",
+      "filename": "31074.mp3",
+      "title": "Too Late Snow",
+      "alt_titles": [],
+      "genre": "J-DANCE POP",
+      "artist": "movies (moimoi × Xceon × Dai.)"
+    },
+    "31075": {
+      "song_id": "31075",
+      "filename": "31075.mp3",
+      "title": "ACTØ",
+      "alt_titles": [
+        "actzero", "act 0"
+      ],
+      "genre": "NEOTRANCE CORE",
+      "artist": "モリモリあつし"
+    },
+    "31076": {
+      "song_id": "31076",
+      "filename": "31076.mp3",
+      "title": "GloriosA",
+      "alt_titles": [],
+      "genre": "XYMPHONIC TECHCORE",
+      "artist": "KARUT"
+    },
+    "31077": {
+      "song_id": "31077",
+      "filename": "31077.mp3",
+      "title": "流桜ノ門",
+      "alt_titles": [
+        "Ruou no Mon"
+      ],
+      "genre": "SCI-FI CHRONICLE",
+      "artist": "tokiwa"
+    },
+    "31078": {
+      "song_id": "31078",
+      "filename": "31078.mp3",
+      "title": "20XX",
+      "alt_titles": [],
+      "genre": "CYBER BREAKCORE",
+      "artist": "COR!S"
+    },
+    "31079": {
+      "song_id": "31079",
+      "filename": "31079.mp3",
+      "title": "TITANIUM RIDERS",
+      "alt_titles": [],
+      "genre": "HARDCORE RAVE",
+      "artist": "DJ Shimamura"
+    },
+    "31080": {
+      "song_id": "31080",
+      "filename": "31080.mp3",
+      "title": "Just Gimme",
+      "alt_titles": [],
+      "genre": "CYBER DRUMSTEP",
+      "artist": "Maozon"
+    },
+    "31081": {
+      "song_id": "31081",
+      "filename": "31081.mp3",
+      "title": "Million Dollar",
+      "alt_titles": [],
+      "genre": "PARTICULAR NIGHTSCAPE",
+      "artist": "Dirty Androids"
+    },
+    "31083": {
+      "song_id": "31083",
+      "filename": "31083.mp3",
+      "title": "Xb10r",
+      "alt_titles": [],
+      "genre": "VOLTENIZED CORE",
+      "artist": "隣の庭は青い(庭師+Aoi)"
+    },
+    "31084": {
+      "song_id": "31084",
+      "filename": "31084.mp3",
+      "title": "Monkey Business",
+      "alt_titles": [],
+      "genre": "HARD DANCE",
+      "artist": "kors k"
+    },
+    "31085": {
+      "song_id": "31085",
+      "filename": "31085.mp3",
+      "title": "Ambivalent Vermilia",
+      "alt_titles": [],
+      "genre": "HARD RENAISSANCE",
+      "artist": "BEMANI Sound Team \"二代目朱雀 feat.朱雀\""
+    },
+    "31086": {
+      "song_id": "31086",
+      "filename": "31086.mp3",
+      "title": "《PL|RAYER》",
+      "alt_titles": [
+        "PLRAYER"
+      ],
+      "genre": "ASCENDING TOGETHER",
+      "artist": "Blacklolita"
+    },
+    "31087": {
+      "song_id": "31087",
+      "filename": "31087.mp3",
+      "title": "電光",
+      "alt_titles": [
+        "DENKO"
+      ],
+      "genre": "BUCHIAGE TRANCE",
+      "artist": "Yuta Imai"
+    },
+    "31088": {
+      "song_id": "31088",
+      "filename": "31088.mp3",
+      "title": "Hat Surprise (Season 3)",
+      "alt_titles": ["Hat Surprise 3"],
+      "genre": "UK HARDCORE",
+      "artist": "Hommarju"
+    },
+    "31089": {
+      "song_id": "31089",
+      "filename": "31089.mp3",
+      "title": "i-ii",
+      "alt_titles": [],
+      "genre": "HITECH NHI FULLON",
+      "artist": "かめりあ"
+    },
+    "31090": {
+      "song_id": "31090",
+      "filename": "31090.mp3",
+      "title": "Red Determination",
+      "alt_titles": [],
+      "genre": "HARDCORE",
+      "artist": "RoughSketch"
+    },
+    "31091": {
+      "song_id": "31091",
+      "filename": "31091.mp3",
+      "title": "Sirius",
+      "alt_titles": [],
+      "genre": "COLOUR BASS",
+      "artist": "MK"
+    },
+    "31092": {
+      "song_id": "31092",
+      "filename": "31092.mp3",
+      "title": "Hard Breaker",
+      "alt_titles": [],
+      "genre": "HARD TRANCE",
+      "artist": "Nhato"
+    },
+    "31093": {
+      "song_id": "31093",
+      "filename": "31093.mp3",
+      "title": "Get Wicked",
+      "alt_titles": [],
+      "genre": "BIG BEAT",
+      "artist": "Maozon"
+    },
+    "31097": {
+      "song_id": "31097",
+      "filename": "31097.mp3",
+      "title": "デビルじゃないもん",
+      "alt_titles": [
+        "(Not) A Devil"
+      ],
+      "genre": "IIDX EDITION",
+      "artist": "Remixed by BlackY feat. Risa Yuzuki"
+    },
+    "31098": {
+      "song_id": "31098",
+      "filename": "31098.mp3",
+      "title": "可愛くてごめん",
+      "alt_titles": [
+        "KAWAIKUTE GOMEN"
+      ],
+      "genre": "IIDX EDITION",
+      "artist": "Remixed by MK feat. 紫咲ほたる"
+    },
+    "31099": {
+      "song_id": "31099",
+      "filename": "31099.mp3",
+      "title": "フォニイ",
+      "alt_titles": [
+        "Phony"
+      ],
+      "genre": "IIDX EDITION",
+      "artist": "Remixed by Pizuya's Cell"
+    },
+    "31100": {
+      "song_id": "31100",
+      "filename": "31100.mp3",
+      "title": "唱",
+      "alt_titles": [
+        "Show"
+      ],
+      "genre": "J-POP",
+      "artist": "Ado"
+    },
+    "31101": {
+      "song_id": "31101",
+      "filename": "31101.mp3",
+      "title": "勇者",
+      "alt_titles": [
+        "The Brave"
+      ],
+      "genre": "IIDX EDITION",
+      "artist": "Remixed by OSTER project feat. そらこ"
+    },
+    "31102": {
+      "song_id": "31102",
+      "filename": "31102.mp3",
+      "title": "マーシャル・マキシマイザー",
+      "alt_titles": [
+        "Marshall Maximizer"
+      ],
+      "genre": "IIDX EDITION",
+      "artist": "Remixed by uno(IOSYS) feat. Chiyoko"
+    },
+    "31103": {
+      "song_id": "31103",
+      "filename": "31103.mp3",
+      "title": "雫",
+      "alt_titles": [
+        "SHIZUKU"
+      ],
+      "genre": "LAMENTO",
+      "artist": "あさき"
+    },
+    "31104": {
+      "song_id": "31104",
+      "filename": "31104.mp3",
+      "title": "squall",
+      "alt_titles": [],
+      "genre": "DRUM'N'BASS",
+      "artist": "猫叉Master+"
+    },
+    "31105": {
+      "song_id": "31105",
+      "filename": "31105.mp3",
+      "title": "BLAZING_LAZER",
+      "alt_titles": [],
+      "genre": "BURNING RAVE",
+      "artist": "brz1128"
+    },
+    "31106": {
+      "song_id": "31106",
+      "filename": "31106.mp3",
+      "title": "CODE:2",
+      "alt_titles": [],
+      "genre": "HARD TECHNO",
+      "artist": "HEXA"
+    },
+    "31107": {
+      "song_id": "31107",
+      "filename": "31107.mp3",
+      "title": "残像ニ繋ガレタ追憶ノHIDEAWAY",
+      "alt_titles": [
+        "Zanzou ni Tsunagareta Tsuioku no HIDEAWAY"
+      ],
+      "genre": "HYPER DIG!ROCK",
+      "artist": "SOUND HOLIC Vs. BEMANI Sound Team \"KE!JU\" feat. Nana Takahashi"
+    },
+    "31108": {
+      "song_id": "31108",
+      "filename": "31108.mp3",
+      "title": "PILGRIM",
+      "alt_titles": [],
+      "genre": "TRAP",
+      "artist": "crayvxn"
+    },
+    "31109": {
+      "song_id": "31109",
+      "filename": "31109.mp3",
+      "title": "NEEDLESS MY LOVE FOR YOU",
+      "alt_titles": [],
+      "genre": "ROCK",
+      "artist": "Pizuya's Cell"
+    },
+    "31110": {
+      "song_id": "31110",
+      "filename": "31110.mp3",
+      "title": "Akatsuki",
+      "alt_titles": [],
+      "genre": "LOUD TRAP",
+      "artist": "PRIDASK"
+    },
+    "31111": {
+      "song_id": "31111",
+      "filename": "31111.mp3",
+      "title": "So What",
+      "alt_titles": [],
+      "genre": "BASS HOUSE",
+      "artist": "PRIDASK"
+    },
+    "31112": {
+      "song_id": "31112",
+      "filename": "31112.mp3",
+      "title": "ラビットホール",
+      "alt_titles": [
+        "Rabbit Hole"
+      ],
+      "genre": "J-POP",
+      "artist": "DECO*27"
+    },
+    "31113": {
+      "song_id": "31113",
+      "filename": "31113.mp3",
+      "title": "愛包ダンスホール",
+      "alt_titles": [
+        "Heart Pie Dancehall"
+      ],
+      "genre": "J-POP",
+      "artist": "HIMEHINA"
+    },
+    "31115": {
+      "song_id": "31115",
+      "filename": "31115.mp3",
+      "title": "Seven Times Four",
+      "alt_titles": [],
+      "genre": "UK HARDCORE",
+      "artist": "Hommarju"
+    },
+    "31116": {
+      "song_id": "31116",
+      "filename": "31116.mp3",
+      "title": "T.R.O.L.L.",
+      "alt_titles": ["troll"],
+      "genre": "RAWSTYLE",
+      "artist": "Yuta Imai"
+    },
+    "31117": {
+      "song_id": "31117",
+      "filename": "31117.mp3",
+      "title": "The Onlyonez",
+      "alt_titles": [],
+      "genre": "FRENCHCORE",
+      "artist": "RoughSketch"
+    },
+    "31118": {
+      "song_id": "31118",
+      "filename": "31118.mp3",
+      "title": "リメンバーリメンバー",
+      "alt_titles": [
+        "Remember remember"
+      ],
+      "genre": "RAINY WALTZ",
+      "artist": "rino & m@sumi from plastic penguin"
+    },
+    "31119": {
+      "song_id": "31119",
+      "filename": "31119.mp3",
+      "title": "未完成ノ蒸氣驅動乙女",
+      "alt_titles": [
+        "An Uncompleted Steam Locomotive Girl"
+      ],
+      "genre": "ORBITAL STEAMPUNK",
+      "artist": "U1 overground"
+    },
     "01000": {
       "song_id": "01000",
       "filename": "01000.mp3",
