@@ -17,7 +17,7 @@ RUN python -m pip install wheel poetry==1.7.1 && \
     poetry install --without dev,test && rm -rf $POETRY_CACHE_DIR
 
 COPY src ./src
-RUN mkdir ./src/resources/songs && \
+RUN mkdir -p ./src/resources/songs && \
     poetry install --without dev,test --no-root
 
 EXPOSE 8000
