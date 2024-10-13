@@ -24,6 +24,7 @@ def song_data_schema__30000():
         "alt_titles": "",
         "genre": "HARD BODY MUSIC",
         "artist": 'BEMANI Sound Team "L.E.D. Sota F."& Starbitz',
+        "game_version": 30
     }
     return schema
 
@@ -37,6 +38,7 @@ def song_data_schema__07032():
         "alt_titles": "",
         "genre": "HOUSE",
         "artist": "D.JW",
+        "game_version": 7
     }
     return schema
 

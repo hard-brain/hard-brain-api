@@ -18,9 +18,14 @@ songs_dir = set(
 )
 
 
-def _load_song_ids() -> List:
+def _load_song_ids(specific_versions: set[int] = None) -> List:
+    PREVIOUS_VERSION = 32
+    return_all_ids = specific_versions is None or len(specific_versions) == 0 or specific_versions == set(range(1, PREVIOUS_VERSION + 1))
     with SessionLocal() as db:
-        return list(crud.get_all_song_ids(db))
+        if return_all_ids:
+            return list(crud.get_all_song_ids(db))
+        else:
+            return list(crud.get_specific_song_ids(db, specific_versions))
 
 
 def _check_song_exists(key: str) -> bool:
@@ -32,15 +37,19 @@ def _check_song_exists(key: str) -> bool:
     return key in songs_dir
 
 
-def get_random_song(number_of_songs: PositiveInt):
+def get_random_song(number_of_songs: PositiveInt, specific_versions: str = ""):
     """
     Returns a list of random songs' data from the song data JSON file.
+    If specific_versions is a string of comma-separated integers, return only songs from those versions
     :return: Dictionary of song data
     """
-    song_data = _load_song_ids()
+    if specific_versions != "":
+        song_data = _load_song_ids(set(specific_versions.split(',')))
+    else:
+        song_data = _load_song_ids()
 
     def yield_song(limit: PositiveInt, max_retries=10):
-        for i in range(limit):
+        for _ in range(limit):
             key = None
             retries = 0
             song_id = "None"

@@ -8,3 +8,4 @@ class Song(SQLModel, table=True):
     alt_titles: str | None = None
     genre: str
     artist: str
+    game_version: int
