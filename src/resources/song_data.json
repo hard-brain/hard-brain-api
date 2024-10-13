@@ -2776,7 +2776,7 @@
       "song_id": "17017",
       "filename": "17017.mp3",
       "title": "\u30ef\u30eb\u30c4\u7b2c17\u756a \u30c8\u77ed\u8abf\u201d\u5927\u72ac\u306e\u30ef\u30eb\u30c4\u201d",
-      "alt_titles": ["VALSE DU GRANDE CHIEN", "VALSE"],
+      "alt_titles": ["VALSE DU GRANDE CHIEN", "VALSE", "big dog waltz"],
       "genre": "VALSE",
       "artist": "virkato",
       "game_version": 17
@@ -13640,7 +13640,7 @@
       "song_id": "31043",
       "filename": "31043.mp3",
       "title": "\u6469\u5929\u697c",
-      "alt_titles": ["MATENRO"],
+      "alt_titles": ["MATENRO", "Julianne"],
       "genre": "VALHALLASTEP",
       "artist": "Julianne",
       "game_version": 31
