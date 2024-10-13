@@ -28,8 +28,8 @@ def read_root():
 
 
 @app.get("/question")
-def get_random_question(number_of_songs: PositiveInt = 1):
-    return get_random_song(number_of_songs)
+def get_random_question(number_of_songs: PositiveInt = 1, version_string: str = ""):
+    return get_random_song(number_of_songs, version_string)
 
 
 @app.get("/song/{song_id}")

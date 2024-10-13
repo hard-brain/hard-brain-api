@@ -37,14 +37,14 @@ def _check_song_exists(key: str) -> bool:
     return key in songs_dir
 
 
-def get_random_song(number_of_songs: PositiveInt, specific_versions: str = ""):
+def get_random_song(number_of_songs: PositiveInt, specific_versions: str):
     """
     Returns a list of random songs' data from the song data JSON file.
     If specific_versions is a string of comma-separated integers, return only songs from those versions
     :return: Dictionary of song data
     """
-    if specific_versions != "":
-        song_data = _load_song_ids(set(specific_versions.split(',')))
+    if specific_versions:
+        song_data = _load_song_ids(set(map(int, specific_versions.split(','))))
     else:
         song_data = _load_song_ids()
 

@@ -40,7 +40,7 @@ def get_all_song_ids(db: Session):
 
 def get_specific_song_ids(db: Session, specific_versions: set[int] = None):
     song_id_pattern = re.compile(r"([0-9]{5})")
-    all_song_ids = list(db.query(models.Song.song_id).filter(models.Song.game_version in specific_versions).all())
+    all_song_ids = list(db.query(models.Song.song_id).filter(models.Song.game_version.in_(specific_versions)).all())
     return [song_id_pattern.search(str(song)).group(1) for song in all_song_ids]
 
 

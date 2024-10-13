@@ -70,3 +70,21 @@ def test_get_song_by_song_id_fails(client):
 def test_get_audio_by_song_id_fails_invalid_id(client):
     response = client.get("/audio/99999")
     assert response.status_code == 404
+
+
+def test_get_question(client):
+    response = client.get("/question")
+    assert response.status_code == 200
+    assert len(response.json()) == 1
+
+
+def test_get_question_with_params(client):
+    response = client.get(f"/question?number_of_songs=10&version_string=1,23,5,6,7")
+    assert response.status_code == 200
+
+    response_json = response.json()
+    assert len(response_json) == 10
+
+    expected = set((1, 23, 5, 6 ,7))
+    for actual in response_json:
+        assert int(actual["game_version"]) in expected
