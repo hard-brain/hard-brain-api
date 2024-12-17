@@ -58,7 +58,7 @@
       "song_id": "10010",
       "filename": "10010.mp3",
       "title": "CARRY ON NIGHT (English version)",
-      "alt_titles": [],
+      "alt_titles": ["CARRY ON NIGHT"],
       "genre": "EUROBEAT",
       "artist": "platoniX (EURO style)",
       "game_version": 10
@@ -5877,7 +5877,7 @@
       "song_id": "22035",
       "filename": "22035.mp3",
       "title": "\uff38\u2191\uff38\u2193",
-      "alt_titles": ["X7XL"],
+      "alt_titles": ["X7XL", "x up x down"],
       "genre": "\u65b0\u4e16\u7d00\u9032\u6b69\u7684\u7fbd\u6247\u5b50\u97f3\u697d",
       "artist": "DJ TECHNORCH",
       "game_version": 22
@@ -6210,7 +6210,7 @@
       "song_id": "22080",
       "filename": "22080.mp3",
       "title": "We're so Happy (P*Light Remix) IIDX ver.",
-      "alt_titles": [],
+      "alt_titles": ["We're so Happy"],
       "genre": "HAPPY HARDCORE",
       "artist": "Remixed by P*Light",
       "game_version": 22
@@ -11297,7 +11297,7 @@
       "song_id": "28098",
       "filename": "28098.mp3",
       "title": "BEMANI PRO LEAGUE Theme",
-      "alt_titles": [],
+      "alt_titles": ["BPL theme", "BEMANI POLAND theme"],
       "genre": "BPL EDM",
       "artist": "BEMANI Sound Team \"Sota F.\"",
       "game_version": 28
@@ -15710,7 +15710,7 @@
       "song_id": "09037",
       "filename": "09037.mp3",
       "title": "rottel-the-Mercury",
-      "alt_titles": [],
+      "alt_titles": ["rottel-da-mercury"],
       "genre": "GABBA",
       "artist": "sampling masters MEGA",
       "game_version": 9
