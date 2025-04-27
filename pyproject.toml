@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "hard-brain-api"
-version = "0.2.6"
+version = "0.2.7"
 description = "A service for song quizzes for Beatmania IIDX music."
 authors = ["Corndogit <admin@corndogit.dev>"]
 readme = "README.md"
